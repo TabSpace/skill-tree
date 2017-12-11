@@ -108,7 +108,7 @@
 	- 代码规范
 		- [airbnb](https://github.com/airbnb/javascript)
 		- [standard](https://github.com/standard/standard)
-		- [代码格式化 prettier](https://github.com/prettier/prettier)
+		- [prettier](https://github.com/prettier/prettier) 代码格式化
 		- [idomatic](https://github.com/rwaldron/idiomatic.js)
 		- [google styleguide](https://github.com/google/styleguide)
 	- css规范
@@ -271,7 +271,91 @@
 
 ### Node
 
+- 规范
+	- [用JSON构建API的标准指南](http://jsonapi.org.cn/)
+- [npm](https://npmjs.org/)
+	- [npm的package.json中文文档](https://github.com/ericdum/mujiang.info/issues/6)
+	- [淘宝npm镜像](http://npm.taobao.org/)
+	- [yarn](https://github.com/yarnpkg)
+	- [npm-runkit](https://npm.runkit.com/)
+	- [npms.io](npm模块搜索)
+- 资源
+	- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+	- [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
+- 运维
+	- [pm2 多进程管理](https://github.com/Unitech/PM2/)
+- 工具
+	- execa 命令执行 child_process
+	- node-svn-ultimate svn操作
+	- hotload
+		- [nodemon](https://github.com/remy/nodemon) 监听文件重启服务
+		- [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
+- 即时通讯
+	- [websockets/ws](https://github.com/websockets/ws) 更好的websocket库
+- 框架
+	- [thinkjs](https://github.com/thinkjs/thinkjs)
+	- [koa](http://koajs.com/)
+	- [express](http://expressjs.com/zh-cn/)
+		- [express中文文档](http://expressjs.jser.us/)
+		- [helmet](https://github.com/helmetjs/helmet) 安全中间件
+		- [cors](https://github.com/expressjs/cors) 中间件
+- 自动化
+	- [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
+	- [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
+
 ### 生态
+
+- [jquery](http://jquery.com/)
+	- [jquery-ui](https://jqueryui.com/)
+- [react](https://facebook.github.io/react/)
+	- 教程与学习
+		- [react技术栈教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html) 阮一峰版
+		- [react-china](http://react-china.org/)
+	- ui框架
+		- [ant-design](https://github.com/ant-design/ant-design)
+		- [element react](https://github.com/eleme/element-react)
+	- 替代品
+		- [anu](https://github.com/RubyLouvre/anu)
+		- [preact](https://github.com/developit/preact/) 轻量级react
+	- ssr
+		- [reactphp](https://github.com/reactphp/react)
+	- 工程
+		- [jest](https://github.com/facebook/jest) 测试工具
+		- [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
+		- [create-react-app](https://github.com/facebookincubator/create-react-app)
+- [angular](https://angularjs.org/)
+	- [angular 中文社区](http://www.angularjs.cn/)
+	- [ngDialog](https://github.com/likeastore/ngDialog)
+- [vue](http://vuejs.org/)
+	- [awesome-vue](https://github.com/vuejs/awesome-vue)
+	- ui
+		- [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
+		- [mint ui](https://github.com/ElemeFE/mint-ui) 适用于移动端
+	- ssr
+		- [vue ssr](https://ssr.vuejs.org/zh/)
+		- [nuxt](https://github.com/nuxt/nuxt.js)
+		- [ream](https://github.com/ream/ream)
+		- [vue-php](https://github.com/Joe3Ray/vue-php) php渲染 vue
+	- 工程
+		- [lavas vue pwa](https://github.com/lavas-project/lavas)
+		- [bowl](https://github.com/ElemeFE/bowl/) 初始文件 localstorage 缓存
+		- [vue-router](https://github.com/vuejs/vue-router)
+		- [vue-cli](https://github.com/vuejs/vue-cli)
+- jsapp
+	- [weex](https://github.com/apache/incubator-weex) vue移动app
+	- [electron](https://github.com/electron/electron) 桌面app
+- fastpage
+	- [amp](https://www.ampproject.org/) 来自谷歌
+		- [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
+	- [mip](https://www.mipengine.org/) 来自百度
+- spa
+	- [prerender](https://prerender.io/)
+- 函数式
+	- [cycle](https://github.com/cyclejs/cyclejs/)
+		- [cycle.js.org](https://cycle.js.org/)
+		- [cyclejs.cn](http://cyclejs.cn/)
+	- [rxjs 事件流](https://github.com/Reactive-Extensions/RxJS)
+		- [rxjs](https://github.com/ReactiveX/RxJS)
 
 ### 工具
 
