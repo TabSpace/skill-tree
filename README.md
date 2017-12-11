@@ -431,15 +431,98 @@
 		- [codepen](http://codepen.io/)
 		- [jsfiddler](https://jsfiddle.net/)
 
-### 微信小程序
+### [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474887496775)
+
+- [spore-kit-wapp](https://www.npmjs.com/package/spore-kit-wapp) 个人工具，视图组件封装
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- 图表
+	- [wx-charts](https://github.com/xiaolin3303/wx-charts)
+- 框架
+	- [wepy](https://github.com/wepyjs/wepy)
 
 ### 安全
 
+- [html xss cheatsheet](https://github.com/cure53/H5SC)
+- [xss](http://baike.baidu.com/item/XSS%E6%94%BB%E5%87%BB)
+- [csrf](http://baike.baidu.com/item/csrf)
+- [ddos](http://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/3802159?fromtitle=DDOS&fromid=444572)
+- 简单攻击方式--刷票
+	- [voteRobot](https://github.com/debugtalk/VoteRobot)
+
 ### 算法
+
+- 寻路算法
+	- [path-finding](https://github.com/qiao/PathFinding.js)
+- deeplearning
+	- [deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
+	- [neurojs](https://github.com/janhuenermann/neurojs)
+	- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+- 人工智能
+	- [深度学习阅读路线图](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+	- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+	- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- [tensorflow](https://github.com/tensorflow)
 
 ### 通用
 
+- github
+	- 工具
+		- [github trending](https://github.com/trending?l=javascript) javascript 热门趋势
+		- [github showcases](https://github.com/showcases/) 开源范例
+		- [github explorer](https://github.com/explore) 资源浏览器
+		- [静态站点搭建](https://pages.github.com/)
+		- 持续集成 travis
+			- [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
+	- 文章
+		- [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
+		- [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+		- [如何为开源做贡献](https://guides.github.com/activities/contributing-to-open-source/index.html)
+		- [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)
+		- [少有人知的github使用技巧](https://segmentfault.com/a/1190000000475547)
+		- [GitHub 漫游指南](https://github.com/phodal/github-roam)
+		- [果壳中的git](https://github.com/geeeeeeeeek/git-recipes/wiki)
+		- [为开源项目弄个漂亮的文档](https://laravel-china.org/topics/1965/how-to-get-a-good-document-for-your-open-source-projects)
+	- 第三方工具
+		- [Astral](https://app.astralapp.com/dashboard) 资源管理工具
+		- [waffle](https://waffle.io/) 把issue变成任务管理器
+- 学习资源
+	- [w3schools](http://www.w3schools.com/)
+		- [中文站](http://www.w3school.com.cn/)
+	- [Mozilla MDN](https://developer.mozilla.org/zh-CN/)
+- 培训
+	- [JS入门](http://shichuan.github.io/javascript-patterns/)
+	- [面试题](https://github.com/jackqqxu/FE-interview)
+	- [慕课网](http://www.imooc.com/)
+	- [laravel 视频教程](https://www.laravist.com/)
+- 外包
+	- [coding 码市](https://mart.coding.net/)
+- 其他
+	- [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
 ### 建站
+
+- 统计
+	- 数据可视化
+		- [bdp](https://me.bdp.cn/home.html)
+	- 站点统计
+		- [baidu](http://tongji.baidu.com/)
+		- [qq mta](http://mta.qq.com/)
+		- [友盟](http://www.umeng.com/)
+	- 文章
+		- [如何使用第三方统计工具](http://e.qq.com/faq/list074.html)
+- 数据库
+	- [FireBase](https://firebase.google.com/)
+- apache/nginx
+	- apache
+		- [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
+- php
+	- [smarty](http://www.smarty.net/)
+	- [php之道](http://wulijun.github.io/php-the-right-way/)
+	- [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
+- 代码托管
+	- [coding.net](https://coding.net/user)
+- 个人博客搭建
+	- [hexo](https://hexo.io/)
 
 ### 其他
 
