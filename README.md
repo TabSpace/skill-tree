@@ -74,12 +74,6 @@
 - transform
 	- [Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
 	- [理解矩阵](http://blog.csdn.net/pizi0475/article/details/5440136)
-- 预编译
-	- [less](http://www.lesscss.net/)
-		- [less tester 代码测试](http://lesstester.com/)
-	- [sass](http://sass-lang.com/)
-		- [sass中文参考手册](http://sass.bootcss.com/docs/sass-reference/)
-		- [sass用法指南 - 阮一峰版](http://www.ruanyifeng.com/blog/2012/06/sass.html)
 
 ### 语言
 
@@ -105,8 +99,90 @@
 - js坑
 	- [wtf js](https://github.com/denysdovhan/wtfjs)
 
-
 ### 前端工程化
+- 参考
+	- [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
+	- [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+- 开发规范
+	- [isobar 前端代码规范](http://coderlmn.github.io/code-standards/)
+	- 代码规范
+		- [airbnb](https://github.com/airbnb/javascript)
+		- [standard](https://github.com/standard/standard)
+		- [代码格式化 prettier](https://github.com/prettier/prettier)
+		- [idomatic](https://github.com/rwaldron/idiomatic.js)
+		- [google styleguide](https://github.com/google/styleguide)
+	- css规范
+		- [BEM 规范](http://getbem.com/)
+		- [bootcss 编码规范（html, css）](http://codeguide.bootcss.com/)
+		- [smacss](https://smacss.com/)
+	- 代码增强
+		- [flow](https://github.com/facebook/flow)
+			- [flow 介绍](http://www.alloyteam.com/2015/07/flow-a-static-type-checker-for-javascript-from-facebook/)
+	- lint
+		- [eslint](https://github.com/eslint/eslint)
+- 图标与字体
+	- [字蛛：智能 WebFont 压缩工具](https://github.com/aui/font-spider)
+	- [font-awesome：开源图标字体库](http://fontawesome.io/)
+	- [阿里巴巴矢量图标库](http://iconfont.cn/)
+	- [icoMoon](https://icomoon.io/)
+	- [fontmin](https://github.com/ecomfe/fontmin)
+	- [one div](http://one-div.com/)
+	- [a single div](http://a.singlediv.com/)
+- 预处理
+	- [less](http://www.lesscss.net/)
+		- [less tester 代码测试](http://lesstester.com/)
+	- [sass](http://sass-lang.com/)
+		- [sass中文参考手册](http://sass.bootcss.com/docs/sass-reference/)
+		- [sass用法指南 - 阮一峰版](http://www.ruanyifeng.com/blog/2012/06/sass.html)
+		- [sass兼容性问题](https://sass-compatibility.github.io/)
+		- [sass书写风格指导](https://sass-guidelin.es/)
+	- js
+		- [prepack](https://github.com/facebook/prepack)
+		- [babel](https://babeljs.io/)
+- 双屏开发支持
+	- [BrowserSync](https://browsersync.io/) 浏览器代码实时同步
+		- [中文官网](http://www.browsersync.cn/)
+- 开发环境集成工具
+	- 代理
+		- [nproxy 静态文件代理](https://github.com/goddyZhao/nproxy)
+		- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
+		- [anyproxy 阿里巴巴代理工具](https://github.com/alibaba/anyproxy)
+	- 数据模拟
+		- 图片占位
+			- [placehold](http://placehold.it/)
+			- [fakeimg](http://fakeimg.pl/)
+		- [json generator](http://beta.json-generator.com/)
+		- [mock.js](https://github.com/nuysoft/Mock)
+		- [rap](https://github.com/thx/RAP) 阿里 java mock server
+		- [json server](https://github.com/typicode/json-server)
+		- [swagger](https://swagger.io/)
+		- [spore-mock](https://github.com/SporeUI/spore-mock)
+	- 持续集成
+		- [jenkins](https://jenkins.io/)
+- 项目模板
+	- [yeoman](http://yeoman.io/)
+- 任务管理
+	- [gulp](http://gulpjs.com/)
+	- [grunt](http://gruntjs.com/)
+- 打包
+	- [webpack](https://webpack.github.io/)
+		- plugins
+			- [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+			- [progress-bar-webpack-plugin](https://www.npmjs.com/package/progress-bar-webpack-plugin)
+			- [extract-text-webpack-plugin](https://www.npmjs.com/package/extract-text-webpack-plugin)
+		- 文章
+			- [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
+			- [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
+			- [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
+	- [rollup](http://rollupjs.org/) 适合纯粹js打包
+	- [fis](http://fis.baidu.com/)
+		- [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
+- 调试与测试
+	- [saucelabs 开放测试平台](https://saucelabs.com/)
+	- [vConsole](https://github.com/WechatFE/vConsole)
+- 日志管理
+	- [sentry](https://github.com/getsentry/sentry)
+	- [BetterJS](https://github.com/BetterJS) 原名 BadJS
 
 ### 框架与库
 
