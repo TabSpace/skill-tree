@@ -61,7 +61,50 @@
 
 ### css
 
+- 资源
+	- [css tricks](https://css-tricks.com/css/) css技巧获取
+- flex 弹性布局
+	- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+	- [flex bug 列表](https://github.com/philipwalton/flexbugs)
+- [gradients 渐变](https://drafts.csswg.org/css-images-3/)
+- [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
+- 其他
+	- [css3不为人知的高级属性](http://www.cnblogs.com/radom/archive/2012/04/19/2457356.html)
+	- [一些试验性css属性](http://www.cnblogs.com/html5salon/archive/2012/06/13/2547798.html)
+- transform
+	- [Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
+	- [理解矩阵](http://blog.csdn.net/pizi0475/article/details/5440136)
+- 预编译
+	- [less](http://www.lesscss.net/)
+		- [less tester 代码测试](http://lesstester.com/)
+	- [sass](http://sass-lang.com/)
+		- [sass中文参考手册](http://sass.bootcss.com/docs/sass-reference/)
+		- [sass用法指南 - 阮一峰版](http://www.ruanyifeng.com/blog/2012/06/sass.html)
+
 ### 语言
+
+- [javascript标准参考 阮一峰版](http://javascript.ruanyifeng.com/)
+- [js 与 dom 参考(w3schools)](http://www.w3schools.com/jsref/)
+- es6
+	- [ECMAScript6入门](http://es6.ruanyifeng.com/)
+	- [es6浏览器适配表](http://kangax.github.io/compat-table/es6/)
+	- [webpack es6 浏览器兼容](https://segmentfault.com/a/1190000005128101)
+- es5
+	- [es5浏览器适配表](http://kangax.github.io/compat-table/es5/)
+- polyfill
+	- [Promise](https://github.com/taylorhakes/promise-polyfill)
+	- [es5-shim](https://github.com/es-shims/es5-shim)
+	- [fetch](https://github.com/github/fetch)
+- lua
+	- [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
+- [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
+- 正则表达式
+	- [正则表达式回溯法原理](https://mp.weixin.qq.com/s/sT8kQkfLDvB1ahoJ6Ss0Uw)
+- shell
+	- [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+- js坑
+	- [wtf js](https://github.com/denysdovhan/wtfjs)
+
 
 ### 前端工程化
 
