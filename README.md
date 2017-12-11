@@ -44,7 +44,7 @@
 			- [khronos webgl wiki](https://www.khronos.org/webgl/wiki/Main_Page)
 		- [让canvas像flash一样工作](https://my.oschina.net/cmw/blog/14963)
 		- [canvas截图](https://tech.colla.me/zh/show/screenshot_feedback_implementation)
-			- rasterizeHTML(https://github.com/cburgmer/rasterizeHTML.js)
+			- [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
 	- svg
 		- [使用脚本动态操作 SVG 文档](https://www.ibm.com/developerworks/cn/xml/x-svgscript/)
 		- [mdn svg教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
@@ -185,6 +185,89 @@
 	- [BetterJS](https://github.com/BetterJS) 原名 BadJS
 
 ### 框架与库
+
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 资源集合
+- [SporeUI](https://github.com/SporeUI) 个人工具库
+- 模板引擎
+	- [pug](https://pugjs.org/)
+		- [pug-loader](https://github.com/pugjs/pug-loader)
+		- [jade2php](https://github.com/SE7ENSKY/jade2php)
+		- [learn jade](http://learnjade.com/) 代码测试
+		- [jade 中文说明](http://expressjs.jser.us/jade.html)
+- [数据可视化](https://github.com/showcases/data-visualization)
+	- [d3](https://github.com/d3/d3)
+	- [chart.js](https://github.com/chartjs/Chart.js)
+	- [highcharts](https://github.com/highcharts/highcharts)
+	- [echart](https://github.com/ecomfe/echarts)
+- 路由
+	- [page](https://github.com/visionmedia/page.js)
+	- [history](https://github.com/browserstate/history.js)
+- 文件上传
+	- [fineuploader](https://github.com/FineUploader/fine-uploader)
+	- [plupload](https://github.com/moxiecode/plupload)
+	- [jquery file upload](https://github.com/blueimp/jQuery-File-Upload)
+- UI
+	- dialog
+		- 适用pc
+			- [artDialog](https://github.com/aui/artDialog)
+		- 均可
+			- [sweetalert](https://github.com/t4t5/sweetalert)
+			- [vex](https://github.com/HubSpot/vex)
+			- [layer](https://github.com/sentsin/layer)
+	- [sortable](https://github.com/RubaXa/Sortable)
+	- 集合
+		- [framework7](http://framework7.io/)
+			- [framework7-taobao](http://framework7.taobao.org/)
+			- [msui-taobao](http://m.sui.taobao.org/components/)
+		- [foundation](https://github.com/zurb/foundation-sites)
+		- [amaze ui](https://github.com/amazeui/amazeui) 重视动画交互
+		- [flat ui](https://github.com/designmodo/Flat-UI) 扁平化
+		- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+		- [bootstrap](https://github.com/twbs/bootstrap)
+			- [bootstrap中文网](http://v3.bootcss.com/)
+		- [layer UI](https://github.com/sentsin/layui/) 原生代码框架
+		- [weui](https://github.com/weui/weui) 微信风格
+		- [spectre](https://github.com/picturepan2/spectre)
+- 工具与架构
+	- [redux](https://github.com/reactjs/redux)
+		- [redux-devtools](https://github.com/gaearon/redux-devtools)
+	- [js-cookie](https://github.com/js-cookie/js-cookie)
+	- [lodash](https://lodash.com/) 工具函数库
+	- [step](https://github.com/creationix/step) 流程控制
+	- [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
+- 多媒体展示
+	- [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) 加载图片并缩放
+	- [viewerjs](https://github.com/fengyuanchen/viewerjs) 图片展示jquery插件
+	- 图片裁剪
+		- [jcrop](https://github.com/tapmodo/Jcrop/)
+		- [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪jquery插件
+			- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+		- [swiper](https://github.com/nolimits4web/Swiper) 幻灯，h5slides
+	- [video.js](https://github.com/videojs/video.js) 视频
+- 动画
+	- [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动
+	- [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
+- js动画引擎
+	- [白鹭引擎](http://developer.egret.com/cn/)
+	- [cocos2d](https://github.com/cocos2d/)
+- 3d引擎
+	- [sketchfab](https://sketchfab.com/)
+	- [BabylonJS](https://github.com/BabylonJS/Babylon.js)
+		- [doc](http://doc.babylonjs.com/)
+		- [editor](http://editor.babylonjs.com/)
+			- [intro](https://medium.com/babylon-js/welcome-to-the-babylon-js-editor-c08dccdcec07)
+	- [three.js](https://github.com/mrdoob/three.js)
+		- [ar.js](https://github.com/jeromeetienne/AR.js)
+		- [three.ar.js](https://github.com/google-ar/three.ar.js)
+- 其他库
+	- [ua-device](https://github.com/fex-team/ua-device) UA解析
+	- [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
+	- [JSPatch](https://github.com/bang590/JSPatch) 封装js与ios交互
+	- [city](https://github.com/basecss/city) 国家行政区划分数据
+	- [moment](http://momentjs.cn/) 时间日期处理
+	- [kibo](https://github.com/marquete/kibo) 键盘事件绑定
+	- [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
+
 
 ### Node
 
