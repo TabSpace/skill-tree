@@ -31,6 +31,34 @@
 
 ### html
 
+- [hml5目录](http://html5index.org/)
+	- [orientation 重力感应](http://w3c.github.io/deviceorientation/spec-source-orientation.html)
+	- [html5rocks](https://www.html5rocks.com/en/) 各种demo
+	- video
+		- [video events and api](https://www.w3.org/2010/05/video/mediaevents.html)
+	- canvas
+		- [mdn canvas](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+		- [w3school canvas](http://www.w3schools.com/tags/ref_canvas.asp)
+		- [webgl](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+			- [opengl](https://www.opengl.org/)
+			- [khronos webgl wiki](https://www.khronos.org/webgl/wiki/Main_Page)
+		- [让canvas像flash一样工作](https://my.oschina.net/cmw/blog/14963)
+		- [canvas截图](https://tech.colla.me/zh/show/screenshot_feedback_implementation)
+			- rasterizeHTML(https://github.com/cburgmer/rasterizeHTML.js)
+	- svg
+		- [使用脚本动态操作 SVG 文档](https://www.ibm.com/developerworks/cn/xml/x-svgscript/)
+		- [mdn svg教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
+		- [svg线条动画 vivus](https://github.com/maxwellito/vivus)
+	- [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share)
+- webapp
+	- [android webapp](https://developer.android.com/guide/webapps/index.html)
+- meta
+	- [meta元素整理](https://segmentfault.com/a/1190000002407912)
+- 图片
+	- [渐进式jpeg](http://blog.jobbole.com/44038/)
+	- [知乎的模糊预览](https://www.zhihu.com/question/55622930)
+- [webassembly](http://webassembly.org/)
+
 ### css
 
 ### 语言
