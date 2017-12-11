@@ -359,6 +359,78 @@
 
 ### 工具
 
+- 在线服务
+	- [七牛云 - 免费CDN服务，图片上传](http://www.qiniu.com/)
+	- [语音识别，人脸识别 - 科大讯飞](http://www.xfyun.cn/)
+	- [腾讯文智中文语义平台](http://nlp.qq.com/)
+	- [讯飞开放平台](http://www.xfyun.cn/)
+	- [讯飞语音服务](http://www.xfyun.cn/)
+- [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
+- [unicode 图表字符集合](http://www.unicode.org/charts/)
+- [各个CDN服务提供的静态资源](https://cdnjs.com/)
+	- [通用CDN](https://unpkg.com/#/)
+- [在线JS代码格式化](http://tool.chinaz.com/Tools/JsFormat.aspx)
+- [给项目起名](http://mrsharpoblunto.github.io/foswig.js/)
+- [简繁转换](http://tool.chinaz.com/Tools/Gb_big.aspx)
+- 设计
+	- [sketch 轻量矢量设计工具](https://www.sketchapp.com/)
+		- [sketch 中文网](http://www.sketchcn.com/)
+	- [cutterman 图片裁剪](http://www.cutterman.cn/zh)
+- 协作
+	- [zeplin](https://www.zeplin.io/) 前端协作工具
+		- [介绍](http://36kr.com/p/5036576.html)
+	- [trello](https://trello.com/) 看板工具
+- 分享
+	- [asciinema](https://asciinema.org/) 终端命令行录制工具
+- [文件转base64](http://www.motobit.com/util/base64-decoder-encoder.asp)
+- 版本控制
+	- git
+		- [TortoiseGit](https://tortoisegit.org/) windows git可视化工具
+		- [git中文参考手册](http://gitref.org/zh/)
+		- [git bash](https://git-scm.com/)
+		- [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+		- [坑：换行符自动转换](https://github.com/cssmagic/blog/issues/22)
+		- [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
+	- svn
+		- [grunt-svn-workflow](https://www.npmjs.com/package/grunt-svn-workflow) 标准SVN操作流程自动化工具
+		- [tortoise svn](https://tortoisesvn.net/index.zh.html)
+			- [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
+		- [Linux下安装svn client](http://blog.csdn.net/kenera/article/details/5746585)
+- 命令行
+	- [cygwin](http://www.cygwin.cn/)
+	- [Oh My ZSH](http://ohmyz.sh/) 操作增强
+	- [tmux](https://github.com/tmux/tmux) 终端窗口复用
+- vpn 翻墙
+	- [express-vpn](https://www.xpress-vpn.net/)
+		- [express-cn](https://www.expresscn.net/)
+- 文档
+	- wiki
+		- [wiki语法说明](https://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2)
+	- markdown
+		- [markdown语法说明](http://wowubuntu.com/markdown/)
+		- [markdown语法示例](http://equation85.github.io/blog/markdown-examples/)
+		- [md 转静态站](https://github.com/AlloyTeam/omi/tree/master/md2site)
+	- [gitbook](https://github.com/GitbookIO/gitbook)
+		- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
+		- [gitbook 简明教程](http://www.chengweiyang.cn/gitbook/introduction/README.html)
+	- 文档撰写
+		- [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，不适合模块
+		- [jsdoc](https://github.com/jsdoc3/jsdoc) 部分格式陈旧，支持node生成方面不错
+			- [docdash](https://github.com/clenemt/docdash) 界面看起来比较舒服，移动端界面看起来不完善
+			- [documentation](https://github.com/documentationjs/documentation) 更加现代化
+		- [slate](https://github.com/lord/slate)
+		- [docute](https://github.com/egoist/docute) 便捷的单页文档，风格比较现代
+		- [docsify](https://github.com/QingWei-Li/docsify) wepy使用这个撰写了文档，看起来很舒服
+	- 编辑器
+		- [sublime](https://www.sublimetext.com/)
+			- [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
+		- [vim](http://www.vim.org/)
+			- [循序渐进学习 vim](http://coolshell.cn/articles/5426.html)
+	- 代码展示
+		- [jsbin](http://jsbin.com/?html,js,output)
+		- [codepen](http://codepen.io/)
+		- [jsfiddler](https://jsfiddle.net/)
+
 ### 微信小程序
 
 ### 安全
