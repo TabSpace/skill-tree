@@ -453,15 +453,14 @@
 
 - 寻路算法
 	- [path-finding](https://github.com/qiao/PathFinding.js)
-- deeplearning
-	- [deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
-	- [neurojs](https://github.com/janhuenermann/neurojs)
-	- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 - 人工智能
 	- [深度学习阅读路线图](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 	- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 	- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- [deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
+	- [neurojs](https://github.com/janhuenermann/neurojs)
 	- [tensorflow](https://github.com/tensorflow)
+		- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
 ### 通用
 
