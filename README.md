@@ -439,6 +439,7 @@
 	- [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - 框架
 	- [wepy](https://github.com/wepyjs/wepy)
+	- [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
 
 ### 安全
 
