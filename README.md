@@ -137,8 +137,8 @@
 		- [sass兼容性问题](https://sass-compatibility.github.io/)
 		- [sass书写风格指导](https://sass-guidelin.es/)
 	- js
-		- [prepack](https://github.com/facebook/prepack)
-		- [babel](https://babeljs.io/)
+		- [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
+		- [babel](https://babeljs.io/) 提前使用es6,es7
 - 双屏开发支持
 	- [BrowserSync](https://browsersync.io/) 浏览器代码实时同步
 		- [中文官网](http://www.browsersync.cn/)
@@ -177,9 +177,15 @@
 	- [rollup](http://rollupjs.org/) 适合纯粹js打包
 	- [fis](http://fis.baidu.com/)
 		- [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
-- 调试与测试
-	- [saucelabs 开放测试平台](https://saucelabs.com/)
-	- [vConsole](https://github.com/WechatFE/vConsole)
+- 调试
+	- [saucelabs 开放测试平台](https://saucelabs.com/) 可在github readme生成兼容列表
+	- [vConsole](https://github.com/WechatFE/vConsole) 提供一个Js编写的控制台，解决手机浏览器调试麻烦的问题
+- 测试
+	- [mocha](https://github.com/mochajs/mocha) 前端测试框架，既可以用于浏览器端，也可以用于服务器端
+		- [chai](https://github.com/chaijs/chai) 测试断言库
+		- [should.js](https://github.com/shouldjs/should.js) 测试断言库
+	- [karma](https://github.com/karma-runner/karma) 测试自动化
+	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器
 - 日志管理
 	- [sentry](https://github.com/getsentry/sentry)
 	- [BetterJS](https://github.com/BetterJS) 原名 BadJS
@@ -219,6 +225,7 @@
 		- [framework7](http://framework7.io/)
 			- [framework7-taobao](http://framework7.taobao.org/)
 			- [msui-taobao](http://m.sui.taobao.org/components/)
+		- [spectre](https://github.com/picturepan2/spectre) 轻量级响应式css框架
 		- [foundation](https://github.com/zurb/foundation-sites)
 		- [amaze ui](https://github.com/amazeui/amazeui) 重视动画交互
 		- [flat ui](https://github.com/designmodo/Flat-UI) 扁平化
@@ -229,12 +236,11 @@
 		- [weui](https://github.com/weui/weui) 微信风格
 		- [spectre](https://github.com/picturepan2/spectre)
 - 工具与架构
-	- [redux](https://github.com/reactjs/redux)
-		- [redux-devtools](https://github.com/gaearon/redux-devtools)
 	- [js-cookie](https://github.com/js-cookie/js-cookie)
 	- [lodash](https://lodash.com/) 工具函数库
 	- [step](https://github.com/creationix/step) 流程控制
 	- [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
+	- [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
 - 多媒体展示
 	- [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) 加载图片并缩放
 	- [viewerjs](https://github.com/fengyuanchen/viewerjs) 图片展示jquery插件
@@ -244,12 +250,16 @@
 			- [cropperjs](https://github.com/fengyuanchen/cropperjs)
 		- [swiper](https://github.com/nolimits4web/Swiper) 幻灯，h5slides
 	- [video.js](https://github.com/videojs/video.js) 视频
+	- [SoundJS](https://github.com/CreateJS/SoundJS) 基于Audio Api 音频处理
+	- [EaselJS](https://github.com/CreateJS/EaselJS) 对 canvas api 的封装
 - 动画
 	- [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动
 	- [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
+	- [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
 - js动画引擎
 	- [白鹭引擎](http://developer.egret.com/cn/)
 	- [cocos2d](https://github.com/cocos2d/)
+	- [layabox](https://www.layabox.com/) 国产，2d,3d都支持
 - 3d引擎
 	- [sketchfab](https://sketchfab.com/)
 	- [BabylonJS](https://github.com/BabylonJS/Babylon.js)
@@ -314,11 +324,17 @@
 	- ui框架
 		- [ant-design](https://github.com/ant-design/ant-design)
 		- [element react](https://github.com/eleme/element-react)
+		- [ring-ui](https://github.com/JetBrains/ring-ui) 使用 Typescript 进行开发
+		- [blueprint](https://github.com/palantir/blueprint) 使用 Typescript 进行开发
 	- 替代品
 		- [anu](https://github.com/RubyLouvre/anu)
 		- [preact](https://github.com/developit/preact/) 轻量级react
 	- ssr
 		- [reactphp](https://github.com/reactphp/react)
+	- 架构
+		- [draft-js](https://github.com/facebook/draft-js) 基于react的编辑器
+		- [redux](https://github.com/reactjs/redux) 通用react数据仓库
+			- [redux-devtools](https://github.com/gaearon/redux-devtools)
 	- 工程
 		- [jest](https://github.com/facebook/jest) 测试工具
 		- [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
@@ -331,6 +347,7 @@
 	- ui
 		- [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
 		- [mint ui](https://github.com/ElemeFE/mint-ui) 适用于移动端
+		- [iview](https://github.com/iview/iview) 适合做数据报表
 	- ssr
 		- [vue ssr](https://ssr.vuejs.org/zh/)
 		- [nuxt](https://github.com/nuxt/nuxt.js)
