@@ -479,6 +479,7 @@
 	- [neurojs](https://github.com/janhuenermann/neurojs)
 	- [tensorflow](https://github.com/tensorflow)
 		- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+	- [convnetjs](https://github.com/karpathy/convnetjs) 深度学习js版本
 
 ### 通用
 
