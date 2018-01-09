@@ -295,6 +295,7 @@
 - 运维
 	- [pm2 多进程管理](https://github.com/Unitech/PM2/)
 - 工具
+	- [node-inspector](https://github.com/node-inspector/node-inspector) node调试工具
 	- execa 命令执行 child_process
 	- node-svn-ultimate svn操作
 	- hotload
@@ -312,6 +313,11 @@
 - 自动化
 	- [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 	- [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
+- 桌面应用开发
+	- [node-webkit](https://github.com/nwjs/nw.js/)
+		- [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
+- 图形图像处理
+	- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
 
 ### 生态
 
@@ -335,6 +341,7 @@
 		- [draft-js](https://github.com/facebook/draft-js) 基于react的编辑器
 		- [redux](https://github.com/reactjs/redux) 通用react数据仓库
 			- [redux-devtools](https://github.com/gaearon/redux-devtools)
+		- [immer](https://github.com/mweststrate/)
 	- 工程
 		- [jest](https://github.com/facebook/jest) 测试工具
 		- [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
