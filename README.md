@@ -152,11 +152,12 @@
 			- [placehold](http://placehold.it/)
 			- [fakeimg](http://fakeimg.pl/)
 		- [json generator](http://beta.json-generator.com/)
-		- [mock.js](https://github.com/nuysoft/Mock)
+		- [mock.js](https://github.com/nuysoft/Mock) 一个数据模拟工具
 		- [rap](https://github.com/thx/RAP) 阿里 java mock server
 		- [json server](https://github.com/typicode/json-server)
 		- [swagger](https://swagger.io/)
-		- [spore-mock](https://github.com/SporeUI/spore-mock)
+		- [spore-mock](https://github.com/SporeUI/spore-mock) 本地化mock服务
+		- [Faker.js](https://github.com/marak/Faker.js/) 一个数据模拟工具
 	- 持续集成
 		- [jenkins](https://jenkins.io/)
 - 项目模板
@@ -175,6 +176,7 @@
 			- [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
 			- [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
 	- [rollup](http://rollupjs.org/) 适合纯粹js打包
+	- [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
 	- [fis](http://fis.baidu.com/)
 		- [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
 - 调试
@@ -277,7 +279,7 @@
 	- [moment](http://momentjs.cn/) 时间日期处理
 	- [kibo](https://github.com/marquete/kibo) 键盘事件绑定
 	- [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
-
+	- [cheerio](https://github.com/cheeriojs/cheerio) 用于服务端的类jquery语法库
 
 ### Node
 
@@ -296,16 +298,17 @@
 	- [pm2 多进程管理](https://github.com/Unitech/PM2/)
 - 工具
 	- [node-inspector](https://github.com/node-inspector/node-inspector) node调试工具
-	- execa 命令执行 child_process
-	- node-svn-ultimate svn操作
+	- [execa](https://github.com/sindresorhus/execa) better child_process
+	- [node-svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn 操作 node api 版
 	- hotload
 		- [nodemon](https://github.com/remy/nodemon) 监听文件重启服务
 		- [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
+	- [ora](https://github.com/sindresorhus/ora) 命令行loading
 - 即时通讯
 	- [websockets/ws](https://github.com/websockets/ws) 更好的websocket库
 - 框架
 	- [thinkjs](https://github.com/thinkjs/thinkjs)
-	- [koa](http://koajs.com/)
+	- [koa](http://koajs.com/) 现代 node 框架
 	- [express](http://expressjs.com/zh-cn/)
 		- [express中文文档](http://expressjs.jser.us/)
 		- [helmet](https://github.com/helmetjs/helmet) 安全中间件
@@ -316,6 +319,7 @@
 - 桌面应用开发
 	- [node-webkit](https://github.com/nwjs/nw.js/)
 		- [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
+		- [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 - 图形图像处理
 	- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
 
@@ -406,6 +410,7 @@
 	- [trello](https://trello.com/) 看板工具
 - 分享
 	- [asciinema](https://asciinema.org/) 终端命令行录制工具
+	- [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
 - [文件转base64](http://www.motobit.com/util/base64-decoder-encoder.asp)
 - 版本控制
 	- git
