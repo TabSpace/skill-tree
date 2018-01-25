@@ -79,10 +79,14 @@
 
 - [javascript标准参考 阮一峰版](http://javascript.ruanyifeng.com/)
 - [js 与 dom 参考(w3schools)](http://www.w3schools.com/jsref/)
+- [TypeScript](https://www.typescriptlang.org/)
+	- [TypeScript 中文网](https://www.tslang.cn/)
+	- [TypeScript 入门教程](https://ts.xcatliu.com/)
 - es6
 	- [ECMAScript6入门](http://es6.ruanyifeng.com/)
 	- [es6浏览器适配表](http://kangax.github.io/compat-table/es6/)
 	- [webpack es6 浏览器兼容](https://segmentfault.com/a/1190000005128101)
+	- [babel](https://babeljs.io/) 提前使用es6,es7
 - es5
 	- [es5浏览器适配表](http://kangax.github.io/compat-table/es5/)
 - polyfill
@@ -138,7 +142,6 @@
 		- [sass书写风格指导](https://sass-guidelin.es/)
 	- js
 		- [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
-		- [babel](https://babeljs.io/) 提前使用es6,es7
 - 双屏开发支持
 	- [BrowserSync](https://browsersync.io/) 浏览器代码实时同步
 		- [中文官网](http://www.browsersync.cn/)
@@ -187,7 +190,9 @@
 		- [chai](https://github.com/chaijs/chai) 测试断言库
 		- [should.js](https://github.com/shouldjs/should.js) 测试断言库
 	- [karma](https://github.com/karma-runner/karma) 测试自动化
+- 无界面浏览器 (Headless Browser)
 	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器
+	- [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 - 日志管理
 	- [sentry](https://github.com/getsentry/sentry)
 	- [BetterJS](https://github.com/BetterJS) 原名 BadJS
@@ -450,6 +455,8 @@
 		- [slate](https://github.com/lord/slate)
 		- [docute](https://github.com/egoist/docute) 便捷的单页文档，风格比较现代
 		- [docsify](https://github.com/QingWei-Li/docsify) wepy使用这个撰写了文档，看起来很舒服
+		- [typedoc](https://github.com/TypeStrong/typedoc) TypeScript项目的文档生成器
+			- [deeplearnjs-doc](https://deeplearnjs.org/docs/api/globals.html) deeplearn.js 的文档，用typedoc生成
 	- 编辑器
 		- [sublime](https://www.sublimetext.com/)
 			- [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
