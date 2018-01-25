@@ -255,6 +255,9 @@
 		- [jcrop](https://github.com/tapmodo/Jcrop/)
 		- [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪jquery插件
 			- [cropperjs](https://github.com/fengyuanchen/cropperjs)
+	- 幻灯
+		- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) 经典桌面swiper
+		- [bxslider](https://github.com/stevenwanderski/bxslider-4) 基于jquery的响应式幻灯组件
 		- [swiper](https://github.com/nolimits4web/Swiper) 幻灯，h5slides
 	- [video.js](https://github.com/videojs/video.js) 视频
 	- [SoundJS](https://github.com/CreateJS/SoundJS) 基于Audio Api 音频处理
@@ -277,6 +280,9 @@
 		- [ar.js](https://github.com/jeromeetienne/AR.js)
 		- [three.ar.js](https://github.com/google-ar/three.ar.js)
 - 其他库
+	- [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
+	- [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
+	- [SpinKit](https://github.com/tobiasahlin/SpinKit) 几个 css3 loading 效果
 	- [ua-device](https://github.com/fex-team/ua-device) UA解析
 	- [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
 	- [JSPatch](https://github.com/bang590/JSPatch) 封装js与ios交互
