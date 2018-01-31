@@ -48,6 +48,7 @@
 	- svg
 		- [使用脚本动态操作 SVG 文档](https://www.ibm.com/developerworks/cn/xml/x-svgscript/)
 		- [mdn svg教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
+		- [svg 中文教程](https://www.gitbook.com/book/brucewar/svg-tutorial/details)
 		- [svg线条动画 vivus](https://github.com/maxwellito/vivus)
 	- [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share)
 - webapp
@@ -328,6 +329,8 @@
 	- [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 	- [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
 - 桌面应用开发
+	- [electron](https://github.com/electron/electron) 构建桌面app
+		- [electron-vue](https://github.com/SimulatedGREG/electron-vue) 基于vue框架的electron应用
 	- [node-webkit](https://github.com/nwjs/nw.js/)
 		- [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
 		- [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
@@ -380,9 +383,8 @@
 		- [bowl](https://github.com/ElemeFE/bowl/) 初始文件 localstorage 缓存
 		- [vue-router](https://github.com/vuejs/vue-router)
 		- [vue-cli](https://github.com/vuejs/vue-cli)
-- jsapp
-	- [weex](https://github.com/apache/incubator-weex) vue移动app
-	- [electron](https://github.com/electron/electron) 桌面app
+	- other
+		- [weex](https://github.com/apache/incubator-weex) vue移动app
 - fastpage
 	- [amp](https://www.ampproject.org/) 来自谷歌
 		- [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
@@ -514,8 +516,11 @@
 		- [github showcases](https://github.com/showcases/) 开源范例
 		- [github explorer](https://github.com/explore) 资源浏览器
 		- [静态站点搭建](https://pages.github.com/)
-		- 持续集成 travis
-			- [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
+		- 持续集成
+			- [travis](https://travis-ci.org/) 适用于Github托管项目
+				- [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
+			- [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
+			- [circleci](https://circleci.com/) 适用于Github托管项目
 	- 文章
 		- [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
 		- [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
