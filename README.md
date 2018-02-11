@@ -292,6 +292,8 @@
 	- [kibo](https://github.com/marquete/kibo) 键盘事件绑定
 	- [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
 	- [cheerio](https://github.com/cheeriojs/cheerio) 用于服务端的类jquery语法库
+	- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
+	- [math.js](https://github.com/josdejong/mathjs) 用于简化数学计算
 
 ### Node
 
@@ -300,9 +302,9 @@
 - [npm](https://npmjs.org/)
 	- [npm的package.json中文文档](https://github.com/ericdum/mujiang.info/issues/6)
 	- [淘宝npm镜像](http://npm.taobao.org/)
-	- [yarn](https://github.com/yarnpkg)
-	- [npm-runkit](https://npm.runkit.com/)
-	- [npms.io](npm模块搜索)
+	- [yarn](https://github.com/yarnpkg) facebook 推出的 npm 替代方案，安装模块更迅速
+	- [npm-runkit](https://npm.runkit.com/) 一个简单的npm模块实验室
+	- [npms.io](https://npms.io/) npm模块搜索
 - 资源
 	- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 	- [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
