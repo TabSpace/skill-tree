@@ -267,6 +267,7 @@
 	- [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动
 	- [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
 	- [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
+	- [tween.js](https://github.com/tweenjs/tween.js) 动画过渡管理
 - js动画引擎
 	- [白鹭引擎](http://developer.egret.com/cn/)
 	- [cocos2d](https://github.com/cocos2d/)
@@ -294,7 +295,9 @@
 	- [cheerio](https://github.com/cheeriojs/cheerio) 用于服务端的类jquery语法库
 	- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
 	- [math.js](https://github.com/josdejong/mathjs) 用于简化数学计算
-
+	- [gl-matrix](https://github.com/toji/gl-matrix) 用于矩阵计算，3d场景常用
+	- [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
+	- [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
 ### Node
 
 - 规范
