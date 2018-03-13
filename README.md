@@ -45,6 +45,7 @@
 		- [让canvas像flash一样工作](https://my.oschina.net/cmw/blog/14963)
 		- [canvas截图](https://tech.colla.me/zh/show/screenshot_feedback_implementation)
 			- [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
+			- [dom-to-image](https://github.com/tsayen/dom-to-image) 用svg截图
 	- svg
 		- [使用脚本动态操作 SVG 文档](https://www.ibm.com/developerworks/cn/xml/x-svgscript/)
 		- [mdn svg教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
