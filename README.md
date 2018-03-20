@@ -250,6 +250,7 @@
 	- [step](https://github.com/creationix/step) 流程控制
 	- [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
 	- [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
+	- [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 - 多媒体展示
 	- [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) 加载图片并缩放
 	- [viewerjs](https://github.com/fengyuanchen/viewerjs) 图片展示jquery插件
