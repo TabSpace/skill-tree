@@ -127,21 +127,22 @@
 	- lint
 		- [eslint](https://github.com/eslint/eslint)
 - 图标与字体
-	- [字蛛：智能 WebFont 压缩工具](https://github.com/aui/font-spider)
-	- [font-awesome：开源图标字体库](http://fontawesome.io/)
-	- [阿里巴巴矢量图标库](http://iconfont.cn/)
+	- [font-spider](https://github.com/aui/font-spider) 字蛛：智能 WebFont 压缩工具
+	- [font-awesome](http://fontawesome.io/) 开源图标字体库
+	- [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
 	- [icoMoon](https://icomoon.io/)
 	- [fontmin](https://github.com/ecomfe/fontmin)
 	- [one div](http://one-div.com/)
 	- [a single div](http://a.singlediv.com/)
+	- [nicon](https://github.com/bolin-L/nicon) 图标管理服务器，支持私有部署
 - 预处理
 	- [less](http://www.lesscss.net/)
-		- [less tester 代码测试](http://lesstester.com/)
+		- [lesstester](http://lesstester.com/) less 代码测试
 	- [sass](http://sass-lang.com/)
-		- [sass中文参考手册](http://sass.bootcss.com/docs/sass-reference/)
-		- [sass用法指南 - 阮一峰版](http://www.ruanyifeng.com/blog/2012/06/sass.html)
-		- [sass兼容性问题](https://sass-compatibility.github.io/)
-		- [sass书写风格指导](https://sass-guidelin.es/)
+		- [sass-reference](http://sass.bootcss.com/docs/sass-reference/) sass中文参考手册
+		- [sass用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html) 阮一峰版
+		- [sass-compatibility](https://sass-compatibility.github.io/) sass兼容性问题
+		- [sass-guidelin](https://sass-guidelin.es/) sass书写风格指导
 	- js
 		- [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
 - 双屏开发支持
@@ -149,9 +150,9 @@
 		- [中文官网](http://www.browsersync.cn/)
 - 开发环境集成工具
 	- 代理
-		- [nproxy 静态文件代理](https://github.com/goddyZhao/nproxy)
+		- [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
 		- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
-		- [anyproxy 阿里巴巴代理工具](https://github.com/alibaba/anyproxy)
+		- [anyproxy](https://github.com/alibaba/anyproxy) 基于 node 的代理工具，阿里出品
 	- 数据模拟
 		- 图片占位
 			- [placehold](http://placehold.it/)
@@ -300,6 +301,7 @@
 	- [gl-matrix](https://github.com/toji/gl-matrix) 用于矩阵计算，3d场景常用
 	- [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
 	- [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
+
 ### Node
 
 - 规范
@@ -314,7 +316,8 @@
 	- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 	- [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
 - 运维
-	- [pm2 多进程管理](https://github.com/Unitech/PM2/)
+	- [pm2 多进程管理](https://github.com/Unitech/PM2/) 进程失败后重新拉起进程
+	- [pandora](https://github.com/midwayjs/pandora) 专业的 Node.js 应用监控管理器，阿里开源
 - 工具
 	- [node-inspector](https://github.com/node-inspector/node-inspector) node调试工具
 	- [execa](https://github.com/sindresorhus/execa) better child_process
@@ -323,6 +326,8 @@
 		- [nodemon](https://github.com/remy/nodemon) 监听文件重启服务
 		- [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
 	- [ora](https://github.com/sindresorhus/ora) 命令行loading
+	- [vorpal](https://github.com/dthree/vorpal) 创建交互式CLI的框架
+	- [vantage](https://github.com/dthree/vantage) 将一个应用转化为命令行交互工具
 - 即时通讯
 	- [websockets/ws](https://github.com/websockets/ws) 更好的websocket库
 - 框架
@@ -380,6 +385,7 @@
 		- [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
 		- [mint ui](https://github.com/ElemeFE/mint-ui) 适用于移动端
 		- [iview](https://github.com/iview/iview) 适合做数据报表
+		- [vant](https://github.com/youzan/vant) 有赞出品，更全更轻量
 	- ssr
 		- [vue ssr](https://ssr.vuejs.org/zh/)
 		- [nuxt](https://github.com/nuxt/nuxt.js)
