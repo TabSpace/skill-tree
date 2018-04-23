@@ -404,6 +404,7 @@
 		- [vue-cli](https://github.com/vuejs/vue-cli)
 	- other
 		- [weex](https://github.com/apache/incubator-weex) vue移动app
+		- [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
 - fastpage
 	- [amp](https://www.ampproject.org/) 来自谷歌
 		- [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
