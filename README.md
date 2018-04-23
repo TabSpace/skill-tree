@@ -332,7 +332,8 @@
 	- [vorpal](https://github.com/dthree/vorpal) 创建交互式CLI的框架
 	- [vantage](https://github.com/dthree/vantage) 将一个应用转化为命令行交互工具
 - 即时通讯
-	- [websockets/ws](https://github.com/websockets/ws) 更好的websocket库
+	- [socket.io](https://github.com/socketio/socket.io) 传统 websocket 库
+	- [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
 - 框架
 	- [thinkjs](https://github.com/thinkjs/thinkjs)
 	- [koa](https://github.com/koajs/koa) 现代 node 框架
@@ -584,6 +585,7 @@
 	- [smarty](http://www.smarty.net/)
 	- [php之道](http://wulijun.github.io/php-the-right-way/)
 	- [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
+	- [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 - 代码托管
 	- [coding.net](https://coding.net/user)
 - 个人博客搭建
