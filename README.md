@@ -193,6 +193,7 @@
 		- [chai](https://github.com/chaijs/chai) 测试断言库
 		- [should.js](https://github.com/shouldjs/should.js) 测试断言库
 	- [karma](https://github.com/karma-runner/karma) 测试自动化
+	- [nightwatchjs](https://github.com/nightwatchjs/nightwatch) UI测试自动化
 - 无界面浏览器 (Headless Browser)
 	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器
 	- [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
