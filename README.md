@@ -284,6 +284,10 @@
 	- [three.js](https://github.com/mrdoob/three.js)
 		- [ar.js](https://github.com/jeromeetienne/AR.js)
 		- [three.ar.js](https://github.com/google-ar/three.ar.js)
+- 终端/命令行
+	- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
+	- [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
+	- [commander](https://github.com/tj/commander.js) 命令行界面开发库
 - 其他库
 	- [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
 	- [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
@@ -296,7 +300,6 @@
 	- [kibo](https://github.com/marquete/kibo) 键盘事件绑定
 	- [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
 	- [cheerio](https://github.com/cheeriojs/cheerio) 用于服务端的类jquery语法库
-	- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
 	- [math.js](https://github.com/josdejong/mathjs) 用于简化数学计算
 	- [gl-matrix](https://github.com/toji/gl-matrix) 用于矩阵计算，3d场景常用
 	- [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
@@ -332,11 +335,12 @@
 	- [websockets/ws](https://github.com/websockets/ws) 更好的websocket库
 - 框架
 	- [thinkjs](https://github.com/thinkjs/thinkjs)
-	- [koa](http://koajs.com/) 现代 node 框架
+	- [koa](https://github.com/koajs/koa) 现代 node 框架
 	- [express](http://expressjs.com/zh-cn/)
 		- [express中文文档](http://expressjs.jser.us/)
 		- [helmet](https://github.com/helmetjs/helmet) 安全中间件
 		- [cors](https://github.com/expressjs/cors) 中间件
+	- [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
 - 自动化
 	- [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 	- [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
