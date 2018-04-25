@@ -194,8 +194,9 @@
 		- [should.js](https://github.com/shouldjs/should.js) 测试断言库
 	- [karma](https://github.com/karma-runner/karma) 测试自动化
 	- [nightwatchjs](https://github.com/nightwatchjs/nightwatch) UI测试自动化
+	- [macaca](https://github.com/alibaba/macaca) 多端自动化测试解决方案
 - 无界面浏览器 (Headless Browser)
-	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器
+	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器，作者已宣布停止维护
 	- [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 - 日志管理
 	- [sentry](https://github.com/getsentry/sentry)
@@ -398,10 +399,11 @@
 		- [ream](https://github.com/ream/ream)
 		- [vue-php](https://github.com/Joe3Ray/vue-php) php渲染 vue
 	- 工程
-		- [lavas vue pwa](https://github.com/lavas-project/lavas)
+		- [lavas vue pwa](https://github.com/lavas-project/lavas) vue pwa 应用示例
 		- [bowl](https://github.com/ElemeFE/bowl/) 初始文件 localstorage 缓存
-		- [vue-router](https://github.com/vuejs/vue-router)
-		- [vue-cli](https://github.com/vuejs/vue-cli)
+		- [vue-router](https://github.com/vuejs/vue-router) vue 路由
+		- [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
+		- [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
 	- other
 		- [weex](https://github.com/apache/incubator-weex) vue移动app
 		- [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
@@ -502,7 +504,8 @@
 - 图表
 	- [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - 框架
-	- [wepy](https://github.com/wepyjs/wepy)
+	- [wepy](https://github.com/wepyjs/wepy) 小程序开发框架，bug较多，打包机制不太合理
+	- [mpvue](https://github.com/Meituan-Dianping/mpvue) 小程序开发框架，更贴近vue的写法
 	- [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
 
 ### 安全
