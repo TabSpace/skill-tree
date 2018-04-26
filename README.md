@@ -1,5 +1,5 @@
 # skill-tree
-个人资源积累
+个人资源积累，✭ 号表示强烈推荐
 
 ### Browser
 
@@ -13,7 +13,7 @@
 - 兼容性
 	- [UC浏览器开发者中心](http://www.uc.cn/business/developer/)
 	- [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
-	- [can i use](http://caniuse.com/)
+	- ✭ [can i use](http://caniuse.com/)
 - chrome
 	- [devtools](https://developer.chrome.com/devtools)
 - 零散知识点
@@ -23,7 +23,7 @@
 	- [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
 	- [浏览器交互流程](https://github.com/skyline75489/what-happens-when-zh_CN) --当你按下回车键时发生了什么
 	- [浏览器渲染原理](http://coolshell.cn/articles/9666.html)
-		- [how browser work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+		- ✭ [how browser work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 	- [浏览器性能优化指导](https://developers.google.com/speed/docs/insights/rules?csw=1)
 		- [14 rules](http://stevesouders.com/hpws/rules.php)
 		- [实现达到 60FPS 的高性能交互动画](https://zhuanlan.zhihu.com/p/29729996?refer=FrontendMagazine)
@@ -95,6 +95,7 @@
 	- [Promise](https://github.com/taylorhakes/promise-polyfill)
 	- [es5-shim](https://github.com/es-shims/es5-shim)
 	- [fetch](https://github.com/github/fetch)
+	- [handjs](https://github.com/deltakosh/handjs) pointer events polyfill
 - lua
 	- [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
 - [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
@@ -102,6 +103,7 @@
 	- [正则表达式回溯法原理](https://mp.weixin.qq.com/s/sT8kQkfLDvB1ahoJ6Ss0Uw)
 - shell
 	- [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+	- ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - js坑
 	- [wtf js](https://github.com/denysdovhan/wtfjs)
 
@@ -125,7 +127,7 @@
 		- [flow](https://github.com/facebook/flow)
 			- [flow 介绍](http://www.alloyteam.com/2015/07/flow-a-static-type-checker-for-javascript-from-facebook/)
 	- lint
-		- [eslint](https://github.com/eslint/eslint)
+		- ✭ [eslint](https://github.com/eslint/eslint)
 - 图标与字体
 	- [font-spider](https://github.com/aui/font-spider) 字蛛：智能 WebFont 压缩工具
 	- [font-awesome](http://fontawesome.io/) 开源图标字体库
@@ -150,15 +152,15 @@
 		- [中文官网](http://www.browsersync.cn/)
 - 开发环境集成工具
 	- 代理
-		- [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
-		- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
+		- ✭ [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
 		- [anyproxy](https://github.com/alibaba/anyproxy) 基于 node 的代理工具，阿里出品
+		- [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
 	- 数据模拟
 		- 图片占位
 			- [placehold](http://placehold.it/)
 			- [fakeimg](http://fakeimg.pl/)
 		- [json generator](http://beta.json-generator.com/)
-		- [mock.js](https://github.com/nuysoft/Mock) 一个数据模拟工具
+		- ✭ [mock.js](https://github.com/nuysoft/Mock) 一个数据模拟工具
 		- [rap](https://github.com/thx/RAP) 阿里 java mock server
 		- [json server](https://github.com/typicode/json-server)
 		- [swagger](https://swagger.io/)
@@ -186,8 +188,8 @@
 	- [fis](http://fis.baidu.com/)
 		- [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
 - 调试
+	- ✭ [vConsole](https://github.com/WechatFE/vConsole) 提供一个Js编写的控制台，解决手机浏览器调试麻烦的问题
 	- [saucelabs 开放测试平台](https://saucelabs.com/) 可在github readme生成兼容列表
-	- [vConsole](https://github.com/WechatFE/vConsole) 提供一个Js编写的控制台，解决手机浏览器调试麻烦的问题
 - 测试
 	- [mocha](https://github.com/mochajs/mocha) 前端测试框架，既可以用于浏览器端，也可以用于服务器端
 		- [chai](https://github.com/chaijs/chai) 测试断言库
@@ -196,8 +198,8 @@
 	- [nightwatchjs](https://github.com/nightwatchjs/nightwatch) UI测试自动化
 	- [macaca](https://github.com/alibaba/macaca) 多端自动化测试解决方案
 - 无界面浏览器 (Headless Browser)
+	- ✭ [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 	- [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器，作者已宣布停止维护
-	- [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 - 日志管理
 	- [sentry](https://github.com/getsentry/sentry)
 	- [BetterJS](https://github.com/BetterJS) 原名 BadJS
@@ -274,9 +276,9 @@
 	- [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
 	- [tween.js](https://github.com/tweenjs/tween.js) 动画过渡管理
 - js动画引擎
-	- [白鹭引擎](http://developer.egret.com/cn/)
-	- [cocos2d](https://github.com/cocos2d/)
-	- [layabox](https://www.layabox.com/) 国产，2d,3d都支持
+	- [白鹭引擎](http://developer.egret.com/cn/) 国产，2d,3d都支持，支持小游戏
+	- [cocos2d](https://github.com/cocos2d/) 主要用于物理引擎
+	- [layabox](https://www.layabox.com/) 国产，2d,3d都支持，支持小游戏
 - 3d引擎
 	- [sketchfab](https://sketchfab.com/)
 	- [BabylonJS](https://github.com/BabylonJS/Babylon.js)
@@ -427,11 +429,10 @@
 	- [语音识别，人脸识别 - 科大讯飞](http://www.xfyun.cn/)
 	- [腾讯文智中文语义平台](http://nlp.qq.com/)
 	- [讯飞开放平台](http://www.xfyun.cn/)
-	- [讯飞语音服务](http://www.xfyun.cn/)
 - [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
 - [unicode 图表字符集合](http://www.unicode.org/charts/)
 - [各个CDN服务提供的静态资源](https://cdnjs.com/)
-	- [通用CDN](https://unpkg.com/#/)
+	- [通用CDN文件](https://unpkg.com/#/)
 - [在线JS代码格式化](http://tool.chinaz.com/Tools/JsFormat.aspx)
 - [给项目起名](http://mrsharpoblunto.github.io/foswig.js/)
 - [简繁转换](http://tool.chinaz.com/Tools/Gb_big.aspx)
@@ -461,7 +462,7 @@
 			- [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
 		- [Linux下安装svn client](http://blog.csdn.net/kenera/article/details/5746585)
 - 命令行
-	- [cygwin](http://www.cygwin.cn/)
+	- [cygwin](http://www.cygwin.cn/) windows上使用命令行
 	- [Oh My ZSH](http://ohmyz.sh/) 操作增强
 	- [tmux](https://github.com/tmux/tmux) 终端窗口复用
 - vpn 翻墙
@@ -478,24 +479,26 @@
 		- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 		- [gitbook 简明教程](http://www.chengweiyang.cn/gitbook/introduction/README.html)
 	- 文档撰写
-		- [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，不适合模块
-		- [jsdoc](https://github.com/jsdoc3/jsdoc) 部分格式陈旧，支持node生成方面不错
-			- [docdash](https://github.com/clenemt/docdash) 界面看起来比较舒服，移动端界面看起来不完善
-			- [documentation](https://github.com/documentationjs/documentation) 更加现代化
-		- [slate](https://github.com/lord/slate)
+		- ✭ [documentation](https://github.com/documentationjs/documentation) 使用jsdoc语法，生成文档更贴近现代风格，适合注释转文档
+			- [jsdoc](https://github.com/jsdoc3/jsdoc) 部分格式陈旧，支持node生成方面不错
+		- ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器，
+		- ✭ [docsify](https://github.com/QingWei-Li/docsify) 适合md转文档，wepy使用这个撰写了文档，看起来很舒服
 		- [docute](https://github.com/egoist/docute) 便捷的单页文档，风格比较现代
-		- [docsify](https://github.com/QingWei-Li/docsify) wepy使用这个撰写了文档，看起来很舒服
-		- [typedoc](https://github.com/TypeStrong/typedoc) TypeScript项目的文档生成器
+		- [typedoc](https://github.com/TypeStrong/typedoc) TypeScript项目的文档生成器，但看起来生成的文档过重
 			- [deeplearnjs-doc](https://deeplearnjs.org/docs/api/globals.html) deeplearn.js 的文档，用typedoc生成
+		- [docdash](https://github.com/clenemt/docdash) jsdoc模板，界面看起来比较舒服，移动端界面看起来不完善
+		- [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，适合传统js库，不适合单独模块文档构建
+		- [slate](https://github.com/lord/slate) 基于Ruby的文档生成工具，不推荐前端使用
 	- 编辑器
-		- [sublime](https://www.sublimetext.com/)
+		- ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
+		- [sublime](https://www.sublimetext.com/) 性能很好，但是配置起来比较麻烦，而且插件资源都需要翻墙才能下载
 			- [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
-		- [vim](http://www.vim.org/)
+		- [vim](http://www.vim.org/) vim官方资源
 			- [循序渐进学习 vim](http://coolshell.cn/articles/5426.html)
 	- 代码展示
-		- [jsbin](http://jsbin.com/?html,js,output)
-		- [codepen](http://codepen.io/)
-		- [jsfiddler](https://jsfiddle.net/)
+		- ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
+		- [jsbin](http://jsbin.com/?html,js,output) 	
+		- [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
 
 ### [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474887496775)
 
