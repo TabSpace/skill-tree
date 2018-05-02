@@ -275,9 +275,8 @@
 	- [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
 	- [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
 	- [tween.js](https://github.com/tweenjs/tween.js) 动画过渡管理
-	- [Easing](https://gist.github.com/gre/1650294) 简单过渡动画函数
-		- 输入曲率为1的[0,1]区间的数字
-		- 输出过渡动画处理过后的曲率为贝塞尔函数的[0,1]区间的数值
+	- [bezier-easing](https://github.com/gre/bezier-easing) 贝塞尔函数生成器
+		- [simple easing](https://gist.github.com/gre/1650294) 简单过渡动画函数
 - js动画引擎
 	- [白鹭引擎](http://developer.egret.com/cn/) 国产，2d,3d都支持，支持小游戏
 	- [cocos2d](https://github.com/cocos2d/) 主要用于物理引擎
