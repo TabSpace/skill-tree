@@ -275,6 +275,7 @@
 	- [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
 	- [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
 	- [tween.js](https://github.com/tweenjs/tween.js) 动画过渡管理
+	- [velocity](https://github.com/julianshapiro/velocity) 动画过渡管理
 	- [bezier-easing](https://github.com/gre/bezier-easing) 贝塞尔函数生成器
 		- [simple easing](https://gist.github.com/gre/1650294) 简单过渡动画函数
 - js动画引擎
