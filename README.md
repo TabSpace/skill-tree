@@ -418,7 +418,7 @@
 		- [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
 	- [mip](https://www.mipengine.org/) 来自百度
 - spa
-	- [prerender](https://prerender.io/)
+	- [prerender](https://prerender.io/) 生成静态站点供搜索引擎识别
 - 函数式
 	- [cycle](https://github.com/cyclejs/cyclejs/)
 		- [cycle.js.org](https://cycle.js.org/)
@@ -426,21 +426,40 @@
 	- [rxjs 事件流](https://github.com/Reactive-Extensions/RxJS)
 		- [rxjs](https://github.com/ReactiveX/RxJS)
 
+### 后台
+
+- 服务器环境
+	- [apache](https://httpd.apache.org/)
+		- [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
+	- [nginx](https://nginx.org/en/)
+- 工具
+	- [elasticsearch](https://github.com/elastic/elasticsearch) 开源搜索引擎
+		- [Elasticsearch 权威指南（中文版）](https://legacy.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
+	- [rsyslog](https://www.rsyslog.com/)
+		- [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
+		- [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
+- php
+	- [smarty](http://www.smarty.net/)
+	- [php之道](http://wulijun.github.io/php-the-right-way/)
+	- [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
+	- [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+
 ### 工具
 
-- 在线服务
+- 小工具
+	- [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
+	- [unicode 图表字符集合](http://www.unicode.org/charts/)
+	- [各个CDN服务提供的静态资源](https://cdnjs.com/)
+		- [通用CDN文件](https://unpkg.com/#/)
+	- [在线JS代码格式化](http://tool.chinaz.com/Tools/JsFormat.aspx)
+	- [给项目起名](http://mrsharpoblunto.github.io/foswig.js/)
+	- [简繁转换](http://tool.chinaz.com/Tools/Gb_big.aspx)
+	- [贝塞尔动画生成器](http://greweb.me/bezier-easing-editor/example/)
+- 云服务
 	- [七牛云 - 免费CDN服务，图片上传](http://www.qiniu.com/)
 	- [语音识别，人脸识别 - 科大讯飞](http://www.xfyun.cn/)
 	- [腾讯文智中文语义平台](http://nlp.qq.com/)
 	- [讯飞开放平台](http://www.xfyun.cn/)
-- [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
-- [unicode 图表字符集合](http://www.unicode.org/charts/)
-- [各个CDN服务提供的静态资源](https://cdnjs.com/)
-	- [通用CDN文件](https://unpkg.com/#/)
-- [在线JS代码格式化](http://tool.chinaz.com/Tools/JsFormat.aspx)
-- [给项目起名](http://mrsharpoblunto.github.io/foswig.js/)
-- [简繁转换](http://tool.chinaz.com/Tools/Gb_big.aspx)
-- [贝塞尔动画生成器](http://greweb.me/bezier-easing-editor/example/)
 - 设计
 	- [sketch 轻量矢量设计工具](https://www.sketchapp.com/)
 		- [sketch 中文网](http://www.sketchcn.com/)
@@ -591,14 +610,6 @@
 		- [如何使用第三方统计工具](http://e.qq.com/faq/list074.html)
 - 数据库
 	- [FireBase](https://firebase.google.com/)
-- apache/nginx
-	- apache
-		- [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
-- php
-	- [smarty](http://www.smarty.net/)
-	- [php之道](http://wulijun.github.io/php-the-right-way/)
-	- [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
-	- [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 - 代码托管
 	- [coding.net](https://coding.net/user)
 - 个人博客搭建
