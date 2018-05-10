@@ -388,6 +388,7 @@
 		- [jest](https://github.com/facebook/jest) 测试工具
 		- [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
 		- [create-react-app](https://github.com/facebookincubator/create-react-app)
+		- [enzyme](https://github.com/airbnb/enzyme) JavaScript Testing utility for React
 - [angular](https://angularjs.org/)
 	- [angular 中文社区](http://www.angularjs.cn/)
 	- [ngDialog](https://github.com/likeastore/ngDialog)
