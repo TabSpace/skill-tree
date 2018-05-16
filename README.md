@@ -630,6 +630,6 @@
   * facebook
     * [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)
 * 教学
-  * [warriorjs](https://github.com/olistic/warriorjs)
+  * [warriorjs](https://github.com/olistic/warriorjs) 一个编程游戏
   * [codecombat](https://github.com/codecombat/codecombat)
   * [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
