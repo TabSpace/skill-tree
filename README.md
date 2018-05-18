@@ -362,6 +362,12 @@
     * [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 * 图形图像处理
   * [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
+* Node实用库积累
+  * [url-join](https://github.com/jfromaniello/url-join) url 字符串连接
+  * [iconv](https://github.com/bnoordhuis/node-iconv) 页面编码转换
+  * [fs-extra](https://github.com/jprichardson/node-fs-extra) 文件操作增强
+  * [svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn操作的node封装
+  * [url-parse](https://github.com/unshiftio/url-parse) url解析
 
 ## 生态
 
@@ -519,6 +525,11 @@
     * [slate](https://github.com/lord/slate) 基于Ruby的文档生成工具，不推荐前端使用
   * 编辑器
     * ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
+      * Beautify, Prettier 美化代码
+      * Debugger for Chrome 配合 chrome 控制台进行代码调试
+      * Eslint, markdownlint, TSLint 检查代码规范
+      * Vetur vue开发支持
+      * Sublime Text Keymap and Settings Importer 支持使用 Sublime 的快捷键操作编辑器
     * [sublime](https://www.sublimetext.com/) 性能很好，但是配置起来比较麻烦，而且插件资源都需要翻墙才能下载
       * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
     * [vim](http://www.vim.org/) vim官方资源
