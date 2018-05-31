@@ -313,6 +313,9 @@
   * [gl-matrix](https://github.com/toji/gl-matrix) 用于矩阵计算，3d场景常用
   * [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
   * [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
+  * [mescroll](https://github.com/mescroll/mescroll) 上拉刷新，下拉加载交互库
+  * [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) 点击锚点，平滑滚动
+  * [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
 
 ## Node
 
@@ -360,14 +363,15 @@
   * [node-webkit](https://github.com/nwjs/nw.js/)
     * [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
     * [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
-* 图形图像处理
-  * [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
 * Node实用库积累
+  * [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
   * [url-join](https://github.com/jfromaniello/url-join) url 字符串连接
   * [iconv](https://github.com/bnoordhuis/node-iconv) 页面编码转换
   * [fs-extra](https://github.com/jprichardson/node-fs-extra) 文件操作增强
   * [svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn操作的node封装
   * [url-parse](https://github.com/unshiftio/url-parse) url解析
+  * [winston](https://github.com/winstonjs/winston) 日志管理
+  * [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
 
 ## 生态
 
@@ -399,9 +403,11 @@
     * [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
     * [create-react-app](https://github.com/facebookincubator/create-react-app)
     * [enzyme](https://github.com/airbnb/enzyme) JavaScript Testing utility for React
-* [angular](https://angularjs.org/)
-  * [angular 中文社区](http://www.angularjs.cn/)
-  * [ngDialog](https://github.com/likeastore/ngDialog)
+* google
+  * [polymer](https://github.com/Polymer/polymer) Build modern apps using web components
+  * [angular](https://angularjs.org/)
+    * [angular 中文社区](http://www.angularjs.cn/)
+    * [ngDialog](https://github.com/likeastore/ngDialog)
 * [vue](http://vuejs.org/)
   * [awesome-vue](https://github.com/vuejs/awesome-vue)
   * ui
