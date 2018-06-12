@@ -216,11 +216,12 @@
     * [jade2php](https://github.com/SE7ENSKY/jade2php)
     * [learn jade](http://learnjade.com/) 代码测试
     * [jade 中文说明](http://expressjs.jser.us/jade.html)
-* [数据可视化](https://github.com/showcases/data-visualization)
-  * [d3](https://github.com/d3/d3)
-  * [chart.js](https://github.com/chartjs/Chart.js)
-  * [highcharts](https://github.com/highcharts/highcharts)
-  * [echart](https://github.com/ecomfe/echarts)
+* [数据可视化](https://github.com/showcases/data-visualization) 各种图表工具
+  * [d3](https://github.com/d3/d3) 用于制作复杂图表
+  * [chart.js](https://github.com/chartjs/Chart.js) 体积小，适合 h5
+  * [highcharts](https://github.com/highcharts/highcharts) 开源图表框架，兼容性好
+  * [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
+  * [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
 * 路由
   * [page](https://github.com/visionmedia/page.js)
   * [history](https://github.com/browserstate/history.js)
@@ -253,11 +254,24 @@
     * [spectre](https://github.com/picturepan2/spectre)
 * 工具与架构
   * [js-cookie](https://github.com/js-cookie/js-cookie)
-  * [lodash](https://lodash.com/) 工具函数库
   * [step](https://github.com/creationix/step) 流程控制
   * [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
   * [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
   * [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
+  * [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
+  * [math.js](https://github.com/josdejong/mathjs) 简化数学计算
+  * [city](https://github.com/basecss/city) 国家行政区划分数据
+  * [moment](http://momentjs.cn/) 时间日期处理
+  * [kibo](https://github.com/marquete/kibo) 键盘事件绑定
+  * [ua-device](https://github.com/fex-team/ua-device) UA解析
+  * [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
+  * [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
+  * [voca](https://github.com/panzerdp/voca) 字符串处理
+  * 工具集合
+    * [underscore](https://github.com/jashkenas/underscore) 老牌工具库
+    * [lodash](https://lodash.com/) 更为现代的工具函数库
+    * [lazy](https://github.com/dtao/lazy.js) 延迟计算的工具函数
+    * [collect](https://github.com/ecrmnn/collect.js) 处理 JavaScript 中的数组和对象
 * 多媒体展示
   * [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) 加载图片并缩放
   * [viewerjs](https://github.com/fengyuanchen/viewerjs) 图片展示jquery插件
@@ -301,16 +315,9 @@
   * [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
   * [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
   * [SpinKit](https://github.com/tobiasahlin/SpinKit) 几个 css3 loading 效果
-  * [ua-device](https://github.com/fex-team/ua-device) UA解析
-  * [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
   * [JSPatch](https://github.com/bang590/JSPatch) 封装js与ios交互
-  * [city](https://github.com/basecss/city) 国家行政区划分数据
-  * [moment](http://momentjs.cn/) 时间日期处理
-  * [kibo](https://github.com/marquete/kibo) 键盘事件绑定
-  * [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
-  * [cheerio](https://github.com/cheeriojs/cheerio) 用于服务端的类jquery语法库
-  * [math.js](https://github.com/josdejong/mathjs) 用于简化数学计算
-  * [gl-matrix](https://github.com/toji/gl-matrix) 用于矩阵计算，3d场景常用
+  * [cheerio](https://github.com/cheeriojs/cheerio) 服务端的类jquery语法库
+  * [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
   * [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
   * [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
   * [mescroll](https://github.com/mescroll/mescroll) 上拉刷新，下拉加载交互库
@@ -441,6 +448,7 @@
     * [cyclejs.cn](http://cyclejs.cn/)
   * [rxjs 事件流](https://github.com/Reactive-Extensions/RxJS)
     * [rxjs](https://github.com/ReactiveX/RxJS)
+  * [ramda](https://github.com/ramda/ramda) 创建具有不变性和无副作用的函数
 
 ## 后台
 
