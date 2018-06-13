@@ -379,6 +379,8 @@
   * [url-parse](https://github.com/unshiftio/url-parse) url解析
   * [winston](https://github.com/winstonjs/winston) 日志管理
   * [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
+  * [sofa-rpc-node](https://github.com/alipay/sofa-rpc-node) 一个通用的 Nodejs RPC 解决方案
+  * [sofa-bolt-node](https://github.com/alipay/sofa-bolt-node) SOFABolt 的 Nodejs 实现，它包含了 Bolt 通讯层协议框架，以及 RPC 应用层协议定制
 
 ## 生态
 
@@ -479,6 +481,7 @@
   * [给项目起名](http://mrsharpoblunto.github.io/foswig.js/)
   * [简繁转换](http://tool.chinaz.com/Tools/Gb_big.aspx)
   * [贝塞尔动画生成器](http://greweb.me/bezier-easing-editor/example/)
+  * [TimeIs](https://time.is/zh/Beijing) 用于校对时间，验证直播延迟时有用
 * 云服务
   * [七牛云 免费CDN服务，图片上传](http://www.qiniu.com/)
   * [语音识别，人脸识别 科大讯飞](http://www.xfyun.cn/)
