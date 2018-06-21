@@ -262,6 +262,7 @@
   * [math.js](https://github.com/josdejong/mathjs) 简化数学计算
   * [city](https://github.com/basecss/city) 国家行政区划分数据
   * [moment](http://momentjs.cn/) 时间日期处理
+  * [dayjs](https://github.com/iamkun/dayjs) 日期处理
   * [kibo](https://github.com/marquete/kibo) 键盘事件绑定
   * [ua-device](https://github.com/fex-team/ua-device) UA解析
   * [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
@@ -413,10 +414,11 @@
     * [create-react-app](https://github.com/facebookincubator/create-react-app)
     * [enzyme](https://github.com/airbnb/enzyme) JavaScript Testing utility for React
 * google
-  * [polymer](https://github.com/Polymer/polymer) Build modern apps using web components
-  * [angular](https://angularjs.org/)
+  * [polymer](https://github.com/Polymer/polymer) 基于 web components 理念规范的库
+  * [angular](https://angularjs.org/) 完善的后台应用框架，推荐使用 TypeScript
     * [angular 中文社区](http://www.angularjs.cn/)
     * [ngDialog](https://github.com/likeastore/ngDialog)
+  * [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架
 * [vue](http://vuejs.org/)
   * [awesome-vue](https://github.com/vuejs/awesome-vue)
   * ui
@@ -425,9 +427,8 @@
     * [iview](https://github.com/iview/iview) 适合做数据报表
     * [vant](https://github.com/youzan/vant) 有赞出品，更全更轻量
   * ssr
-    * [vue ssr](https://ssr.vuejs.org/zh/)
-    * [nuxt](https://github.com/nuxt/nuxt.js)
-    * [ream](https://github.com/ream/ream)
+    * [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
+    * [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
     * [vue-php](https://github.com/Joe3Ray/vue-php) php渲染 vue
   * 工程
     * [lavas vue pwa](https://github.com/lavas-project/lavas) vue pwa 应用示例
@@ -437,8 +438,9 @@
     * [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
   * other
     * [weex](https://github.com/apache/incubator-weex) vue移动app
+    * [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
     * [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
-* fastpage
+* fastpage SEO整站优化方案
   * [amp](https://www.ampproject.org/) 来自谷歌
     * [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
   * [mip](https://www.mipengine.org/) 来自百度
@@ -578,6 +580,8 @@
 
 ## 算法
 
+* 集合
+  * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) javascript 算法集合
 * 寻路算法
   * [path-finding](https://github.com/qiao/PathFinding.js)
 * 人工智能
