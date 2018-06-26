@@ -518,9 +518,6 @@
   * [cygwin](http://www.cygwin.cn/) windows上使用命令行
   * [Oh My ZSH](http://ohmyz.sh/) 操作增强
   * [tmux](https://github.com/tmux/tmux) 终端窗口复用
-* vpn 翻墙
-  * [express-vpn](https://www.xpress-vpn.net/)
-    * [express-cn](https://www.expresscn.net/)
 * 文档
   * wiki
     * [wiki语法说明](https://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2)
@@ -630,6 +627,8 @@
   * [laravel 视频教程](https://www.laravist.com/)
 * 外包
   * [coding 码市](https://mart.coding.net/)
+* 翻墙
+  * [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 * 其他
   * [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
