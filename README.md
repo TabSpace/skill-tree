@@ -131,16 +131,16 @@
   * lint
     * ✭ [eslint](https://github.com/eslint/eslint)
 * 图标与字体
+  * ✭ [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
+  * [icoMoon](https://icomoon.io/)
   * [font-spider](https://github.com/aui/font-spider) 字蛛：智能 WebFont 压缩工具
   * [font-awesome](http://fontawesome.io/) 开源图标字体库
-  * [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
-  * [icoMoon](https://icomoon.io/)
   * [fontmin](https://github.com/ecomfe/fontmin)
   * [one div](http://one-div.com/)
   * [a single div](http://a.singlediv.com/)
   * [nicon](https://github.com/bolin-L/nicon) 图标管理服务器，支持私有部署
 * 预处理
-  * [less](http://www.lesscss.net/)
+  * ✭ [less](http://www.lesscss.net/)
     * [lesstester](http://lesstester.com/) less 代码测试
   * [sass](http://sass-lang.com/)
     * [sass-reference](http://sass.bootcss.com/docs/sass-reference/) sass中文参考手册
@@ -155,28 +155,35 @@
 * 开发环境集成工具
   * 代理
     * ✭ [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
+    * ✭ [whistle](https://github.com/avwo/whistle) 基于node的调试代理工具
     * [anyproxy](https://github.com/alibaba/anyproxy) 基于 node 的代理工具，阿里出品
     * [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
+  * 持续集成
+    * [travis](https://travis-ci.org/) 适用于Github托管项目
+      * [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
+    * [jenkins](https://jenkins.io/)
+    * [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
+    * [circleci](https://circleci.com/) 适用于Github托管项目
   * 数据模拟
     * 图片占位
       * [placehold](http://placehold.it/)
       * [fakeimg](http://fakeimg.pl/)
-    * [json generator](http://beta.json-generator.com/)
-    * ✭ [mock.js](https://github.com/nuysoft/Mock) 一个数据模拟工具
-    * [rap](https://github.com/thx/RAP) 阿里 java mock server
-    * [json server](https://github.com/typicode/json-server)
-    * [swagger](https://swagger.io/)
-    * [spore-mock](https://github.com/SporeUI/spore-mock) 本地化mock服务
-    * [Faker.js](https://github.com/marak/Faker.js/) 一个数据模拟工具
-  * 持续集成
-    * [jenkins](https://jenkins.io/)
+    * 数据模拟工具
+      * [json generator](http://beta.json-generator.com/)
+      * ✭ [mock.js](https://github.com/nuysoft/Mock) 一个数据模拟工具
+      * [Faker.js](https://github.com/marak/Faker.js/) 一个数据模拟工具
+    * mock server
+      * [rap](https://github.com/thx/RAP) 阿里 java mock server
+      * [json server](https://github.com/typicode/json-server)
+      * [swagger](https://swagger.io/)
+      * [spore-mock](https://github.com/SporeUI/spore-mock) 本地化mock服务
 * 项目模板
   * [yeoman](http://yeoman.io/)
 * 任务管理
-  * [gulp](http://gulpjs.com/)
+  * ✭ [gulp](http://gulpjs.com/)
   * [grunt](http://gruntjs.com/)
 * 打包
-  * [webpack](https://webpack.github.io/)
+  * ✭ [webpack](https://webpack.github.io/)
     * plugins
       * [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
       * [progress-bar-webpack-plugin](https://www.npmjs.com/package/progress-bar-webpack-plugin)
@@ -599,11 +606,6 @@
     * [github showcases](https://github.com/showcases/) 开源范例
     * [github explorer](https://github.com/explore) 资源浏览器
     * [静态站点搭建](https://pages.github.com/)
-    * 持续集成
-      * [travis](https://travis-ci.org/) 适用于Github托管项目
-        * [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
-      * [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
-      * [circleci](https://circleci.com/) 适用于Github托管项目
   * 文章
     * [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
     * [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
