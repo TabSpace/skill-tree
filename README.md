@@ -501,6 +501,7 @@
     * [sketch 中文网](http://www.sketchcn.com/)
   * [cutterman 图片裁剪](http://www.cutterman.cn/zh)
 * 协作
+  * [蓝湖](https://lanhuapp.com/) 国内项目协作工具
   * [zeplin](https://www.zeplin.io/) 前端协作工具
     * [介绍](http://36kr.com/p/5036576.html)
   * [trello](https://trello.com/) 看板工具
@@ -516,6 +517,9 @@
     * [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
     * [坑：换行符自动转换](https://github.com/cssmagic/blog/issues/22)
     * [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
+    * [commitizen](https://github.com/commitizen/cz-cli) 代码提交规范化
+    * [angular-CONTRIBUTING](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) angular 提交规范，用于实现参考规范
+    * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
   * svn
     * [grunt-svn-workflow](https://www.npmjs.com/package/grunt-svn-workflow) 标准SVN操作流程自动化工具
     * [tortoise svn](https://tortoisesvn.net/index.zh.html)
