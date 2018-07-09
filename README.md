@@ -87,13 +87,14 @@
 * [fis](http://fis.baidu.com/)
   * [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
 
-### 工程构建
+### 工程管理
 
 * 项目模板
   * [yeoman](http://yeoman.io/)
 * 任务管理
   * ✭ [gulp](http://gulpjs.com/)
   * [grunt](http://gruntjs.com/)
+* [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 
 ### 开发调试
 
@@ -339,7 +340,6 @@
 * [step](https://github.com/creationix/step) 流程控制
 * [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
 * [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
-* [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 * [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
 * [math.js](https://github.com/josdejong/mathjs) 简化数学计算
 * [city](https://github.com/basecss/city) 国家行政区划分数据
