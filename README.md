@@ -453,19 +453,6 @@
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 
-### 其他库与框架
-
-* [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
-* [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
-* [SpinKit](https://github.com/tobiasahlin/SpinKit) 几个 css3 loading 效果
-* [JSPatch](https://github.com/bang590/JSPatch) 封装js与ios交互
-* [cheerio](https://github.com/cheeriojs/cheerio) 服务端的类jquery语法库
-* [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
-* [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
-* [mescroll](https://github.com/mescroll/mescroll) 上拉刷新，下拉加载交互库
-* [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) 点击锚点，平滑滚动
-* [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
-
 ### Node
 
 * 运维
@@ -608,6 +595,19 @@
   * [wepy](https://github.com/wepyjs/wepy) 小程序开发框架，bug较多，打包机制不太合理
   * [mpvue](https://github.com/Meituan-Dianping/mpvue) 小程序开发框架，更贴近vue的写法
   * [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
+
+### 其他库与框架
+
+* [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
+* [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) 几个 css3 loading 效果
+* [JSPatch](https://github.com/bang590/JSPatch) 封装js与ios交互
+* [cheerio](https://github.com/cheeriojs/cheerio) 服务端的类jquery语法库
+* [AlloyImage](https://github.com/AlloyTeam/AlloyImage) 腾讯出品，图形图像处理
+* [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 多点触控封装
+* [mescroll](https://github.com/mescroll/mescroll) 上拉刷新，下拉加载交互库
+* [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) 点击锚点，平滑滚动
+* [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
 
 ------
 
