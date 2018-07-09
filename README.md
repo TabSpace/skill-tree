@@ -307,18 +307,25 @@
   * [cocos2d](https://github.com/cocos2d/) 主要用于物理引擎
   * [layabox](https://www.layabox.com/) 国产，2d,3d都支持，支持小游戏
 * 3d引擎
+  * [webgl框架列表](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks)
   * [sketchfab](https://sketchfab.com/)
-  * [BabylonJS](https://github.com/BabylonJS/Babylon.js)
+  * [BabylonJS](https://github.com/BabylonJS/Babylon.js) 可引入高复杂度场景
     * [doc](http://doc.babylonjs.com/)
     * [editor](http://editor.babylonjs.com/)
       * [intro](https://medium.com/babylon-js/welcome-to-the-babylon-js-editor-c08dccdcec07)
-  * [three.js](https://github.com/mrdoob/three.js)
+  * [three.js](https://github.com/mrdoob/three.js) 精简基础3d框架
     * [ar.js](https://github.com/jeromeetienne/AR.js)
     * [three.ar.js](https://github.com/google-ar/three.ar.js)
+  * [playcanvas](https://playcanvas.com/) 里面的浮空小岛是经典案例
 * 终端/命令行
+  * [top-command-line-tools](https://stackify.com/top-command-line-tools/) 最受欢迎的命令行工具
   * [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
   * [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
   * [commander](https://github.com/tj/commander.js) 命令行界面开发库
+  * [clui](https://github.com/nathanpeck/clui) spinners、sparklines、progress bars图样显示组件
+  * [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
+  * [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
+  * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 * 其他库
   * [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
   * [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
