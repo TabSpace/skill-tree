@@ -65,7 +65,7 @@
     * [svg线条动画 vivus](https://github.com/maxwellito/vivus)
   * [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share)
 * 开发调试 - 调试相关的工具与文章
-  
+
 * 兼容性
   * [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
   * ✭ [can i use](http://caniuse.com/)
@@ -621,6 +621,7 @@
   * [markdown语法说明](http://wowubuntu.com/markdown/)
   * [markdown语法示例](http://equation85.github.io/blog/markdown-examples/)
   * [md 转静态站](https://github.com/AlloyTeam/omi/tree/master/md2site)
+  * [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器，vuepress 使用它完成对 md 文件的解析
 * [gitbook](https://github.com/GitbookIO/gitbook)
   * [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
   * [gitbook 简明教程](http://www.chengweiyang.cn/gitbook/introduction/README.html)
@@ -693,6 +694,8 @@
 * [贝塞尔动画生成器](http://greweb.me/bezier-easing-editor/example/)
 * [TimeIs](https://time.is/zh/Beijing) 用于校对时间，验证直播延迟时有用
 * [文件转base64](http://www.motobit.com/util/base64-decoder-encoder.asp)
+* [regex101](https://regex101.com/) 在线正则检查工具，可用来研究正则是否存在致命缺陷
+  * [一个正则表达式引发的血案，让线上CPU100%异常！](https://juejin.im/post/5b287ea6f265da596d04a324)
 
 ------
 
