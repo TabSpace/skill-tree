@@ -704,6 +704,7 @@
 * [regex101](https://regex101.com/) 在线正则检查工具，可用来研究正则是否存在致命缺陷
 	* [一个正则表达式引发的血案，让线上CPU100%异常！](https://juejin.im/post/5b287ea6f265da596d04a324)
 * [obsproject](https://obsproject.com/) 跨平台直播推流工具，适合测试rtmp直播
+* [FSCapture](http://www.faststone.org/FSCaptureDetail.htm) 屏幕像素数值测量工具
 
 ------
 
