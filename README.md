@@ -566,6 +566,7 @@
 	* [weex](https://github.com/apache/incubator-weex) vue移动app
 	* [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 	* [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
+	* [vue-awesome-swiper](https://surmon-china.github.io/vue-awesome-swiper/) 基于 swiper 4，支持SSR
 
 ### GOOGLE
 
@@ -716,6 +717,10 @@
 	* [rsyslog](https://www.rsyslog.com/)
 		* [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
 		* [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
+	* [docker](https://www.docker.com/)
+		* [docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
+		* [dockerhub](https://hub.docker.com/) docker 仓库
+		* [阿里云docker镜像服务](https://cr.console.aliyun.com)
 * php
 	* [smarty](http://www.smarty.net/)
 	* [php之道](http://wulijun.github.io/php-the-right-way/)
