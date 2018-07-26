@@ -721,6 +721,14 @@
 		* [docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 		* [dockerhub](https://hub.docker.com/) docker 仓库
 		* [阿里云docker镜像服务](https://cr.console.aliyun.com)
+* go
+	* Beego 模块化的web框架
+		* Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
+		* Beego Swagger 代码注释生成 api 在线文档
+	* Termui 跨平台，自适应的UI/Dashboard工具
+	* gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
+	* therecipe/qt 跨平台GUI库
+	* present 幻灯片展示工具
 * php
 	* [smarty](http://www.smarty.net/)
 	* [php之道](http://wulijun.github.io/php-the-right-way/)
