@@ -285,8 +285,7 @@
 		* [cors跨域发送cookie](http://harttle.com/2016/12/28/cors-with-cookie.html)
 	* [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
 	* [referrer-policy](https://imququ.com/post/referrer-policy.html)
-	* flex 弹性布局
-		* [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+	* [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 		* [flex bug 列表](https://github.com/philipwalton/flexbugs)
 	* transform
 		* [Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
@@ -296,33 +295,33 @@
 	* [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 	* webgl
 		* [3D图形:矩阵与线性变换](https://www.jianshu.com/p/6c2c0542071d)
-	* performance
-		* [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
+	* [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
+	* [webassembly](http://webassembly.org/)
 * 工具
 	* [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 * 文章
-	* [浏览器渲染原理](http://coolshell.cn/articles/9666.html)
-		* ✭ [how browser work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 	* [浏览器交互流程](https://github.com/skyline75489/what-happens-when-zh_CN) --当你按下回车键时发生了什么
 	* [浏览器性能优化指导](https://developers.google.com/speed/docs/insights/rules?csw=1)
 		* [14 rules](http://stevesouders.com/hpws/rules.php)
+		* [浏览器渲染原理](http://coolshell.cn/articles/9666.html)
+			* ✭ [how browser work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 		* [实现达到 60FPS 的高性能交互动画](https://zhuanlan.zhihu.com/p/29729996?refer=FrontendMagazine)
-	* [css3不为人知的高级属性](http://www.cnblogs.com/radom/archive/2012/04/19/2457356.html)
-	* [一些试验性css属性](http://www.cnblogs.com/html5salon/archive/2012/06/13/2547798.html)
+		* [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
+	* css
+		* [css3不为人知的高级属性](http://www.cnblogs.com/radom/archive/2012/04/19/2457356.html)
+		* [一些试验性css属性](http://www.cnblogs.com/html5salon/archive/2012/06/13/2547798.html)
 	* [正则表达式回溯法原理](https://mp.weixin.qq.com/s/sT8kQkfLDvB1ahoJ6Ss0Uw)
 	* [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
 	* [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 	* [用JSON构建API的标准指南](http://jsonapi.org.cn/)
-	* [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
-	* [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * 方法论建设
+	* [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 	* [《屋中的大象》-- Apache基金会副总裁几十年的观察](https://www.oschina.net/news/79166/apache-foundation-ceo-decades-views)
 	* [编程哲学（一）：愚者无疑，智者多虑](https://zhuanlan.zhihu.com/p/37653499) 后续有 1-10 多篇文章，都在一个专栏下
 
 ### 其他文章
 
 * [android webapp](https://developer.android.com/guide/webapps/index.html)
-* [webassembly](http://webassembly.org/)
 * [渐进式jpeg](http://blog.jobbole.com/44038/)
 * [知乎的模糊预览](https://www.zhihu.com/question/55622930)
 
