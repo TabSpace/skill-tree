@@ -296,6 +296,8 @@
 	* [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 	* webgl
 		* [3D图形:矩阵与线性变换](https://www.jianshu.com/p/6c2c0542071d)
+	* performance
+		* [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
 * 工具
 	* [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 * 文章
