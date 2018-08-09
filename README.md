@@ -390,25 +390,26 @@
 
 * dialog
 	* 适用pc
-		* [artDialog](https://github.com/aui/artDialog)
+		* [artDialog](https://github.com/aui/artDialog) 简洁的对话框，QQ空间在用
+		* [sweetalert](https://github.com/t4t5/sweetalert) 动画效果惊艳，但展示面积较大，不太适合移动端
 	* 均可
-		* [sweetalert](https://github.com/t4t5/sweetalert)
-		* [vex](https://github.com/HubSpot/vex)
-		* [layer](https://github.com/sentsin/layer)
+		* [vex](https://github.com/HubSpot/vex) 3d队列值得参考
+		* [layer](https://github.com/sentsin/layer) 具有高兼容性的对话框
 * 集合
-	* [framework7](http://framework7.io/)
+	* [framework7](http://framework7.io/) 适合传统h5站点开发
 		* [framework7-taobao](http://framework7.taobao.org/)
 		* [msui-taobao](http://m.sui.taobao.org/components/)
 	* [spectre](https://github.com/picturepan2/spectre) 轻量级响应式css框架
-	* [foundation](https://github.com/zurb/foundation-sites)
+	* [foundation](https://github.com/zurb/foundation-sites) 很多响应式框架依赖的响应式样式框架
 	* [amaze ui](https://github.com/amazeui/amazeui) 重视动画交互
 	* [flat ui](https://github.com/designmodo/Flat-UI) 扁平化
-	* [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
-	* [bootstrap](https://github.com/twbs/bootstrap)
+	* [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) 响应式样式框架
+	* [bootstrap](https://github.com/twbs/bootstrap) twitter 出品的响应式框架
 		* [bootstrap中文网](http://v3.bootcss.com/)
 	* [layer UI](https://github.com/sentsin/layui/) 原生代码框架
-	* [weui](https://github.com/weui/weui) 微信风格
-	* [spectre](https://github.com/picturepan2/spectre)
+	* [weui](https://github.com/weui/weui) 微信风格样式框架，适合移动端开发
+	* [spectre](https://github.com/picturepan2/spectre) 一个响应式css框架
+	* [飞冰](https://github.com/alibaba/ice/) 阿里的飞冰，用于中后台项目搭建
 
 ### 多媒体展示
 
