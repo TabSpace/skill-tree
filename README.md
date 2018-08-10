@@ -658,7 +658,8 @@
 	* [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
 * [vim](http://www.vim.org/) vim官方资源
 	* [循序渐进学习 vim](http://coolshell.cn/articles/5426.html)
-
+	* [Vim学习指南](https://www.oschina.net/translate/learn-vim-progressively) 循序渐进学习Vim，简洁教程
+	* [Vim快速选中、删除、复制引号或者括号中的内容](https://www.linuxsong.org/2010/09/vim-quick-select-copy-delete/)
 ### 代码展示
 
 * ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
