@@ -126,6 +126,7 @@
 		* [rap](https://github.com/thx/RAP) 阿里 java mock server
 		* [json server](https://github.com/typicode/json-server)
 		* [swagger](https://swagger.io/)
+		* [yapi](https://github.com/YMFE/yapi) 一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 		* [spore-mock](https://github.com/SporeUI/spore-mock) 本地化mock服务
 * 测试
 	* [mocha](https://github.com/mochajs/mocha) 前端测试框架，既可以用于浏览器端，也可以用于服务器端
