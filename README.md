@@ -94,9 +94,15 @@
 * 任务管理
 	* ✭ [gulp](http://gulpjs.com/)
 	* [grunt](http://gruntjs.com/)
-* [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
-* [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
+* 规范化
 	* [semver](https://semver.org/lang/zh-CN/) 语义化版本说明
+		* [commitizen](https://github.com/commitizen/cz-cli) 代码提交规范化
+		* [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
+	* [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
+	* [angular-CONTRIBUTING](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) angular 提交规范，用于实现参考规范
+	* [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
+	* [husky](https://github.com/typicode/husky) 便捷管理 Git hooks
+	* [lint-staged](https://github.com/okonet/lint-staged) 提交前 lint
 
 ### 开发调试
 
@@ -211,10 +217,6 @@
 	* [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 	* [坑：换行符自动转换](https://github.com/cssmagic/blog/issues/22)
 	* [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
-	* 规范化，自动化
-		* [commitizen](https://github.com/commitizen/cz-cli) 代码提交规范化
-		* [angular-CONTRIBUTING](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) angular 提交规范，用于实现参考规范
-		* [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
 * svn
 	* [tortoise svn](https://tortoisesvn.net/index.zh.html)
 		* [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
