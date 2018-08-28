@@ -96,6 +96,7 @@
 	* [grunt](http://gruntjs.com/)
 * [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 * [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
+	* [semver](https://semver.org/lang/zh-CN/) 语义化版本说明
 
 ### 开发调试
 
