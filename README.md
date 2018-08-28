@@ -1,5 +1,5 @@
 # skill-tree
- 
+
 个人资源积累，✭ 号表示强烈推荐
 
 ------
@@ -95,6 +95,7 @@
 	* ✭ [gulp](http://gulpjs.com/)
 	* [grunt](http://gruntjs.com/)
 * [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
+* [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
 
 ### 开发调试
 
@@ -103,9 +104,13 @@
 	* [中文官网](http://www.browsersync.cn/)
 * ✭ [vConsole](https://github.com/WechatFE/vConsole) 提供一个Js编写的控制台，解决手机浏览器调试麻烦的问题
 * [saucelabs 开放测试平台](https://saucelabs.com/) 可在github readme生成兼容列表
+* 移动端调试
+	* [weinre](https://github.com/nupthale/weinre) 移动应用调试工具
+	* [adb](https://developer.android.com/studio/command-line/adb?hl=zh-cn#Enabling) Android 调试桥
 * 代理
 	* ✭ [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
 	* ✭ [whistle](https://github.com/avwo/whistle) 基于node的调试代理工具
+	* ✭ [VRouter](https://github.com/icymind/VRouter) 跨平台搭建透明代理
 	* [anyproxy](https://github.com/alibaba/anyproxy) 基于 node 的代理工具，阿里出品
 	* [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
 * 持续集成
@@ -141,6 +146,9 @@
 * 日志管理与质量监控
 	* [sentry](https://github.com/getsentry/sentry)
 	* [BetterJS](https://github.com/BetterJS) 原名 BadJS
+* chrome插件
+	* [Edit-This-Cookie](https://github.com/fcapano/Edit-This-Cookie) cookie 编辑
+	* [FeHelper](https://github.com/zxlie/FeHelper) 前端调试助手
 
 ### NPM
 
@@ -376,6 +384,7 @@
 * [highcharts](https://github.com/highcharts/highcharts) 开源图表框架，兼容性好
 * [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
 * [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
+* [vis](https://github.com/almende/vis)
 
 ### 路由
 
@@ -415,12 +424,15 @@
 ### 多媒体展示
 
 * [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) 加载图片并缩放
+* [fullPage](https://github.com/alvarotrigo/fullPage.js) 创建全屏滚动页面的框架
 * 图片裁剪
 	* [jcrop](https://github.com/tapmodo/Jcrop/)
 	* [cropperjs](https://github.com/fengyuanchen/cropperjs)
 * 幻灯
 	* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) 经典桌面swiper
 	* [swiper](https://github.com/nolimits4web/Swiper) 幻灯，h5slides
+	* [impress](https://github.com/impress/impress.js) 创建炫目的幻灯展示
+	* [webslides](https://github.com/webslides/webslides) 快速创建幻灯
 * [video.js](https://github.com/videojs/video.js) 视频
 * [SoundJS](https://github.com/CreateJS/SoundJS) 基于Audio Api 音频处理
 * [EaselJS](https://github.com/CreateJS/EaselJS) 对 canvas api 的封装
@@ -565,6 +577,7 @@
 	* [vue-router](https://github.com/vuejs/vue-router) vue 路由
 	* [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
 	* [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
+	* [DejaVue](https://github.com/MiCottOn/DejaVue) vue 可视化调试工具
 * other
 	* [weex](https://github.com/apache/incubator-weex) vue移动app
 	* [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
@@ -617,6 +630,9 @@
 * [mescroll](https://github.com/mescroll/mescroll) 上拉刷新，下拉加载交互库
 * [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) 点击锚点，平滑滚动
 * [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
+* [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
+* [prism](https://github.com/PrismJS/prism) 实现代码高亮
+* [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
 
 ------
 
