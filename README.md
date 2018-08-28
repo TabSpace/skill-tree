@@ -103,6 +103,7 @@
 	* [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
 	* [husky](https://github.com/typicode/husky) 便捷管理 Git hooks
 	* [lint-staged](https://github.com/okonet/lint-staged) 提交前 lint
+	* [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
 
 ### 开发调试
 
