@@ -477,6 +477,11 @@
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 
+### 编辑器
+
+* [CodeMirror](https://github.com/codemirror/CodeMirror/) 代码编辑器
+* [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
+
 ### Node
 
 * 运维
@@ -636,7 +641,6 @@
 * [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
 * [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
 * [prism](https://github.com/PrismJS/prism) 实现代码高亮
-* [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
 
 ------
 
