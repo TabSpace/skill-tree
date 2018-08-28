@@ -671,7 +671,7 @@
 	* [docdash](https://github.com/clenemt/docdash) jsdoc模板，界面看起来比较舒服，移动端界面看起来不完善
 	* [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，适合传统js库，不适合单独模块文档构建
 
-### 编辑器
+### 代码编辑
 
 * ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
 	* Beautify, Prettier 美化代码
