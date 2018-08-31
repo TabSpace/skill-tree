@@ -308,6 +308,7 @@
 	* [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 	* webgl
 		* [3D图形:矩阵与线性变换](https://www.jianshu.com/p/6c2c0542071d)
+		* [图形学 光栅化详解](https://www.jianshu.com/p/54fe91a946e2)
 	* [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
 	* [webassembly](http://webassembly.org/)
 * 工具
