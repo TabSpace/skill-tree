@@ -315,6 +315,7 @@
 	* [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 * 文章
 	* [浏览器交互流程](https://github.com/skyline75489/what-happens-when-zh_CN) --当你按下回车键时发生了什么
+		* [Life of a Pixel，让你更透彻知道浏览器是如何工作](https://mp.weixin.qq.com/s/87OYpou4ynpvYlcExEO40w)
 	* [浏览器性能优化指导](https://developers.google.com/speed/docs/insights/rules?csw=1)
 		* [14 rules](http://stevesouders.com/hpws/rules.php)
 		* [浏览器渲染原理](http://coolshell.cn/articles/9666.html)
