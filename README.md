@@ -693,6 +693,7 @@
 * ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
 * [jsbin](http://jsbin.com/?html,js,output)
 * [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
+* [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
 
 ### 云服务
 
