@@ -483,6 +483,8 @@
 
 ### 编辑器
 
+* [slate](https://github.com/ianstormtaylor/slate) 现代富文本编辑器，与 React 集成性很好
+* [draft-js](https://github.com/facebook/draft-js) 基于react的编辑器
 * [CodeMirror](https://github.com/codemirror/CodeMirror/) 代码编辑器
 * [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
 
@@ -533,6 +535,15 @@
 	* [sofa-rpc-node](https://github.com/alipay/sofa-rpc-node) 一个通用的 Nodejs RPC 解决方案
 	* [sofa-bolt-node](https://github.com/alipay/sofa-bolt-node) SOFABolt 的 Nodejs 实现，它包含了 Bolt 通讯层协议框架，以及 RPC 应用层协议定制
 
+### 客户端开发
+
+* [cordova](https://cordova.apache.org/) PhoneGap/Cordova Hybrid App
+* [appcan](http://www.appcan.cn/) 国内 Hybrid App
+* [react-native](https://github.com/facebook/react-native) React 跨平台 app 开发工具
+* [NativeScript](https://github.com/NativeScript/NativeScript) 跨平台 app 开发工具
+* [weex](https://github.com/apache/incubator-weex) vue 跨平台 app 开发工具
+* [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架，来自 Google
+
 ### jQuery
 
 * [jquery](http://jquery.com/)
@@ -559,7 +570,6 @@
 * ssr
 	* [reactphp](https://github.com/reactphp/react)
 * 架构
-	* [draft-js](https://github.com/facebook/draft-js) 基于react的编辑器
 	* [redux](https://github.com/reactjs/redux) 通用react数据仓库
 		* [redux-devtools](https://github.com/gaearon/redux-devtools)
 	* [mobx](https://github.com/mobxjs/mobx) 另一个数据仓库
@@ -592,7 +602,6 @@
 	* [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
 	* [DejaVue](https://github.com/MiCottOn/DejaVue) vue 可视化调试工具
 * other
-	* [weex](https://github.com/apache/incubator-weex) vue移动app
 	* [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 	* [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
 	* [vue-awesome-swiper](https://surmon-china.github.io/vue-awesome-swiper/) 基于 swiper 4，支持SSR
@@ -603,7 +612,6 @@
 * [angular](https://angularjs.org/) 完善的后台应用框架，推荐使用 TypeScript
 	* [angular 中文社区](http://www.angularjs.cn/)
 	* [ngDialog](https://github.com/likeastore/ngDialog)
-* [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架
 * fastpage SEO整站优化方案
 	* [amp](https://www.ampproject.org/) 来自谷歌
 		* [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
