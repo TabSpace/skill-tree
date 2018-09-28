@@ -786,7 +786,7 @@
 	* [beego](https://github.com/astaxie/beego) web框架
 	* [skynet-archive](https://github.com/skynetservices/skynet-archive) 学习分布式
 	* [etcd-io/etcd](https://github.com/etcd-io/etcd) 学习分布式
-	* [Go编程基础]](https://github.com/Unknwon/go-fundamental-programming)
+	* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 	* [Go Web基础](https://github.com/Unknwon/go-web-foundation)
 	* [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
 * 统计
