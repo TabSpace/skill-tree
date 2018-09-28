@@ -776,6 +776,19 @@
 	* [php之道](http://wulijun.github.io/php-the-right-way/)
 	* [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
 	* [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+* go
+	* [怎么学习Golang](https://www.zhihu.com/question/23486344)
+	* [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
+	* [tour-golang](https://tour.golang.org/) go 语言教程
+	* [gobyexample](https://gobyexample.com/) go 示例代码
+	* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+	* [webgo](http://webgo.io/?reqp=1&reqr=) 学习路由怎么实现
+	* [beego](https://github.com/astaxie/beego) web框架
+	* [skynet-archive](https://github.com/skynetservices/skynet-archive) 学习分布式
+	* [etcd-io/etcd](https://github.com/etcd-io/etcd) 学习分布式
+	* [Go编程基础]](https://github.com/Unknwon/go-fundamental-programming)
+	* [Go Web基础](https://github.com/Unknwon/go-web-foundation)
+	* [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
 * 统计
 	* [如何使用第三方统计工具](http://e.qq.com/faq/list074.html)
 	* 数据可视化
