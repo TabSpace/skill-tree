@@ -763,20 +763,12 @@
 		* [docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 		* [dockerhub](https://hub.docker.com/) docker 仓库
 		* [阿里云docker镜像服务](https://cr.console.aliyun.com)
-* go
-	* Beego 模块化的web框架
-		* Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
-		* Beego Swagger 代码注释生成 api 在线文档
-	* Termui 跨平台，自适应的UI/Dashboard工具
-	* gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
-	* therecipe/qt 跨平台GUI库
-	* present 幻灯片展示工具
 * php
 	* [smarty](http://www.smarty.net/)
 	* [php之道](http://wulijun.github.io/php-the-right-way/)
 	* [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
 	* [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
-* go
+* [go](https://golang.org/)
 	* [怎么学习Golang](https://www.zhihu.com/question/23486344)
 	* [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
 	* [tour-golang](https://tour.golang.org/) go 语言教程
@@ -789,6 +781,13 @@
 	* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 	* [Go Web基础](https://github.com/Unknwon/go-web-foundation)
 	* [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
+	* Beego 模块化的web框架
+		* Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
+		* Beego Swagger 代码注释生成 api 在线文档
+	* Termui 跨平台，自适应的UI/Dashboard工具
+	* gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
+	* therecipe/qt 跨平台GUI库
+	* present 幻灯片展示工具
 * 统计
 	* [如何使用第三方统计工具](http://e.qq.com/faq/list074.html)
 	* 数据可视化
