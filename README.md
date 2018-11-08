@@ -805,8 +805,8 @@
 	* [hexo](https://hexo.io/)
 * 聊天机器人
 	* 微信
-		* [wxpy](https://github.com/youfou/wxpy)
-		* [itChat](https://github.com/littlecodersh/ItChat)
+		* [wxpy](https://github.com/youfou/wxpy) 已暂停维护1年
+		* [itChat](https://github.com/littlecodersh/ItChat) 还在持续维护中
 	* qq
 		* [qqbot](https://github.com/nodejh/qqbot)
 	* facebook
