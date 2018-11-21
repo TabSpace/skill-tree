@@ -480,6 +480,7 @@
 * [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
+* [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) 解决 item2 使用 rz,sz 管理终端文件的问题
 
 ### 编辑器
 
