@@ -39,6 +39,7 @@
 	* [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
 * shell
 	* [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+	* [shell 教程](http://www.runoob.com/linux/linux-shell.html)
 	* ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 ### HTML5
