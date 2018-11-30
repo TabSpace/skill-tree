@@ -218,10 +218,12 @@
 	* [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 	* [坑：换行符自动转换](https://github.com/cssmagic/blog/issues/22)
 	* [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
+	* [nodegit](https://github.com/nodegit/nodegit) git操作的node封装
 * svn
 	* [tortoise svn](https://tortoisesvn.net/index.zh.html)
 		* [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
 	* [Linux下安装svn client](http://blog.csdn.net/kenera/article/details/5746585)
+	* [node-svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn操作的node封装
 
 ### 服务器环境
 
@@ -497,7 +499,6 @@
 * 工具
 	* [node-inspector](https://github.com/node-inspector/node-inspector) node调试工具
 	* [execa](https://github.com/sindresorhus/execa) better child_process
-	* [node-svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn 操作 node api 版
 	* hotload
 		* [nodemon](https://github.com/remy/nodemon) 监听文件重启服务
 		* [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
@@ -529,7 +530,6 @@
 	* [url-join](https://github.com/jfromaniello/url-join) url 字符串连接
 	* [iconv](https://github.com/bnoordhuis/node-iconv) 页面编码转换
 	* [fs-extra](https://github.com/jprichardson/node-fs-extra) 文件操作增强
-	* [svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn操作的node封装
 	* [url-parse](https://github.com/unshiftio/url-parse) url解析
 	* [winston](https://github.com/winstonjs/winston) 日志管理
 	* [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
