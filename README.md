@@ -655,6 +655,7 @@
 * [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
 * [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
 * [prism](https://github.com/PrismJS/prism) 实现代码高亮
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
 ------
 
