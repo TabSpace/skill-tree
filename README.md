@@ -415,6 +415,12 @@
 		* [vex](https://github.com/HubSpot/vex) 3d队列值得参考
 		* [layer](https://github.com/sentsin/layer) 具有高兼容性的对话框
 * 集合
+	* [material](https://www.material.io/) Material Design
+		* [material-components-web-catalog](https://material-components.github.io/material-components-web-catalog/#/) 组件目录
+		* [material-components-web](https://github.com/material-components/material-components-web) 示例UI
+		* [material-ui](https://github.com/mui-org/material-ui) 实现 Google Material Design 的 React 组件库
+		* [material-design-lite](https://github.com/google/material-design-lite) 谷歌官方组件库
+		* [material2](https://github.com/angular/material2) 基于 Angular 的 MDUI
 	* [framework7](http://framework7.io/) 适合传统h5站点开发
 		* [framework7-taobao](http://framework7.taobao.org/)
 		* [msui-taobao](http://m.sui.taobao.org/components/)
@@ -704,7 +710,8 @@
 ### 代码展示
 
 * ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
-* [jsbin](http://jsbin.com/?html,js,output)
+* [codesandbox](https://codesandbox.io/) 谷歌部分项目在用，看界面感觉不错
+* [jsbin](http://jsbin.com/?html,js,output) 老牌代码展示服务
 * [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
 * [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
 
