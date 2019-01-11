@@ -149,6 +149,7 @@
 	* [karma](https://github.com/karma-runner/karma) 测试自动化
 	* [nightwatchjs](https://github.com/nightwatchjs/nightwatch) UI测试自动化
 	* [macaca](https://github.com/alibaba/macaca) 多端自动化测试解决方案
+	* [cypress](https://github.com/cypress-io/cypress) 基于 chrome 的e2e测试
 * 无界面浏览器 (Headless Browser)
 	* ✭ [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 	* [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器，作者已宣布停止维护
