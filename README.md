@@ -535,6 +535,7 @@
 		* [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
 		* [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 * Node实用库积累
+	* [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 	* [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
 	* [url-join](https://github.com/jfromaniello/url-join) url 字符串连接
 	* [iconv](https://github.com/bnoordhuis/node-iconv) 页面编码转换
