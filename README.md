@@ -295,6 +295,7 @@
 	* [面试题](https://github.com/jackqqxu/FE-interview)
 	* [慕课网](http://www.imooc.com/)
 	* [laravel 视频教程](https://www.laravist.com/)
+	* [Node最佳实践](https://github.com/i0natan/nodebestpractices)
 * 知识点
 	* [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 	* [ajax](https://segmentfault.com/a/1190000004322487)
