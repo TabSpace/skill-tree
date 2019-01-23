@@ -105,6 +105,7 @@
 	* [husky](https://github.com/typicode/husky) 便捷管理 Git hooks
 	* [lint-staged](https://github.com/okonet/lint-staged) 提交前 lint
 	* [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
+		[gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
 ### 开发调试
 
@@ -296,6 +297,7 @@
 	* [慕课网](http://www.imooc.com/)
 	* [laravel 视频教程](https://www.laravist.com/)
 	* [Node最佳实践](https://github.com/i0natan/nodebestpractices)
+	* [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
 * 知识点
 	* [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 	* [ajax](https://segmentfault.com/a/1190000004322487)
