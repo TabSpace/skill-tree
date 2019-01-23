@@ -105,7 +105,7 @@
 	* [husky](https://github.com/typicode/husky) 便捷管理 Git hooks
 	* [lint-staged](https://github.com/okonet/lint-staged) 提交前 lint
 	* [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
-		[gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
+		* [gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
 ### 开发调试
 
