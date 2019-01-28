@@ -222,6 +222,7 @@
 	* [坑：换行符自动转换](https://github.com/cssmagic/blog/issues/22)
 	* [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
 	* [nodegit](https://github.com/nodegit/nodegit) git操作的node封装
+	* [gitmoji](https://gitmoji.carloscuesta.me/) git日志图标
 * svn
 	* [tortoise svn](https://tortoisesvn.net/index.zh.html)
 		* [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
