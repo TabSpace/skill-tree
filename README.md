@@ -283,6 +283,7 @@
 	* [GitHub 漫游指南](https://github.com/phodal/github-roam)
 	* [果壳中的git](https://github.com/geeeeeeeeek/git-recipes/wiki)
 	* [为开源项目弄个漂亮的文档](https://laravel-china.org/topics/1965/how-to-get-a-good-document-for-your-open-source-projects)
+	* [维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
 * 第三方工具
 	* [Astral](https://app.astralapp.com/dashboard) 资源管理工具
 	* [waffle](https://waffle.io/) 把issue变成任务管理器
