@@ -273,6 +273,7 @@
 	* [github showcases](https://github.com/showcases/) 开源范例
 	* [github explorer](https://github.com/explore) 资源浏览器
 	* [静态站点搭建](https://pages.github.com/)
+	* [probot](https://github.com/probot/probot) 搭建Github机器人
 * 文章
 	* [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
 	* [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
