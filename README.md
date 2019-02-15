@@ -95,17 +95,19 @@
 * 任务管理
 	* ✭ [gulp](http://gulpjs.com/)
 	* [grunt](http://gruntjs.com/)
-* 规范化
-	* [semver](https://semver.org/lang/zh-CN/) 语义化版本说明
-		* [commitizen](https://github.com/commitizen/cz-cli) 代码提交规范化
-		* [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
+* 项目规范化
 	* [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 	* [angular-CONTRIBUTING](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) angular 提交规范，用于实现参考规范
-	* [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
-	* [husky](https://github.com/typicode/husky) 便捷管理 Git hooks
+	* [semver](https://semver.org/lang/zh-CN/) 语义化版本说明
+	* [husky](https://github.com/typicode/husky) 便捷添加 Git hooks 。
 	* [lint-staged](https://github.com/okonet/lint-staged) 提交前 lint
+	* [commitizen](https://github.com/commitizen/cz-cli) 代码提交规范化
+	* [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) changelog 自动生成
+	* [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理
+	* [standard-version](https://github.com/conventional-changelog/standard-version) 以较为轻量的方式生成 changelog 。
+	* [commitlint](https://github.com/conventional-changelog/commitlint) 规范化提交内容。
 	* [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
-		* [gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
+	* [gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
 ### 开发调试
 
