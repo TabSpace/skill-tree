@@ -506,6 +506,7 @@
 ### 编辑器
 
 * [slate](https://github.com/ianstormtaylor/slate) 现代富文本编辑器，与 React 集成性很好
+* [quill](https://github.com/quilljs/quill) 现代所见即所得编辑器
 * [draft-js](https://github.com/facebook/draft-js) 基于react的编辑器
 * [CodeMirror](https://github.com/codemirror/CodeMirror/) 代码编辑器
 * [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
@@ -544,6 +545,8 @@
 	* [node-webkit](https://github.com/nwjs/nw.js/)
 		* [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
 		* [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
+* 数据库
+	* [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
 * Node实用库积累
 	* [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 	* [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
@@ -759,6 +762,8 @@
 
 * [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
 * [unicode 图表字符集合](http://www.unicode.org/charts/)
+	* [unicodeicon](http://www.adminpub.com/tools/unicodeicon/) utf8 图形字符
+	* [unicode-table](https://unicode-table.com/cn/) utf8 字符搜索
 * [各个CDN服务提供的静态资源](https://cdnjs.com/)
 	* [通用CDN文件](https://unpkg.com/#/)
 * [在线JS代码格式化](http://tool.chinaz.com/Tools/JsFormat.aspx)
