@@ -21,7 +21,8 @@
 
 * [javascript标准参考 阮一峰版](http://javascript.ruanyifeng.com/)
 * [js 与 dom 参考(w3schools)](http://www.w3schools.com/jsref/)
-* [TypeScript](https://www.typescriptlang.org/)
+* TypeScript
+	* [TypeScript](https://www.typescriptlang.org/)
 	* [TypeScript 中文网](https://www.tslang.cn/)
 	* [TypeScript 入门教程](https://ts.xcatliu.com/)
 * es6
