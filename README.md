@@ -2,7 +2,7 @@
 
 个人资源积累，✭ 号表示强烈推荐
 
--------
+------
 
 ## 基础知识
 
@@ -582,7 +582,8 @@
 
 * [react](https://facebook.github.io/react/)
 * 教程与学习
-	* [react技术栈教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html) 阮一峰版
+	* [react入门教程](http://react.html.cn/tutorial/tutorial.html)
+	* [react中文文档](http://react.html.cn/docs/getting-started.html)
 	* [react-china](http://react-china.org/)
 * UI
 	* [ant-design](https://github.com/ant-design/ant-design)
@@ -600,6 +601,7 @@
 	* [mobx](https://github.com/mobxjs/mobx) 另一个数据仓库
 		* [中文文档](https://cn.mobx.js.org/)
 	* [immer](https://github.com/mweststrate/immer) immutable state 管理器
+	* [formik](https://github.com/jaredpalmer/formik) 表单处理
 * 工程
 	* [jest](https://github.com/facebook/jest) 测试工具
 	* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)
