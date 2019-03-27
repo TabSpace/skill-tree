@@ -925,6 +925,10 @@
 	* [少有人知的github使用技巧](https://segmentfault.com/a/1190000000475547)
 	* [GitHub 漫游指南](https://github.com/phodal/github-roam)
 	* [果壳中的git](https://github.com/geeeeeeeeek/git-recipes/wiki)
+	* ✭ [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+	* ✭ [如何向开源项目提交无法解答的问题](https://zhuanlan.zhihu.com/p/25795393)
+	* ✭ [如何有效地报告 Bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
+	* ✭ [如何向开源社区提问题](https://github.com/seajs/seajs/issues/545)
 * Github 相关工具
 	* [Astral](https://app.astralapp.com/dashboard) 资源管理工具
 	* [waffle](https://waffle.io/) 把issue变成任务管理器
