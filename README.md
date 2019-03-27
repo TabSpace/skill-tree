@@ -23,6 +23,15 @@
 
 * [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 
+### 若要紧追趋势，下面是一波快捷通道
+
+* ✭ [FrontendMagazine](https://zhuanlan.zhihu.com/FrontendMagazine) 知乎前端外刊评论
+* ✭ [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
+* ✭ [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
+* ✭ [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
+* [javascriptweekly](https://javascriptweekly.com/) javascript 周报
+* [nodeweekly](https://nodeweekly.com/) node 周报
+
 ### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
 
 * [w3c](https://www.w3.org/)
@@ -96,7 +105,6 @@
 * [慕课网](http://www.imooc.com/)
 * [laravel 视频教程](https://www.laravist.com/)
 * [Node最佳实践](https://github.com/i0natan/nodebestpractices)
-* [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
 
 ### 有些站点用游戏的方式来教学
 
