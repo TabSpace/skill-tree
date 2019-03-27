@@ -912,29 +912,31 @@
 
 * [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
 
-### 经典开源社区提供了大量轮子
+### 经典开源社区 GITHUB 提供了大量轮子
 
 * Github
 	* [github trending](https://github.com/trending?l=javascript) javascript 热门趋势
 	* [github showcases](https://github.com/showcases/) 开源范例
 	* [github explorer](https://github.com/explore) 资源浏览器
-	* [静态站点搭建](https://pages.github.com/)
-	* [probot](https://github.com/probot/probot) 搭建Github机器人
 * 文章
 	* [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
 	* [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 	* [如何为开源做贡献](https://guides.github.com/activities/contributing-to-open-source/index.html)
-	* [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)
 	* [少有人知的github使用技巧](https://segmentfault.com/a/1190000000475547)
 	* [GitHub 漫游指南](https://github.com/phodal/github-roam)
 	* [果壳中的git](https://github.com/geeeeeeeeek/git-recipes/wiki)
-	* [为开源项目弄个漂亮的文档](https://laravel-china.org/topics/1965/how-to-get-a-good-document-for-your-open-source-projects)
+* Github 相关工具
+	* [Astral](https://app.astralapp.com/dashboard) 资源管理工具
+	* [waffle](https://waffle.io/) 把issue变成任务管理器
+	* [feathub](https://feathub.com/) 特性投票
+	* [probot](https://github.com/probot/probot) 搭建Github机器人
+	* [pages](https://pages.github.com/) 静态站点搭建
+* Github 开源指南
 	* [开源指南](https://github.com/github/opensource.guide) 英文原版
 	* [开源指南中文版](https://ocselected.github.io/open-source-guide/)
 	* [维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
-* 第三方工具
-	* [Astral](https://app.astralapp.com/dashboard) 资源管理工具
-	* [waffle](https://waffle.io/) 把issue变成任务管理器
+	* [为开源项目弄个漂亮的文档](https://laravel-china.org/topics/1965/how-to-get-a-good-document-for-your-open-source-projects)
+	* [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)
 
 ### 时常关注下 awesome 系列，可以有效了解业界发展趋势
 
