@@ -945,7 +945,7 @@
 * 个人博客搭建
 	* [hexo](https://hexo.io/)
 
-### 还可以DIY一个女朋友
+### 还可以DIY一个配偶
 
 * 微信机器人
 	* [wechaty](https://github.com/Chatie/wechaty) 微信机器人Node版本
