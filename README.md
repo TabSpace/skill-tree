@@ -529,6 +529,7 @@
 * 即时通讯
 	* [socket.io](https://github.com/socketio/socket.io) 传统 websocket 库
 	* [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
+	* [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) 另一款 Node websocket 的实现
 * 框架
 	* [thinkjs](https://github.com/thinkjs/thinkjs)
 	* [koa](https://github.com/koajs/koa) 现代 node 框架
