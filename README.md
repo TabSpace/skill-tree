@@ -935,6 +935,7 @@
 	* [feathub](https://feathub.com/) 特性投票
 	* [probot](https://github.com/probot/probot) 搭建Github机器人
 	* [pages](https://pages.github.com/) 静态站点搭建
+	* [issuehunt](https://issuehunt.io/) issue搜索
 * Github 开源指南
 	* [开源指南](https://github.com/github/opensource.guide) 英文原版
 	* [开源指南中文版](https://ocselected.github.io/open-source-guide/)
