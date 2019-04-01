@@ -269,7 +269,9 @@
 	* [淘宝npm镜像](http://npm.taobao.org/)
 	* [yarn](https://github.com/yarnpkg) facebook 推出的 npm 替代方案，安装模块更迅速
 	* [npm-runkit](https://npm.runkit.com/) 一个简单的npm模块实验室
+	* [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
 	* [npms.io](https://npms.io/) npm模块搜索
+	* [npm命令配置技巧](https://www.jianshu.com/p/0f8ba68a04ec)
 
 ### 部分代码不是直接在浏览器执行的，而是需要编译后再执行，有些代码是需要进行编译优化
 
@@ -898,7 +900,6 @@
 * [codesandbox](https://codesandbox.io/) 谷歌部分项目在用，看界面感觉不错
 * [jsbin](http://jsbin.com/?html,js,output) 老牌代码展示服务
 * [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
-* [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
 
 ### 有些例子还想来录制 gif ，分享动态画面？
 
