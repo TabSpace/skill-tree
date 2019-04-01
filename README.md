@@ -272,6 +272,7 @@
 	* [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
 	* [npms.io](https://npms.io/) npm模块搜索
 	* [npm命令配置技巧](https://www.jianshu.com/p/0f8ba68a04ec)
+	* [fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) npm 安装不再需要 sudo
 
 ### 部分代码不是直接在浏览器执行的，而是需要编译后再执行，有些代码是需要进行编译优化
 
