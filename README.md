@@ -975,6 +975,10 @@
 	* [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)
 * [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 
+### 疑难杂症
+
+* [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
+
 ------
 
 ### 待整理
