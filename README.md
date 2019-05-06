@@ -804,6 +804,7 @@
 * [jenkins](https://jenkins.io/)
 * [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
 * [circleci](https://circleci.com/) 适用于Github托管项目
+* [drone](https://github.com/drone/drone) 原生容器持续集成分发平台
 
 ### 一些任务需要在浏览器环境执行，所以我们需要无界面浏览器在持续集成环境运行
 
