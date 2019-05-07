@@ -708,6 +708,8 @@
 	* [tensorflow](https://github.com/tensorflow)
 		* [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 	* [convnetjs](https://github.com/karpathy/convnetjs) 深度学习js版本
+* 算法练习与学习
+	* [leetcode](https://leetcode.com/) LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 ### 有些技术可以帮助我们让性能和体验上一个台阶
 
@@ -826,6 +828,8 @@
 ### 现在一些服务不再直接部署到物理机上了，而是使用 docker
 
 * [docker](https://www.docker.com/)
+	* [docker 文档](https://docs.docker.com/)
+	* [docker 入门](https://segmentfault.com/a/1190000009544565)
 	* [docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 	* [dockerhub](https://hub.docker.com/) docker 仓库
 	* [阿里云docker镜像服务](https://cr.console.aliyun.com)
@@ -976,10 +980,20 @@
 	* [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)
 * [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 
-### 疑难杂症
+### 资源
+
+* [30-seconds](https://github.com/30-seconds) 30秒学点东西
+* [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
+* [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
+
+### 其他
 
 * [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
 
+## 其他
+
+* [哗仔说鱼](https://zhuanlan.zhihu.com/c_150503702) 用诙谐幽默的文字教你玩转宠物鱼
+
 ------
 
-### 待整理
+## 待整理
