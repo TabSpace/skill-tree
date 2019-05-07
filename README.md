@@ -985,9 +985,6 @@
 * [30-seconds](https://github.com/30-seconds) 30秒学点东西
 * [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
 * [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
-
-### 其他
-
 * [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
 
 ## 其他
