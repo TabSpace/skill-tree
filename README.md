@@ -852,6 +852,11 @@
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 * [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) 解决 item2 使用 rz,sz 管理终端文件的问题
 
+### 有些工具让命令行输出更漂亮
+
+* [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
+* [asciiflow](http://asciiflow.com/) ascii 画图表
+
 ### 项目上线后，我们需要建立监控，来保障业务稳定性
 
 * [sentry](https://github.com/getsentry/sentry) 日志管理与质量监控
