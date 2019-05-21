@@ -697,6 +697,7 @@
 
 * 集合
 	* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) javascript 算法集合
+	* [python-algorithms](https://github.com/TheAlgorithms/Python) Python 算法集合
 * 寻路算法
 	* [path-finding](https://github.com/qiao/PathFinding.js)
 * 人工智能
