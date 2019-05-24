@@ -795,7 +795,7 @@
 * [mocha](https://github.com/mochajs/mocha) 前端测试框架，既可以用于浏览器端，也可以用于服务器端
 	* [chai](https://github.com/chaijs/chai) 测试断言库
 	* [should.js](https://github.com/shouldjs/should.js) 测试断言库
-	* [power-assert](https://github.com/power-assert-js/power-assert) No API is the best API.
+	* ✭ [power-assert](https://github.com/power-assert-js/power-assert) No API is the best API.
 * [karma](https://github.com/karma-runner/karma) 测试自动化
 * [nightwatchjs](https://github.com/nightwatchjs/nightwatch) UI测试自动化
 * [macaca](https://github.com/alibaba/macaca) 多端自动化测试解决方案
