@@ -729,6 +729,7 @@
 
 ### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
 
+* ✭ [pkg](https://github.com/zeit/pkg) Node项目打包编译
 * ✭ [webpack](https://webpack.github.io/)
 	* plugins
 		* [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
