@@ -132,6 +132,8 @@
 * [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [《屋中的大象》-- Apache基金会副总裁几十年的观察](https://www.oschina.net/news/79166/apache-foundation-ceo-decades-views)
 * [编程哲学（一）：愚者无疑，智者多虑](https://zhuanlan.zhihu.com/p/37653499) 后续有 1-10 多篇文章，都在一个专栏下
+* [hacker-laws](https://github.com/dwmkerr/hacker-laws)
+	* [极客法则](https://github.com/nusr/hacker-laws-zh) 对开发人员有用的定律、理论、原则和模式。
 
 ### 刷面试题也是个不错的知识点收集方式
 
