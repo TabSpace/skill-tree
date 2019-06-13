@@ -582,6 +582,7 @@
 * [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
 * [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
 * [math.js](https://github.com/josdejong/mathjs) 简化数学计算
+* [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
 * [city](https://github.com/basecss/city) 国家行政区划分数据
 * [moment](http://momentjs.cn/) 时间日期处理
 * [dayjs](https://github.com/iamkun/dayjs) 日期处理
@@ -831,6 +832,7 @@
 * [apache](https://httpd.apache.org/)
 	* [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
 * [nginx](https://nginx.org/en/)
+* [localtunnel](https://github.com/localtunnel/localtunnel) 将本地服务暴露到公网
 
 ### 现在一些服务不再直接部署到物理机上了，而是使用 docker
 
