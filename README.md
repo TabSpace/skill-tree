@@ -137,7 +137,7 @@
 
 ### 刷面试题也是个不错的知识点收集方式
 
-* [面试题](https://github.com/jackqqxu/FE-interview)
+* [前端面试手册](https://github.com/yangshun/front-end-interview-handbook)
 
 ### 有时开发语言并不能直接在环境中执行，我们需要了解语言适配环境的范围
 
@@ -887,7 +887,7 @@
 
 ## 文档
 
-### 项目开发完，需要写文档？
+### 项目开发完，需要写文档
 
 * wiki
 	* [wiki语法说明](https://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2)
@@ -914,14 +914,14 @@
 
 ## 分享
 
-### 写完文档，还需要写例子来展示代码？
+### 写完文档，还需要写例子来展示代码
 
 * ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
 * [codesandbox](https://codesandbox.io/) 谷歌部分项目在用，看界面感觉不错
 * [jsbin](http://jsbin.com/?html,js,output) 老牌代码展示服务
 * [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
 
-### 有些例子还想来录制 gif ，分享动态画面？
+### 有些例子还想来录制 gif ，分享动态画面
 
 * [asciinema](https://asciinema.org/) 终端命令行录制工具
 * [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
