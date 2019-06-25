@@ -196,6 +196,10 @@
 * [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
 * [UC浏览器开发者中心](http://www.uc.cn/business/developer/)
 
+### 确定项目开发时，需要知道浏览器市占率
+
+* ✭ [browser share](https://www.w3schools.com/browsers/) 浏览器市场占有率
+
 ## 规划
 
 ### 写代码前，我们最好制定好开发规范，确保代码看起来不会太杂乱
