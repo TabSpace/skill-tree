@@ -353,6 +353,8 @@
 	* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) pwa 支持
 	* [enzyme](https://github.com/airbnb/enzyme) 测试工具
 	* [create-react-library](https://github.com/transitive-bullshit/create-react-library) 创建 React 库
+* 静态站
+	* [react-static](https://github.com/nozzle/react-static)
 
 ### VUE
 
@@ -378,6 +380,8 @@
 	* [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 	* [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
 	* [vue-awesome-swiper](https://surmon-china.github.io/vue-awesome-swiper/) 基于 swiper 4，支持SSR
+* 静态站
+	* ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器
 
 ### GOOGLE
 
@@ -911,7 +915,6 @@
 	* [vue-markdown-loader](https://github.com/QingWei-Li/vue-markdown-loader) element-ui 使用的文档生成工具
 	* ✭ [documentation](https://github.com/documentationjs/documentation) 使用jsdoc语法，生成文档更贴近现代风格，适合注释转文档
 		* [jsdoc](https://github.com/jsdoc3/jsdoc) 部分格式陈旧，支持node生成方面不错
-	* ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器，
 	* ✭ [docsify](https://github.com/QingWei-Li/docsify) 适合md转文档，wepy使用这个撰写了文档，看起来很舒服
 	* [docute](https://github.com/egoist/docute) 便捷的单页文档，风格比较现代
 	* [typedoc](https://github.com/TypeStrong/typedoc) TypeScript项目的文档生成器，但看起来生成的文档过重
