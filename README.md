@@ -1014,6 +1014,7 @@
 ## 其他
 
 * [哗仔说鱼](https://zhuanlan.zhihu.com/c_150503702) 用诙谐幽默的文字教你玩转宠物鱼
+* [remove.bg](https://www.remove.bg/) 在线抠图
 
 ------
 
