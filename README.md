@@ -50,6 +50,7 @@
 	* [TypeScript](https://www.typescriptlang.org/)
 	* [TypeScript 中文网](https://www.tslang.cn/)
 	* [TypeScript 入门教程](https://ts.xcatliu.com/)
+	* [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
 * es6
 	* [ECMAScript6入门](http://es6.ruanyifeng.com/)
 * lua
