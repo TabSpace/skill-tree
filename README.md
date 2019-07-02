@@ -331,6 +331,8 @@
 	* [react入门教程](http://react.html.cn/tutorial/tutorial.html)
 	* [react中文文档](http://react.html.cn/docs/getting-started.html)
 	* [react-china](http://react-china.org/)
+	* [create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
+		* [create-react-app 中文文档](https://www.html.cn/create-react-app/)
 * UI
 	* [ant-design](https://github.com/ant-design/ant-design)
 	* [element react](https://github.com/eleme/element-react)
@@ -342,6 +344,7 @@
 * ssr
 	* [reactphp](https://github.com/reactphp/react)
 * 架构
+	* [react-router](https://github.com/ReactTraining/react-router)
 	* [redux](https://github.com/reactjs/redux) 通用react数据仓库
 		* [redux-devtools](https://github.com/gaearon/redux-devtools)
 	* [mobx](https://github.com/mobxjs/mobx) 另一个数据仓库
