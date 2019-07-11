@@ -861,6 +861,7 @@
 * [cygwin](http://www.cygwin.cn/) windows上使用命令行
 * [Oh My ZSH](http://ohmyz.sh/) 操作增强
 * [tmux](https://github.com/tmux/tmux) 终端窗口复用
+* [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
 
 ### 有一些工具可以我们开发更好的用工具来管理命令行界面
 
