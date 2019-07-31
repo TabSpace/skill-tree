@@ -503,6 +503,7 @@
 * [ajax](https://segmentfault.com/a/1190000004322487)
 * [cors](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 	* [cors跨域发送cookie](http://harttle.com/2016/12/28/cors-with-cookie.html)
+	* [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 ### 使用现成的UI库来加速开发
 
