@@ -504,6 +504,7 @@
 * [cors](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 	* [cors跨域发送cookie](http://harttle.com/2016/12/28/cors-with-cookie.html)
 	* [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+	* [跨域请求时chrome控制台网络面板reqheader不显示Cookie](https://blog.ermer.de/2018/06/11/chrome-67-provisional-headers-are-shown/) 需要服务端打日志判断cookie是否收到
 
 ### 使用现成的UI库来加速开发
 
