@@ -343,7 +343,7 @@
 	* [preact](https://github.com/developit/preact/) 轻量级react
 * ssr
 	* [reactphp](https://github.com/reactphp/react)
-	* [next.js](https://github.com/zeit/next.js) ssr框架
+	* ✭ [next.js](https://github.com/zeit/next.js) ssr框架
 * 架构
 	* [react-router](https://github.com/ReactTraining/react-router)
 	* [redux](https://github.com/reactjs/redux) 通用react数据仓库
@@ -359,7 +359,7 @@
 	* [enzyme](https://github.com/airbnb/enzyme) 测试工具
 	* [create-react-library](https://github.com/transitive-bullshit/create-react-library) 创建 React 库
 * 静态站
-	* [gatsby](https://github.com/gatsbyjs/gatsby)
+	* ✭ [gatsby](https://github.com/gatsbyjs/gatsby)
 	* [react-static](https://github.com/nozzle/react-static)
 
 ### VUE
