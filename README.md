@@ -565,6 +565,7 @@
 
 ### 动画
 
+* [lottie](https://github.com/airbnb/lottie) 设计导出动画直接供开发使用
 * [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动
 * [walkway](https://github.com/ConnorAtherton/walkway) svn路径动画
 * [TweenJS](https://github.com/CreateJS/TweenJS) 动画过渡管理
