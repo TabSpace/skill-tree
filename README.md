@@ -508,6 +508,7 @@
 	* [一次弄懂跨域问题](https://segmentfault.com/a/1190000017579464)
 	* [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 	* [跨域请求时chrome控制台网络面板reqheader不显示Cookie](https://blog.ermer.de/2018/06/11/chrome-67-provisional-headers-are-shown/) 需要服务端打日志判断cookie是否收到
+	* [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 
 ### 使用现成的UI库来加速开发
 
