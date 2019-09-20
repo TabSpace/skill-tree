@@ -483,6 +483,7 @@
 
 ### 一些工具能够辅助开发流程，提供各种助力
 
+* [hummingbird](https://github.com/thunkli/hummingbird) 蜂鸟图片压缩
 * [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 * [regex101](https://regex101.com/) 在线正则检查工具，可用来研究正则是否存在致命缺陷
 * [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
