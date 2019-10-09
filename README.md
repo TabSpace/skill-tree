@@ -177,6 +177,8 @@
 		* [canvas截图](https://tech.colla.me/zh/show/screenshot_feedback_implementation)
 		* [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
 		* [dom-to-image](https://github.com/tsayen/dom-to-image) 用svg截图
+		* [spritejs](https://github.com/spritejs/spritejs) 用像操作dom一样的api操作canvas
+		* [html2canvas](https://github.com/niklasvh/html2canvas) javascript dom 截图
 	* webgl
 		* [webgl](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 		* [3D图形:矩阵与线性变换](https://www.jianshu.com/p/6c2c0542071d)
