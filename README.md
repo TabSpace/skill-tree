@@ -154,7 +154,7 @@
 
 ### 部分方法各个浏览器支持的方案不一致，用工具方法来兼容
 
-* [handjs](https://github.com/deltakosh/handjs) pointer events polyfill
+* [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
 
 ### 也可以通过编译工具，将写好的代码转变为执行环境可以直接执行的代码
 
@@ -285,6 +285,7 @@
 	* [npms.io](https://npms.io/) npm模块搜索
 	* [npm命令配置技巧](https://www.jianshu.com/p/0f8ba68a04ec)
 	* [fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) npm 安装不再需要 sudo
+* [patch-package](https://github.com/ds300/patch-package) 为npm包快速打补丁
 
 ### 部分代码不是直接在浏览器执行的，而是需要编译后再执行，有些代码是需要进行编译优化
 
