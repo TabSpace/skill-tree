@@ -637,6 +637,7 @@
 * [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
 * [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
 * [vis](https://github.com/almende/vis)
+* [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
 
 ### 路由
 
