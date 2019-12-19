@@ -637,7 +637,6 @@
 - [highcharts](https://github.com/highcharts/highcharts) 开源图表框架，兼容性好
 - [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
 - [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
-- [vis](https://github.com/almende/vis)
 - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
 
 ### 路由
@@ -927,6 +926,7 @@
 	- [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器，vuepress 使用它完成对 md 文件的解析
 	- [typora](https://typora.io/) 极致简洁的 markdown 编辑器
 		- [typora](https://github.com/typora) typora 的 github 地址
+	- [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
 - [gitbook](https://github.com/GitbookIO/gitbook)
 	- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 	- [gitbook 简明教程](http://www.chengweiyang.cn/gitbook/introduction/README.html)
@@ -941,6 +941,8 @@
 		- [deeplearnjs-doc](https://deeplearnjs.org/docs/api/globals.html) deeplearn.js 的文档，用typedoc生成
 	- [docdash](https://github.com/clenemt/docdash) jsdoc模板，界面看起来比较舒服，移动端界面看起来不完善
 	- [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，适合传统js库，不适合单独模块文档构建
+- 图表生成
+	- ✭ [draw.io](https://github.com/jgraph/drawio) 完善的在线图表绘制系统
 
 ## 分享
 
