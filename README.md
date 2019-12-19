@@ -638,6 +638,7 @@
 - [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
 - [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
 - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+- [springy](https://github.com/dhotson/springy) 生成点线拓扑图
 
 ### 路由
 
@@ -882,6 +883,7 @@
 - [top-command-line-tools](https://stackify.com/top-command-line-tools/) 最受欢迎的命令行工具
 - [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
 - [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
+- [prompts](https://github.com/terkelg/prompts) 另一个漂亮的交互输入工具
 - [commander](https://github.com/tj/commander.js) 命令行界面开发库
 - [clui](https://github.com/nathanpeck/clui) spinners、sparklines、progress bars图样显示组件
 - [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
