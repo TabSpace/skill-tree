@@ -874,6 +874,7 @@
 ### 无论远程还是本地服务器，我们都需要一个良好的命令行环境
 
 - [cygwin](http://www.cygwin.cn/) windows上使用命令行
+- [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
 - [Oh My ZSH](http://ohmyz.sh/) 操作增强
 - [tmux](https://github.com/tmux/tmux) 终端窗口复用
 - [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
