@@ -614,7 +614,7 @@
 - [moment](http://momentjs.cn/) 时间日期处理
 - [dayjs](https://github.com/iamkun/dayjs) 日期处理
 - [kibo](https://github.com/marquete/kibo) 键盘事件绑定
-- [ua-device](https://github.com/fex-team/ua-device) UA解析
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) UA解析
 - [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
 - [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
 - [voca](https://github.com/panzerdp/voca) 字符串处理
