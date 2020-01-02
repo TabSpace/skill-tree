@@ -206,6 +206,11 @@
 
 ## 规划
 
+### 工欲善其事必先利其器，准备好开发环境
+
+- [HomeBrew](https://brew.sh/) mac os 包管理器
+	- [国内镜像安装Homebrew](https://www.jianshu.com/p/97b2552fed42)
+
 ### 写代码前，我们最好制定好开发规范，确保代码看起来不会太杂乱
 
 - [isobar 前端代码规范](http://coderlmn.github.io/code-standards/)
