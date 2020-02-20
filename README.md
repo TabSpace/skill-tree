@@ -420,6 +420,8 @@
 - 图表
 	- [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - 框架
+	- [kbone](https://github.com/wechat-miniprogram/kbone) 官方推出的小程序多端生成框架
+	- [taro](https://github.com/NervJS/taro) 基于react的小程序多端生成框架
 	- [wepy](https://github.com/wepyjs/wepy) 小程序开发框架，bug较多，打包机制不太合理
 	- [mpvue](https://github.com/Meituan-Dianping/mpvue) 小程序开发框架，更贴近vue的写法
 	- [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
