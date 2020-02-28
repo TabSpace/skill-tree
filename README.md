@@ -294,6 +294,7 @@
 - [patch-package](https://github.com/ds300/patch-package) 为npm包快速打补丁
 - [verdaccio](https://github.com/verdaccio/verdaccio) 搭建私有npm仓库
 - [nrm](https://github.com/Pana/nrm) 快速切换npm镜像
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently) 同时执行多个npm script
 
 ### 部分代码不是直接在浏览器执行的，而是需要编译后再执行，有些代码是需要进行编译优化
 
