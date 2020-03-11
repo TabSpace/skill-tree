@@ -31,6 +31,7 @@
 - ✭ [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
 - [javascriptweekly](https://javascriptweekly.com/) javascript 周报
 - [nodeweekly](https://nodeweekly.com/) node 周报
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 
 ### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
 
