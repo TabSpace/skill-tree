@@ -32,6 +32,7 @@
 - [javascriptweekly](https://javascriptweekly.com/) javascript 周报
 - [nodeweekly](https://nodeweekly.com/) node 周报
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+- [程序员们平时都喜欢逛什么论坛呢？](https://www.zhihu.com/question/27145069/answer/895588542)
 
 ### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
 
@@ -454,6 +455,11 @@
 	- [helmet](https://github.com/helmetjs/helmet) 安全中间件
 	- [cors](https://github.com/expressjs/cors) 中间件
 - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
+
+### 代码要有存储的地方
+
+- [gitee](https://gitee.com/login) 码云
+- [工蜂](https://git.code.tencent.com) 腾讯云代码托管
 
 ## 集成
 
@@ -1044,6 +1050,10 @@
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
 - [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 - [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
+
+### 外包
+
+- [程序员客栈](https://www.proginn.com/) 外包协作
 
 ## 其他
 
