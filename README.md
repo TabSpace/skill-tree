@@ -894,6 +894,7 @@
 - [Oh My ZSH](http://ohmyz.sh/) 操作增强
 - [tmux](https://github.com/tmux/tmux) 终端窗口复用
 - [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
+- [thefuck](https://github.com/nvbn/thefuck) 调教命令行
 
 ### 有一些工具可以我们开发更好的用工具来管理命令行界面
 
