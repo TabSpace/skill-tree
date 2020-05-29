@@ -479,6 +479,7 @@
 
 - [html xss cheatsheet](https://github.com/cure53/H5SC)
 - [xss](http://baike.baidu.com/item/XSS%E6%94%BB%E5%87%BB)
+	- [DOMPurify](https://github.com/cure53/DOMPurify) xss 过滤器
 - [csrf](http://baike.baidu.com/item/csrf)
 - [ddos](http://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/3802159?fromtitle=DDOS&fromid=444572)
 - [voteRobot](https://github.com/debugtalk/VoteRobot) 简单攻击方式--刷票
