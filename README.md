@@ -661,6 +661,8 @@
 - [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
 - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
 - [springy](https://github.com/dhotson/springy) 生成点线拓扑图
+- [jsplumb](https://github.com/jsplumb/jsplumb) 流程图绘制
+	- [jsplumb中文文档](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
 
 ### 路由
 
