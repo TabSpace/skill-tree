@@ -219,6 +219,7 @@
 - 代码规范
 	- [airbnb](https://github.com/airbnb/javascript)
 	- [standard](https://github.com/standard/standard)
+	- [eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) 腾讯QQ团队规范
 	- [prettier](https://github.com/prettier/prettier) 代码格式化
 	- [idomatic](https://github.com/rwaldron/idiomatic.js)
 	- [google styleguide](https://github.com/google/styleguide)
