@@ -495,6 +495,7 @@
 - [one div](http://one-div.com/)
 - [a single div](http://a.singlediv.com/)
 - [nicon](https://github.com/bolin-L/nicon) 图标管理服务器，支持私有部署
+- [realfavicongenerator](https://realfavicongenerator.net/) favicon 生成
 - [favicon-generator](https://www.favicon-generator.org/) favicon 生成
 
 ### 移动开发有些知识点，可以辅助我们提供更好的用户体验
