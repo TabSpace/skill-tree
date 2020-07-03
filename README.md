@@ -194,6 +194,8 @@
 		- [mdn svg教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial)
 		- [svg 中文教程](https://www.gitbook.com/book/brucewar/svg-tutorial/details)
 		- [svg线条动画 vivus](https://github.com/maxwellito/vivus)
+		- [svgomg](https://jakearchibald.github.io/svgomg/) svg 在线优化工具
+		- [svg-optimiser](https://petercollingridge.appspot.com/svg-optimiser) svg 在线优化
 	- [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
 
 ### 有时执行环境存在兼容性问题，我们需要知道区别在哪里
@@ -530,6 +532,9 @@
 - [文件转base64](http://www.motobit.com/util/base64-decoder-encoder.asp)
 - [obsproject](https://obsproject.com/) 跨平台直播推流工具，适合测试rtmp直播
 - [FSCapture](http://www.faststone.org/FSCaptureDetail.htm) 屏幕像素数值测量工具
+- [css3generator](https://css3generator.com/) css3 生成器
+- [css-generator](https://webcode.tools/css-generator) css3 生成器
+- [css-grid-layout-generator](https://css-grid-layout-generator.pw/) css grid 布局生成器
 
 ### 接口访问是 web 开发最常用到的运行时能力之一
 
@@ -606,6 +611,9 @@
 - [velocity](https://github.com/julianshapiro/velocity) 动画过渡管理
 - [bezier-easing](https://github.com/gre/bezier-easing) 贝塞尔函数生成器
 	- [simple easing](https://gist.github.com/gre/1650294) 简单过渡动画函数
+- [Animate.css](https://animate.style/) 动画样式集合
+- [greensock](https://greensock.com/) 高性能动画生成
+- [animejs](https://animejs.com/) Anime.js 是一个轻量级的JavaScript动画库
 - js动画引擎
 	- [白鹭引擎](http://developer.egret.com/cn/) 国产，2d,3d都支持，支持小游戏
 	- [cocos2d](https://github.com/cocos2d/) 主要用于物理引擎
@@ -870,6 +878,12 @@
 - [circleci](https://circleci.com/) 适用于Github托管项目
 - [drone](https://github.com/drone/drone) 原生容器持续集成分发平台
 
+### 开发的响应式界面，是否良好适配了各个屏幕
+
+- [responsivedesign](http://ami.responsivedesign.is/) 快速检查网站在不同屏幕尺寸下的外观
+- [responsivedesignchecker](https://responsivedesignchecker.com/) 响应式网页设计检查器
+- [browserstack](https://www.browserstack.com/) BrowserStack是付费服务，可让你在2000多种真实设备和浏览器上测试你的网站或应用程序
+
 ### 一些任务需要在浏览器环境执行，所以我们需要无界面浏览器在持续集成环境运行
 
 - ✭ [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
@@ -981,7 +995,9 @@
 - ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
 - [codesandbox](https://codesandbox.io/) 谷歌部分项目在用，看界面感觉不错
 - [jsbin](http://jsbin.com/?html,js,output) 老牌代码展示服务
-- [jsfiddler](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
+- [jsfiddle](https://jsfiddle.net/) 访问感觉比较缓慢，但属于老牌代码展示工具，对于代码展示功能齐备
+- [sololearn](https://www.sololearn.com/) SoloLearn是一个在线游乐场，可让你测试HTML，CSS和JavaScript代码
+- [jsrun](https://jsrun.net/) 国内版 codepen，访问速度快
 
 ### 有些例子还想来录制 gif ，分享动态画面
 
