@@ -97,6 +97,7 @@
 - [stream-handbook node stream 概念说明](https://github.com/jabez128/stream-handbook)
 - [Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
 - [理解矩阵](http://blog.csdn.net/pizi0475/article/details/5440136)
+- [Cron 定时任务表达式手册](https://www.gairuo.com/p/cron-expression-sheet)
 
 ### 有些站点提供了系统的学习资料
 
@@ -613,7 +614,8 @@
 	- [simple easing](https://gist.github.com/gre/1650294) 简单过渡动画函数
 - [Animate.css](https://animate.style/) 动画样式集合
 - [greensock](https://greensock.com/) 高性能动画生成
-- [animejs](https://animejs.com/) Anime.js 是一个轻量级的JavaScript动画库
+- [anime](https://github.com/juliangarnier/anime) Anime.js 是一个轻量级的JavaScript动画库
+	- [animejs](https://animejs.com/) 官方站点
 - js动画引擎
 	- [白鹭引擎](http://developer.egret.com/cn/) 国产，2d,3d都支持，支持小游戏
 	- [cocos2d](https://github.com/cocos2d/) 主要用于物理引擎
