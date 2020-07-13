@@ -536,6 +536,7 @@
 - [css3generator](https://css3generator.com/) css3 生成器
 - [css-generator](https://webcode.tools/css-generator) css3 生成器
 - [css-grid-layout-generator](https://css-grid-layout-generator.pw/) css grid 布局生成器
+- [cip.cc](http://www.cip.cc/) 检查出口IP `curl cip.cc`
 
 ### 接口访问是 web 开发最常用到的运行时能力之一
 
@@ -989,6 +990,8 @@
 	- [jsduck](https://github.com/senchalabs/jsduck) sencha出品，适合命名空间与类的文档描述，适合传统js库，不适合单独模块文档构建
 - 图表生成
 	- ✭ [draw.io](https://github.com/jgraph/drawio) 完善的在线图表绘制系统
+	- [processon](https://www.processon.com/)
+	- [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
 
 ## 分享
 
