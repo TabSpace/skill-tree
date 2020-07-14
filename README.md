@@ -959,6 +959,7 @@
 		- ✭ [how browser work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 	- [实现达到 60FPS 的高性能交互动画](https://zhuanlan.zhihu.com/p/29729996?refer=FrontendMagazine)
 	- [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
+	- [这些最新性能指标了解下](https://juejin.im/post/5f0b056de51d45349917bf16)
 
 ## 文档
 
