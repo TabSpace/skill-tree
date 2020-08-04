@@ -467,8 +467,9 @@
 
 ### Deno 开发
 
-- [Deno](https://github.com/denoland/deno) 下一代服务端运行核心
+- [Deno](https://github.com/denoland/deno)
 	- [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
+- [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
 
 ### 代码要有存储的地方
 
@@ -1052,6 +1053,8 @@
 	- [维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
 	- [为开源项目弄个漂亮的文档](https://laravel-china.org/topics/1965/how-to-get-a-good-document-for-your-open-source-projects)
 	- [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)
+- 国际化
+	- [breword](https://www.breword.com/)
 
 ### 时常关注下 awesome 系列，可以有效了解业界发展趋势
 
