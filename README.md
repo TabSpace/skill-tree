@@ -407,11 +407,6 @@
 - 静态站
 	- ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器
 
-### 解决方案
-
-- [乾坤](https://github.com/umijs/qiankun) 微前端解决方案
-- [single-spa](https://github.com/single-spa/single-spa) 前端微服务解决方案
-
 ### GOOGLE
 
 - [polymer](https://github.com/Polymer/polymer) 基于 web components 理念规范的库
@@ -484,6 +479,12 @@
 
 - [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [flex bug 列表](https://github.com/philipwalton/flexbugs)
+
+### 解决方案
+
+- [乾坤](https://github.com/umijs/qiankun) 微前端解决方案
+- [single-spa](https://github.com/single-spa/single-spa) 前端微服务解决方案
+- [cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework) 腾讯云开发
 
 ### 安全是开发中非常需要注意的地方，不安全的项目有可能摧毁一切业绩
 
