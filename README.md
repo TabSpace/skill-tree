@@ -662,6 +662,7 @@
 - [voca](https://github.com/panzerdp/voca) 字符串处理
 - [sortable](https://github.com/RubaXa/Sortable) 拖拽排序
 - [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
+- [grapheme-splitter](https://github.com/orling/grapheme-splitter) 不同语言的字符串长度判断与裁剪
 
 ### 模板引擎
 
