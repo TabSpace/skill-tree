@@ -463,6 +463,7 @@
 ### Deno 开发
 
 - [Deno](https://github.com/denoland/deno)
+	- [国内镜像](https://github.com/denocn/deno_install)
 	- [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
 
