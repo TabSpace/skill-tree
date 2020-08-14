@@ -286,6 +286,10 @@
 - ✭ [leangoo](https://www.leangoo.com/) 看板工具
 - [trello](https://trello.com/)看板 工具
 
+### 有时需要自行设计一些东西
+
+- [canva](https://www.canva.com/) 图片在线编辑
+
 ### 现代开发流程中，我们往往期望借助开源社区提供直接使用的包资源
 
 - [npm](https://npmjs.org/)
