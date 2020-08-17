@@ -472,6 +472,7 @@
 - [denon](https://github.com/denosaurs/denon) 监听文件变更的常驻进程
 - [velociraptor](https://github.com/umbopepato/velociraptor) 启动脚本配置化
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
+- [pagic](https://github.com/xcatliu/pagic) 基于 deno 和 react 的静态发布站
 
 ### 代码要有存储的地方
 
