@@ -1,9 +1,5 @@
 {
 	"line-length": false,
-	"no-hard-tabs": false,
-	"ul-indent": {
-		"indent": 1
-	},
 	"no-inline-html": {
 		"allowed_elements": [
 			"a",
