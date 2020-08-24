@@ -531,7 +531,11 @@
 
 ### 一些工具能够辅助开发流程，提供各种助力
 
-- [hummingbird](https://github.com/thunkli/hummingbird) 蜂鸟图片压缩
+- 图片压缩
+  - [squoosh](https://github.com/GoogleChromeLabs/squoosh) 谷歌开源图片压缩工具
+  - [squoosh.app](https://squoosh.app/) 谷歌图片压缩服务
+  - [hummingbird](https://github.com/thunkli/hummingbird) 蜂鸟图片压缩
+  - [img.top](https://img.top/) 在线图片压缩
 - [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 - [regex101](https://regex101.com/) 在线正则检查工具，可用来研究正则是否存在致命缺陷
 - [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
@@ -556,11 +560,10 @@
 ### 接口访问是 web 开发最常用到的运行时能力之一
 
 - [ajax](https://segmentfault.com/a/1190000004322487)
-- [cors](http://www.ruanyifeng.com/blog/2016/04/cors.html)
-  - [cors跨域发送cookie](http://harttle.com/2016/12/28/cors-with-cookie.html)
+- [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
   - [一次弄懂跨域问题](https://segmentfault.com/a/1190000017579464)
-  - [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
-  - [跨域请求时chrome控制台网络面板reqheader不显示Cookie](https://blog.ermer.de/2018/06/11/chrome-67-provisional-headers-are-shown/) 需要服务端打日志判断cookie是否收到
+  - [CORS 跨域携带 Cookie 发送请求](https://segmentfault.com/a/1190000016032594)
+  - [跨域请求传递Cookie问题](https://cloud.tencent.com/developer/article/1504235)
   - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 
 ### 使用现成的UI库来加速开发
