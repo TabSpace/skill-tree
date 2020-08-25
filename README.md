@@ -28,7 +28,7 @@
 - ✭ [FrontendMagazine](https://zhuanlan.zhihu.com/FrontendMagazine) 知乎前端外刊评论
 - ✭ [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 - ✭ [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
-- ✭ [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
+- [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
 - [javascriptweekly](https://javascriptweekly.com/) javascript 周报
 - [nodeweekly](https://nodeweekly.com/) node 周报
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
@@ -532,10 +532,10 @@
 ### 一些工具能够辅助开发流程，提供各种助力
 
 - 图片压缩
-  - [squoosh](https://github.com/GoogleChromeLabs/squoosh) 谷歌开源图片压缩工具
-  - [squoosh.app](https://squoosh.app/) 谷歌图片压缩服务
+  - ✭ [squoosh](https://github.com/GoogleChromeLabs/squoosh) 谷歌开源图片压缩工具
+  - ✭ [squoosh.app](https://squoosh.app/) 谷歌图片压缩服务
   - [hummingbird](https://github.com/thunkli/hummingbird) 蜂鸟图片压缩
-  - [img.top](https://img.top/) 在线图片压缩
+  - ✭ [img.top](https://img.top/) 在线图片压缩
 - [ntn选择器精通-练习工具与实验场](http://nthmaster.com/)
 - [regex101](https://regex101.com/) 在线正则检查工具，可用来研究正则是否存在致命缺陷
 - [检查设备屏幕相关参数](http://liangdong.sinaapp.com/tools/screen.html)
@@ -724,7 +724,7 @@
 - [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
 - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) 另一款 Node websocket 的实现
 
-### 前端杂七杂八
+### 前端文章
 
 - [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
 - [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
@@ -740,7 +740,7 @@
 - [prism](https://github.com/PrismJS/prism) 实现代码高亮
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
-### Node 后台杂七杂八
+### Node 文章
 
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
