@@ -1039,9 +1039,12 @@
 ### 经典开源社区 GITHUB 提供了大量轮子
 
 - Github
+  - [github docs](https://docs.github.com/cn) github 文档
   - [github trending](https://github.com/trending?l=javascript) javascript 热门趋势
   - [github showcases](https://github.com/showcases/) 开源范例
   - [github explorer](https://github.com/explore) 资源浏览器
+  - [github actions](https://docs.github.com/cn/actions)
+    - [starter-workflows](https://github.com/actions/starter-workflows/tree/master/ci)
 - 文章
   - [GotGithub](http://www.worldhello.net/gotgithub/) 熟练掌握 github
   - [技巧：github上传图片和在线示例](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
