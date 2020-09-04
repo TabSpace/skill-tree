@@ -737,7 +737,6 @@
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) 点击锚点，平滑滚动
 - [scrollama](https://github.com/russellgoldenberg/scrollama) 基于 IntersectionObserver 的滚动交互组件
 - [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
-- [prism](https://github.com/PrismJS/prism) 实现代码高亮
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
 ### Node 文章
@@ -994,6 +993,7 @@
   - [typora](https://typora.io/) 极致简洁的 markdown 编辑器
     - [typora](https://github.com/typora) typora 的 github 地址
   - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+  - [dumi](https://github.com/umijs/dumi) markdown 生成 html 文档
 - [gitbook](https://github.com/GitbookIO/gitbook)
   - [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
   - [gitbook 简明教程](http://www.chengweiyang.cn/gitbook/introduction/README.html)
@@ -1012,6 +1012,9 @@
   - ✭ [draw.io](https://github.com/jgraph/drawio) 完善的在线图表绘制系统
   - [processon](https://www.processon.com/)
   - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+- 代码高亮
+  - [prism](https://github.com/PrismJS/prism) 实现代码高亮
+  - [highlight](https://github.com/highlightjs/highlight.js) 老牌代码高亮工具
 
 ## 分享
 
