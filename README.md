@@ -88,6 +88,11 @@
   - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
   - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 
+### 应该熟悉一下 linux 的使用
+
+- linux
+  - [linuxtools_rst](https://github.com/me115/linuxtools_rst) 这本书专注于Linux工具的最常用用法
+
 ### 一些知识点可以辅助透彻理解开发的各个环节
 
 - [浏览器交互流程](https://github.com/skyline75489/what-happens-when-zh_CN) --当你按下回车键时发生了什么
