@@ -155,16 +155,6 @@
 - [es5浏览器适配表](http://kangax.github.io/compat-table/es5/)
 - [es6浏览器适配表](http://kangax.github.io/compat-table/es6/)
 
-### 部分方法浏览器不兼容，我们可以配置执行环境来提供还未支持的方法
-
-- [Promise](https://github.com/taylorhakes/promise-polyfill)
-- [es5-shim](https://github.com/es-shims/es5-shim)
-- [fetch](https://github.com/github/fetch)
-
-### 部分方法各个浏览器支持的方案不一致，用工具方法来兼容
-
-- [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
-
 ### 也可以通过编译工具，将写好的代码转变为执行环境可以直接执行的代码
 
 - [babel](https://babeljs.io/) 提前使用es6,es7
@@ -203,6 +193,21 @@
     - [svgomg](https://jakearchibald.github.io/svgomg/) svg 在线优化工具
     - [svg-optimiser](https://petercollingridge.appspot.com/svg-optimiser) svg 在线优化
   - [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
+
+### 接口访问是 web 开发最常用到的运行时能力之一
+
+- [ajax](https://segmentfault.com/a/1190000004322487)
+- [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+  - [一次弄懂跨域问题](https://segmentfault.com/a/1190000017579464)
+  - [CORS 跨域携带 Cookie 发送请求](https://segmentfault.com/a/1190000016032594)
+  - [跨域请求传递Cookie问题](https://cloud.tencent.com/developer/article/1504235)
+  - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
+
+### 移动开发有些知识点，可以辅助我们提供更好的用户体验
+
+- [浏览器favicon cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+- [meta元素整理](https://segmentfault.com/a/1190000002407912)
+- [gradients 渐变](https://drafts.csswg.org/css-images-3/)
 
 ### 有时执行环境存在兼容性问题，我们需要知道区别在哪里
 
@@ -493,7 +498,7 @@
 - [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [flex bug 列表](https://github.com/philipwalton/flexbugs)
 
-### 解决方案
+### 前端部署解决方案
 
 - [乾坤](https://github.com/umijs/qiankun) 微前端解决方案
 - [single-spa](https://github.com/single-spa/single-spa) 前端微服务解决方案
@@ -508,6 +513,16 @@
 - [ddos](http://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/3802159?fromtitle=DDOS&fromid=444572)
 - [voteRobot](https://github.com/debugtalk/VoteRobot) 简单攻击方式--刷票
 
+### 部分方法浏览器不兼容，我们可以配置执行环境来提供还未支持的方法
+
+- [Promise](https://github.com/taylorhakes/promise-polyfill)
+- [es5-shim](https://github.com/es-shims/es5-shim)
+- [fetch](https://github.com/github/fetch)
+
+### 部分方法各个浏览器支持的方案不一致，用工具方法来兼容
+
+- [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
+
 ### web开发常用一些图标与字体，有一些服务与工具可以提供一些现成资源
 
 - ✭ [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
@@ -520,12 +535,6 @@
 - [nicon](https://github.com/bolin-L/nicon) 图标管理服务器，支持私有部署
 - [realfavicongenerator](https://realfavicongenerator.net/) favicon 生成
 - [favicon-generator](https://www.favicon-generator.org/) favicon 生成
-
-### 移动开发有些知识点，可以辅助我们提供更好的用户体验
-
-- [浏览器favicon cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
-- [meta元素整理](https://segmentfault.com/a/1190000002407912)
-- [gradients 渐变](https://drafts.csswg.org/css-images-3/)
 
 ### 操作数组，操作对象，对基础数据的一些骚操作都有工具支持
 
@@ -561,15 +570,6 @@
 - [css-generator](https://webcode.tools/css-generator) css3 生成器
 - [css-grid-layout-generator](https://css-grid-layout-generator.pw/) css grid 布局生成器
 - [cip.cc](http://www.cip.cc/) 检查出口IP `curl cip.cc`
-
-### 接口访问是 web 开发最常用到的运行时能力之一
-
-- [ajax](https://segmentfault.com/a/1190000004322487)
-- [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
-  - [一次弄懂跨域问题](https://segmentfault.com/a/1190000017579464)
-  - [CORS 跨域携带 Cookie 发送请求](https://segmentfault.com/a/1190000016032594)
-  - [跨域请求传递Cookie问题](https://cloud.tencent.com/developer/article/1504235)
-  - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 
 ### 使用现成的UI库来加速开发
 
@@ -658,27 +658,34 @@
   - [unreal](unrealengine.com) 业界知名的强大3d引擎 - 虚幻
     - [Unreal.js](https://github.com/ncsoft/Unreal.js) 虚幻引擎的 node 封装
 
-### 实用工具
+### 一些实用工具
 
-- [js-cookie](https://github.com/js-cookie/js-cookie)
-- [step](https://github.com/creationix/step) 流程控制
-- [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
-- [flyio](https://github.com/wendux/fly) 一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库
-- [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
-- [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
-- [math.js](https://github.com/josdejong/mathjs) 简化数学计算
-- [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
+- IO
+  - [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
+  - [flyio](https://github.com/wendux/fly) 一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库
+  - [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
+- 时间处理
+  - [moment](http://momentjs.cn/) 时间日期处理(已废弃)
+  - [dayjs](https://github.com/iamkun/dayjs) 日期处理
+- 字符串处理
+  - [voca](https://github.com/panzerdp/voca) 字符串操作工具
+  - [grapheme-splitter](https://github.com/orling/grapheme-splitter) 不同语言的字符串长度判断与裁剪
+- 数学
+  - [math.js](https://github.com/josdejong/mathjs) 简化数学计算
+  - [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
+  - [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
+- 算法
+  - [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
+- [qrcode](https://github.com/sylnsfar/qrcode) 有时你需要好看的二维码
+  - [EFQRCode](https://github.com/EFPrefix/EFQRCode)
+- [sortable](https://github.com/RubaXa/Sortable) 拖拽排序
 - [city](https://github.com/basecss/city) 国家行政区划分数据
-- [moment](http://momentjs.cn/) 时间日期处理
-- [dayjs](https://github.com/iamkun/dayjs) 日期处理
 - [kibo](https://github.com/marquete/kibo) 键盘事件绑定
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) UA解析
 - [lazyload](https://github.com/verlok/lazyload) 图片延迟加载
 - [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
-- [voca](https://github.com/panzerdp/voca) 字符串处理
-- [sortable](https://github.com/RubaXa/Sortable) 拖拽排序
-- [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
-- [grapheme-splitter](https://github.com/orling/grapheme-splitter) 不同语言的字符串长度判断与裁剪
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+- [step](https://github.com/creationix/step) 流程控制
 
 ### 模板引擎
 
@@ -711,12 +718,13 @@
 - [fineuploader](https://github.com/FineUploader/fine-uploader)
 - [plupload](https://github.com/moxiecode/plupload)
 
-### Node - 数据库
+### Node 数据库
 
 - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
 
 ### 后台服务需要做好日志管理
 
+- [colorogger](https://github.com/TabSpace/colorogger) 服务端浏览器端都可以用的彩色日志
 - [winston](https://github.com/winstonjs/winston) 日志管理
 - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
 - [rsyslog](https://www.rsyslog.com/)
