@@ -47,6 +47,7 @@
 - Javascript
   - [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
   - [JS入门](http://shichuan.github.io/javascript-patterns/)
+  - [javascript info](https://javascript.info/) 现代 javascript 教程
   - [javascript标准参考 阮一峰版](http://javascript.ruanyifeng.com/)
 - TypeScript
   - [TypeScript](https://www.typescriptlang.org/)
