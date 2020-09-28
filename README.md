@@ -662,6 +662,7 @@
 
 - IO
   - [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
+  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
   - [flyio](https://github.com/wendux/fly) 一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库
   - [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
 - 时间处理
