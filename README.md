@@ -22,6 +22,7 @@
 ### 学习开发必备技能，科学上网
 
 - [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
+- [brook](https://github.com/txthinking/brook) 自建代理
 
 ### 若要紧追趋势，下面是一波快捷通道
 
@@ -948,8 +949,10 @@
 
 ### 无论远程还是本地服务器，我们都需要一个良好的命令行环境
 
-- [cygwin](http://www.cygwin.cn/) windows上使用命令行
-- [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
+- winows
+  - [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  - [WSL 安装及前端开发环境配置](https://juejin.im/post/6844903845097635854)
+  - [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
 - [Oh My ZSH](http://ohmyz.sh/) 操作增强
 - [tmux](https://github.com/tmux/tmux) 终端窗口复用
 - [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
