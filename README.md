@@ -34,6 +34,7 @@
 - [nodeweekly](https://nodeweekly.com/) node 周报
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 - [程序员们平时都喜欢逛什么论坛呢？](https://www.zhihu.com/question/27145069/answer/895588542)
+- [d2forum](https://github.com/d2forum) D2前端技术论坛资料
 
 ### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
 
