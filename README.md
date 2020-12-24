@@ -56,6 +56,7 @@
   - [TypeScript 入门教程](https://ts.xcatliu.com/)
   - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
   - [dts-gen](https://github.com/Microsoft/dts-gen) d.ts 自动生成
+  - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - es6
   - [ECMAScript6入门](http://es6.ruanyifeng.com/)
 - lua
