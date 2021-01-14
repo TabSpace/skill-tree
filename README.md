@@ -450,6 +450,7 @@
   - [taro](https://github.com/NervJS/taro) 基于react的小程序多端生成框架
   - [wepy](https://github.com/wepyjs/wepy) 小程序开发框架，bug较多，打包机制不太合理
   - [mpvue](https://github.com/Meituan-Dianping/mpvue) 小程序开发框架，更贴近vue的写法
+  - [uni-app](https://github.com/dcloudio/uni-app) DCloud推出的多端生成框架，使用者众多
   - [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
 
 ### 客户端开发
