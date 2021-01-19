@@ -282,9 +282,10 @@
 - [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
 - [gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
-### 如果要做开源项目，还需要了解下开源协议
+### 如果要做开源项目，了解下组织开源社区的工具
 
 - [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+- [opencollective](https://opencollective.com/) 管理开源资金
 
 ### 我们需要设计工具来提供界面原型
 
