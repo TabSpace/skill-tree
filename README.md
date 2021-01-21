@@ -1035,6 +1035,7 @@
   - ✭ [draw.io](https://github.com/jgraph/drawio) 完善的在线图表绘制系统
   - [processon](https://www.processon.com/)
   - [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+  - [plantuml](https://plantuml.com/zh/) 支持快速绘制多种图表
 - 代码高亮
   - [prism](https://github.com/PrismJS/prism) 实现代码高亮
   - [highlight](https://github.com/highlightjs/highlight.js) 老牌代码高亮工具
