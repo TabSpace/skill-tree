@@ -352,6 +352,12 @@
 
 首先需要为业务类型来选择一个技术栈
 
+### 可选择的框架
+
+- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) js框架基准性能测试
+- [solid](https://github.com/ryansolid/solid) 高性能响应式框架
+- [preact](https://github.com/preactjs/preact) react的精简版
+
 ### jQuery
 
 - [jquery](http://jquery.com/)
