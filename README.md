@@ -402,9 +402,6 @@
   - [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) pwa 支持
   - [enzyme](https://github.com/airbnb/enzyme) 测试工具
   - [create-react-library](https://github.com/transitive-bullshit/create-react-library) 创建 React 库
-- 静态站
-  - ✭ [gatsby](https://github.com/gatsbyjs/gatsby)
-  - [react-static](https://github.com/nozzle/react-static)
 
 ### VUE
 
@@ -428,10 +425,6 @@
   - [DejaVue](https://github.com/MiCottOn/DejaVue) vue 可视化调试工具
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
-  - [vuepress](https://github.com/vuejs/vuepress) 静态站点生成器，用于写文档
-  - [vue-awesome-swiper](https://surmon-china.github.io/vue-awesome-swiper/) 基于 swiper 4，支持SSR
-- 静态站
-  - ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器
 
 ### GOOGLE
 
@@ -443,7 +436,6 @@
   - [amp](https://www.ampproject.org/) 来自谷歌
     - [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
   - [mip](https://www.mipengine.org/) 来自百度
-- [prerender](https://prerender.io/) 生成静态站点供搜索引擎识别
 
 ### 微信小程序
 
@@ -1017,7 +1009,6 @@
 - markdown
   - [markdown语法说明](http://wowubuntu.com/markdown/)
   - [markdown语法示例](http://equation85.github.io/blog/markdown-examples/)
-  - [md 转静态站](https://github.com/AlloyTeam/omi/tree/master/md2site)
   - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器，vuepress 使用它完成对 md 文件的解析
   - [typora](https://typora.io/) 极致简洁的 markdown 编辑器
     - [typora](https://github.com/typora) typora 的 github 地址
@@ -1045,6 +1036,26 @@
 - 代码高亮
   - [prism](https://github.com/PrismJS/prism) 实现代码高亮
   - [highlight](https://github.com/highlightjs/highlight.js) 老牌代码高亮工具
+
+### 可以搭建一个静态站作为文档
+
+- 静态站部署
+  - [pages](https://pages.github.com/) github 静态站
+- 静态站生成器
+  - react 静态站
+    - ✭ [gatsby](https://github.com/gatsbyjs/gatsby)
+    - [react-static](https://github.com/nozzle/react-static)
+  - vue 静态站
+    - ✭ [vuepress](https://github.com/vuejs/vuepress) vue静态站点生成器
+    - [vue-awesome-swiper](https://surmon-china.github.io/vue-awesome-swiper/) 基于 swiper 4，支持SSR
+  - 生成器
+    - [jekyll](https://github.com/jekyll/jekyll) 基于 Ruby 的静态站生成器
+    - [hugo](https://github.com/gohugoio/hugo) 基于 Go 的静态站生成器
+    - [hexo](https://github.com/hexojs/hexo) 基于 Node 的静态站生成器
+- 静态站工具
+  - [forestry](https://app.forestry.io/) 可以和静态站工具整合的CMS
+  - [prerender](https://prerender.io/) 生成静态站点供搜索引擎识别
+  - [md 转静态站](https://github.com/AlloyTeam/omi/tree/master/md2site)
 
 ## 分享
 
@@ -1094,7 +1105,6 @@
   - [waffle](https://waffle.io/) 把issue变成任务管理器
   - [feathub](https://feathub.com/) 特性投票
   - [probot](https://github.com/probot/probot) 搭建Github机器人
-  - [pages](https://pages.github.com/) 静态站点搭建
   - [issuehunt](https://issuehunt.io/) issue赏金，金钱奖励开源支持者
 - Github 开源指南
   - [开源指南](https://github.com/github/opensource.guide) 英文原版
