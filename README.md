@@ -543,7 +543,6 @@
 
 ### 操作数组，操作对象，对基础数据的一些骚操作都有工具支持
 
-- [underscore](https://github.com/jashkenas/underscore) 老牌工具库
 - [lodash](https://lodash.com/) 更为现代的工具函数库
 - [lazy](https://github.com/dtao/lazy.js) 延迟计算的工具函数
 - [collect](https://github.com/ecrmnn/collect.js) 处理 JavaScript 中的数组和对象
@@ -575,6 +574,7 @@
 - [css-generator](https://webcode.tools/css-generator) css3 生成器
 - [css-grid-layout-generator](https://css-grid-layout-generator.pw/) css grid 布局生成器
 - [cip.cc](http://www.cip.cc/) 检查出口IP `curl cip.cc`
+- [driver.js](https://github.com/kamranahmedse/driver.js) 做引导动画
 
 ### 使用现成的UI库来加速开发
 
