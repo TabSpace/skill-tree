@@ -898,6 +898,8 @@
   - [yapi](https://github.com/YMFE/yapi) 一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
   - [mockstar](https://github.com/mockstarjs/mockstar) 轻量 mock 服务
   - [spore-mock](https://github.com/SporeUI/spore-mock) 本地化mock服务
+- ios mock
+  - OCMock 提供 Stub 和 Mock 功能的框架
 
 ### 我们需要写一些自动化测试，来保障项目的可靠性
 
@@ -910,6 +912,8 @@
 - [macaca](https://github.com/alibaba/macaca) 多端自动化测试解决方案
 - [cypress](https://github.com/cypress-io/cypress) 基于 chrome 的e2e测试
 - [matman](https://github.com/matmanjs/matman) matman 是一个用于端对端(e2e)测试的工具，出自腾讯
+- ios
+  - XCTest Xcode 自带的单元测试框架，提供断言功能
 
 ### 一些自动化任务，我们不想在本地执行，就需要用到持续集成
 
