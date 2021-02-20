@@ -65,6 +65,7 @@
   - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
   - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
   - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
