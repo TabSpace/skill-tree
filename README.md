@@ -358,6 +358,7 @@
 - [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) js框架基准性能测试
 - [solid](https://github.com/ryansolid/solid) 高性能响应式框架
 - [preact](https://github.com/preactjs/preact) react的精简版
+- [svelte](https://github.com/sveltejs/svelte) 基础编译版本仅9kb
 
 ### jQuery
 
