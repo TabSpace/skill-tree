@@ -342,6 +342,7 @@
   - Eslint, markdownlint, TSLint 检查代码规范
   - Vetur vue开发支持
   - Sublime Text Keymap and Settings Importer 支持使用 Sublime 的快捷键操作编辑器
+  - [wakatime](https://wakatime.com/) 安装这个插件，统计编码时长
 - [sublime](https://www.sublimetext.com/) 性能很好，但是配置起来比较麻烦，而且插件资源都需要翻墙才能下载
   - [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 便捷生成jsdoc可以处理的多行注释
 - [vim](http://www.vim.org/) vim官方资源
