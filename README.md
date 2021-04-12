@@ -918,6 +918,10 @@
 - ios
   - XCTest Xcode 自带的单元测试框架，提供断言功能
 
+### 接口测试
+
+- [supertest](https://github.com/visionmedia/supertest) 测试代码可以集成到项目
+
 ### 一些自动化任务，我们不想在本地执行，就需要用到持续集成
 
 - [travis](https://travis-ci.org/) 适用于Github托管项目
