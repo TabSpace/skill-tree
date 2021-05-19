@@ -605,7 +605,7 @@
 - [obsproject](https://obsproject.com/) 跨平台直播推流工具，适合测试rtmp直播
 - [FSCapture](http://www.faststone.org/FSCaptureDetail.htm) 屏幕像素数值测量工具
 - [css3generator](https://css3generator.com/) css3 生成器
-- [css-generator](https://webcode.tools/css-generator) css3 生成器
+- [css-generator](https://webcode.tools/css-generator) 全面的 css 生成器
 - [css-grid-layout-generator](https://css-grid-layout-generator.pw/) css grid 布局生成器
 - [cip.cc](http://www.cip.cc/) 检查出口IP `curl cip.cc`
 - [driver.js](https://github.com/kamranahmedse/driver.js) 做引导动画
@@ -758,9 +758,15 @@
 - [fineuploader](https://github.com/FineUploader/fine-uploader)
 - [plupload](https://github.com/moxiecode/plupload)
 
-### Node 数据库
+### 数据库
 
 - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
+
+### 接口开发
+
+- [graphql](https://github.com/graphql) facebook 推出的接口封装工具
+  - [graphql-js](https://github.com/graphql/graphql-js) js版实现
+- [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
 
 ### 后台服务需要做好日志管理
 
