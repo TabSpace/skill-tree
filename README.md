@@ -61,11 +61,6 @@
   - [ECMAScript6入门](http://es6.ruanyifeng.com/)
 - lua
   - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
-- shell
-  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
-  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
@@ -96,6 +91,11 @@
 
 - linux
   - [linuxtools_rst](https://github.com/me115/linuxtools_rst) 这本书专注于Linux工具的最常用用法
+- shell
+  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
+  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 
 ### 一些知识点可以辅助透彻理解开发的各个环节
 
@@ -135,6 +135,7 @@
 - [渐进式jpeg](http://blog.jobbole.com/44038/)
 - [知乎的模糊预览](https://www.zhihu.com/question/55622930)
 - [webassembly](http://webassembly.org/)
+- [黑魔法](https://github.com/tnfe/awesome-blackmagic)
 
 ### 有些文章指明了可能存在的坑
 
@@ -228,8 +229,38 @@
 
 ### 工欲善其事必先利其器，准备好开发环境
 
-- [HomeBrew](https://brew.sh/) mac os 包管理器
+- mac
+  - [HomeBrew](https://brew.sh/) mac os 包管理器
   - [国内镜像安装Homebrew](https://www.jianshu.com/p/97b2552fed42)
+- winows
+  - [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  - [WSL 安装及前端开发环境配置](https://juejin.im/post/6844903845097635854)
+  - [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
+
+### 我们都需要一个良好的命令行环境
+
+- [Oh My ZSH](http://ohmyz.sh/) 命令行操作增强
+- [tmux](https://github.com/tmux/tmux) 终端窗口复用
+- [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
+- [thefuck](https://github.com/nvbn/thefuck) 调教命令行
+
+### 利用一些工具来管理命令行界面
+
+- [top-command-line-tools](https://stackify.com/top-command-line-tools/) 最受欢迎的命令行工具
+- [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
+- [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) 解决 item2 使用 rz,sz 管理终端文件的问题
+
+### 有些工具可以完善命令行界面
+
+- [commander](https://github.com/tj/commander.js) 命令行界面开发库
+- [clui](https://github.com/nathanpeck/clui) spinners、sparklines、progress bars图样显示组件
+- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
+- [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
+- [prompts](https://github.com/terkelg/prompts) 另一个漂亮的交互输入工具
+- [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
+- [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
+- [asciiflow](http://asciiflow.com/) ascii 画图表
 
 ### 写代码前，我们最好制定好开发规范，确保代码看起来不会太杂乱
 
@@ -963,35 +994,6 @@
   - [docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
   - [dockerhub](https://hub.docker.com/) docker 仓库
   - [阿里云docker镜像服务](https://cr.console.aliyun.com)
-
-### 无论远程还是本地服务器，我们都需要一个良好的命令行环境
-
-- winows
-  - [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-  - [WSL 安装及前端开发环境配置](https://juejin.im/post/6844903845097635854)
-  - [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
-- [Oh My ZSH](http://ohmyz.sh/) 操作增强
-- [tmux](https://github.com/tmux/tmux) 终端窗口复用
-- [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
-- [thefuck](https://github.com/nvbn/thefuck) 调教命令行
-
-### 有一些工具可以我们开发更好的用工具来管理命令行界面
-
-- [top-command-line-tools](https://stackify.com/top-command-line-tools/) 最受欢迎的命令行工具
-- [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
-- [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
-- [prompts](https://github.com/terkelg/prompts) 另一个漂亮的交互输入工具
-- [commander](https://github.com/tj/commander.js) 命令行界面开发库
-- [clui](https://github.com/nathanpeck/clui) spinners、sparklines、progress bars图样显示组件
-- [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
-- [blessed-contrib](https://github.com/yaronn/blessed-contrib) 命令行可视化组件
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
-- [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) 解决 item2 使用 rz,sz 管理终端文件的问题
-
-### 有些工具让命令行输出更漂亮
-
-- [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
-- [asciiflow](http://asciiflow.com/) ascii 画图表
 
 ### 项目上线后，我们需要建立监控，来保障业务稳定性
 
