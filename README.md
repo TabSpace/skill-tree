@@ -873,6 +873,7 @@
 - [ora](https://github.com/sindresorhus/ora) 命令行loading
 - [vorpal](https://github.com/dthree/vorpal) 创建交互式CLI的框架
 - [vantage](https://github.com/dthree/vantage) 将一个应用转化为命令行交互工具
+- [zx](https://github.com/google/zx) js 方式，实现命令行脚本
 
 ### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
 
