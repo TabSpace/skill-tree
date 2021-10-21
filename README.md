@@ -29,6 +29,7 @@
 - ✭ [FrontendMagazine](https://zhuanlan.zhihu.com/FrontendMagazine) 知乎前端外刊评论
 - ✭ [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 - ✭ [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
+- ✭ [前端知识图谱](https://f2e.tech/) (阿里系)
 - [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
 - [javascriptweekly](https://javascriptweekly.com/) javascript 周报
 - [nodeweekly](https://nodeweekly.com/) node 周报
