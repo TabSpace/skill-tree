@@ -440,24 +440,22 @@
 
 ### VUE
 
-- [vue](http://vuejs.org/)
+- [vue2](http://vuejs.org/)
+- [vue3](https://v3.vuejs.org/)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - UI
   - [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
-  - [mint ui](https://github.com/ElemeFE/mint-ui) 适用于移动端
   - [iview](https://github.com/iview/iview) 适合做数据报表
-  - [vant](https://github.com/youzan/vant) 有赞出品 UI
 - ssr
   - [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
   - [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
-  - [vue-php](https://github.com/Joe3Ray/vue-php) php渲染 vue
 - 工程
-  - [lavas vue pwa](https://github.com/lavas-project/lavas) vue pwa 应用示例
-  - [bowl](https://github.com/ElemeFE/bowl/) 初始文件 localstorage 缓存
   - [vue-router](https://github.com/vuejs/vue-router) vue 路由
   - [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
   - [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
-  - [DejaVue](https://github.com/MiCottOn/DejaVue) vue 可视化调试工具
+  - [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
+  - [vitesse](https://github.com/antfu/vitesse) 最受欢迎的 vue3 项目模板
+  - [vuex](https://github.com/vuejs/vuex) 用 jsx 编写 vue
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 
@@ -627,9 +625,7 @@
     - [material-ui](https://github.com/mui-org/material-ui) 实现 Google Material Design 的 React 组件库
     - [material-design-lite](https://github.com/google/material-design-lite) 谷歌官方组件库
     - [material2](https://github.com/angular/material2) 基于 Angular 的 MDUI
-  - [framework7](http://framework7.io/) 适合传统h5站点开发
-    - [framework7-taobao](http://framework7.taobao.org/)
-    - [msui-taobao](http://m.sui.taobao.org/components/)
+  - [windicss](https://github.com/windicss/windicss) 号称下一代响应式 CSS 框架，热度较高，vue3 社区推荐
   - [spectre](https://github.com/picturepan2/spectre) 轻量级响应式css框架
   - [foundation](https://github.com/zurb/foundation-sites) 很多响应式框架依赖的响应式样式框架
   - [amaze ui](https://github.com/amazeui/amazeui) 重视动画交互
@@ -637,7 +633,6 @@
   - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) 响应式样式框架
   - [bootstrap](https://github.com/twbs/bootstrap) twitter 出品的响应式框架
     - [bootstrap中文网](http://v3.bootcss.com/)
-  - [layer UI](https://github.com/sentsin/layui/) 原生代码框架
   - [weui](https://github.com/weui/weui) 微信风格样式框架，适合移动端开发
   - [spectre](https://github.com/picturepan2/spectre) 一个响应式css框架
   - [飞冰](https://github.com/alibaba/ice/) 阿里的飞冰，用于中后台项目搭建
@@ -1146,10 +1141,6 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序
 
-### 个人日常积累一些代码，有时会起到重要作用
-
-- [SporeUI](https://github.com/SporeUI) 个人工具库
-
 ### 个人积累可以转化为自己的文章
 
 - 个人博客搭建
@@ -1181,7 +1172,6 @@
 
 ## 其他
 
-- [哗仔说鱼](https://zhuanlan.zhihu.com/c_150503702) 用诙谐幽默的文字教你玩转宠物鱼
 - [remove.bg](https://www.remove.bg/) 在线抠图
 
 ------
