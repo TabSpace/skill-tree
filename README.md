@@ -199,6 +199,7 @@
     - [svg线条动画 vivus](https://github.com/maxwellito/vivus)
     - [svgomg](https://jakearchibald.github.io/svgomg/) svg 在线优化工具
     - [svg-optimiser](https://petercollingridge.appspot.com/svg-optimiser) svg 在线优化
+    - [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
   - [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
 
 ### 接口访问是 web 开发最常用到的运行时能力之一
@@ -254,6 +255,10 @@
 ### 有些工具可以完善命令行界面
 
 - [commander](https://github.com/tj/commander.js) 命令行界面开发库
+- [execa](https://github.com/sindresorhus/execa) better child_process
+- [ora](https://github.com/sindresorhus/ora) 命令行loading
+- [vorpal](https://github.com/dthree/vorpal) 创建交互式CLI的框架
+- [vantage](https://github.com/dthree/vantage) 将一个应用转化为命令行交互工具
 - [clui](https://github.com/nathanpeck/clui) spinners、sparklines、progress bars图样显示组件
 - [chalk](https://github.com/chalk/chalk) 用于在终端渲染文本颜色
 - [prompt](https://github.com/flatiron/prompt) 用于在终端构建交互式输入
@@ -511,6 +516,7 @@
   - [helmet](https://github.com/helmetjs/helmet) 安全中间件
   - [cors](https://github.com/expressjs/cors) 中间件
 - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
+- [daruk](https://github.com/darukjs/daruk) typescript 开发 node
 
 ### Deno 开发
 
@@ -697,7 +703,6 @@
 
 - IO
   - [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
-  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
   - [flyio](https://github.com/wendux/fly) 一个支持所有JavaScript运行环境的基于Promise的、支持请求转发、强大的http请求库
   - [PreloadJS](https://github.com/CreateJS/PreloadJS) 解决资源预加载
 - 时间处理
@@ -723,13 +728,29 @@
 - [js-cookie](https://github.com/js-cookie/js-cookie)
 - [step](https://github.com/creationix/step) 流程控制
 
-### 模板引擎
+### WebServer
 
-- [pug](https://pugjs.org/)
-  - [pug-loader](https://github.com/pugjs/pug-loader)
-  - [jade2php](https://github.com/SE7ENSKY/jade2php)
-  - [learn jade](http://learnjade.com/) 代码测试
-  - [jade 中文说明](http://expressjs.jser.us/jade.html)
+- 数据库
+  - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
+  - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
+- Redis
+  - [redis](https://github.com/redis/node-redis) 连接 redis
+- IO
+  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
+- 接口设计
+  - [graphql](https://github.com/graphql) facebook 推出的接口封装工具
+    - [graphql-js](https://github.com/graphql/graphql-js) js版实现
+  - [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
+- 模板引擎
+  - [ejs](https://github.com/mde/ejs)
+  - [pug](https://pugjs.org/)
+    - [pug-loader](https://github.com/pugjs/pug-loader)
+- 日志
+  - [winston](https://github.com/winstonjs/winston) 日志管理
+  - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
+  - [rsyslog](https://www.rsyslog.com/)
+    - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
+    - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
 
 ### 数据可视化
 
@@ -753,25 +774,6 @@
 
 - [fineuploader](https://github.com/FineUploader/fine-uploader)
 - [plupload](https://github.com/moxiecode/plupload)
-
-### 数据库
-
-- [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
-
-### 接口开发
-
-- [graphql](https://github.com/graphql) facebook 推出的接口封装工具
-  - [graphql-js](https://github.com/graphql/graphql-js) js版实现
-- [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
-
-### 后台服务需要做好日志管理
-
-- [colorogger](https://github.com/TabSpace/colorogger) 服务端浏览器端都可以用的彩色日志
-- [winston](https://github.com/winstonjs/winston) 日志管理
-- [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
-- [rsyslog](https://www.rsyslog.com/)
-  - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
-  - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
 
 ### 即时通讯
 
@@ -855,20 +857,11 @@
 - 算法练习与学习
   - [leetcode](https://leetcode.com/) LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
-### 有些技术可以帮助我们让性能和体验上一个台阶
-
-- [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
-
 ## 调试
 
 ### 项目开发过程中，我们希望将一些步骤自动化，使用任务工具来封装
 
 - ✭ [gulp](http://gulpjs.com/)
-- [grunt](http://gruntjs.com/)
-- [execa](https://github.com/sindresorhus/execa) better child_process
-- [ora](https://github.com/sindresorhus/ora) 命令行loading
-- [vorpal](https://github.com/dthree/vorpal) 创建交互式CLI的框架
-- [vantage](https://github.com/dthree/vantage) 将一个应用转化为命令行交互工具
 - [zx](https://github.com/google/zx) js 方式，实现命令行脚本
 
 ### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
@@ -1141,11 +1134,6 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序
 
-### 个人积累可以转化为自己的文章
-
-- 个人博客搭建
-  - [hexo](https://hexo.io/)
-
 ### 还可以DIY一个配偶
 
 - 微信机器人
@@ -1170,10 +1158,8 @@
 
 - [程序员客栈](https://www.proginn.com/) 外包协作
 
-## 其他
-
-- [remove.bg](https://www.remove.bg/) 在线抠图
-
 ------
 
 ## 待整理
+
+- [remove.bg](https://www.remove.bg/) 在线抠图
