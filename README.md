@@ -58,6 +58,8 @@
   - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
   - [dts-gen](https://github.com/Microsoft/dts-gen) d.ts 自动生成
   - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- TypeScript 类型体操
+  - [用一个数组来定义类型](https://steveholgado.com/typescript-types-from-arrays/) `[] as const`
 - es6
   - [ECMAScript6入门](http://es6.ruanyifeng.com/)
 - lua
