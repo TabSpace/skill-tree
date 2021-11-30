@@ -456,6 +456,7 @@
 - ssr
   - [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
   - [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
+  - [srr](https://github.com/zhangyuang/ssr) 同时支持 react 与 vue2/vue3
 - 工程
   - [vue-router](https://github.com/vuejs/vue-router) vue 路由
   - [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
