@@ -247,6 +247,7 @@
 - [Oh My ZSH](http://ohmyz.sh/) 命令行操作增强
 - [tmux](https://github.com/tmux/tmux) 终端窗口复用
 - [xterm](https://github.com/xtermjs/xterm.js) A terminal for the web
+- [tabby](https://github.com/Eugeny/tabby) 跨平台终端连接工具
 - [thefuck](https://github.com/nvbn/thefuck) 调教命令行
 
 ### 利用一些工具来管理命令行界面
@@ -351,12 +352,13 @@
 - [npm](https://npmjs.org/)
   - [npm的package.json中文文档](https://github.com/ericdum/mujiang.info/issues/6)
   - [淘宝npm镜像](http://npm.taobao.org/)
-  - [yarn](https://github.com/yarnpkg) facebook 推出的 npm 替代方案，安装模块更迅速
   - [npm-runkit](https://npm.runkit.com/) 一个简单的npm模块实验室
   - [runkit](https://runkit.com/home) 在线执行 node repl，引入 npm package
   - [npms.io](https://npms.io/) npm模块搜索
   - [npm命令配置技巧](https://www.jianshu.com/p/0f8ba68a04ec)
   - [fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) npm 安装不再需要 sudo
+- [yarn](https://github.com/yarnpkg) facebook 推出的 npm 替代方案，安装模块更迅速
+- [pnpm](https://github.com/pnpm/pnpm) 精简包体积的 package 管理工具
 - [patch-package](https://github.com/ds300/patch-package) 为npm包快速打补丁
 - [verdaccio](https://github.com/verdaccio/verdaccio) 搭建私有npm仓库
 - [nrm](https://github.com/Pana/nrm) 快速切换npm镜像
