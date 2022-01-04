@@ -466,7 +466,10 @@
   - [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
   - [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
   - [vitesse](https://github.com/antfu/vitesse) 最受欢迎的 vue3 项目模板
-  - [vuex](https://github.com/vuejs/vuex) 用 jsx 编写 vue
+  - [vuex](https://github.com/vuejs/vuex) vue 数据存储
+  - [pinia](https://github.com/vuejs/pinia) 适配 vue3 的数据存储库
+  - [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) 用 jsx 编写 vue2 代码
+  - [jsx-next](https://github.com/vuejs/jsx-next) 用 jsx 编写 vue3 代码
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 
