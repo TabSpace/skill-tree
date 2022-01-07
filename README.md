@@ -525,7 +525,8 @@
   - [helmet](https://github.com/helmetjs/helmet) 安全中间件
   - [cors](https://github.com/expressjs/cors) 中间件
 - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
-- [daruk](https://github.com/darukjs/daruk) typescript 开发 node
+- [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
+- [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
 
 ### Deno 开发
 
