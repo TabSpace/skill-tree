@@ -140,6 +140,7 @@
 - [知乎的模糊预览](https://www.zhihu.com/question/55622930)
 - [webassembly](http://webassembly.org/)
 - [黑魔法](https://github.com/tnfe/awesome-blackmagic)
+- [2022 年的 CSS](https://www.w3cplus.com/css/what-is-new-css-in-2022.html)
 
 ### 有些文章指明了可能存在的坑
 
@@ -220,11 +221,15 @@
 - [meta元素整理](https://segmentfault.com/a/1190000002407912)
 - [gradients 渐变](https://drafts.csswg.org/css-images-3/)
 
+### 对于各种尺寸下的移动设备，响应式设计变得越来越重要
+
+- [响应式设计](https://alistapart.com/article/responsive-web-design/)
+- [下一代响应式Web设计：组件驱动式Web设计](https://zhuanlan.zhihu.com/p/497961289)
+
 ### 有时执行环境存在兼容性问题，我们需要知道区别在哪里
 
 - ✭ [can i use](http://caniuse.com/)
 - [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
-- [UC浏览器开发者中心](http://www.uc.cn/business/developer/)
 
 ### 确定项目开发时，需要知道浏览器市占率
 
