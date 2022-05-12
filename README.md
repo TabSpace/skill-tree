@@ -141,6 +141,7 @@
 - [知乎的模糊预览](https://www.zhihu.com/question/55622930)
 - [webassembly](http://webassembly.org/)
 - [黑魔法](https://github.com/tnfe/awesome-blackmagic)
+- [2022 年的 CSS](https://www.w3cplus.com/css/what-is-new-css-in-2022.html)
 
 ### 有些文章指明了可能存在的坑
 
@@ -221,11 +222,15 @@
 - [meta元素整理](https://segmentfault.com/a/1190000002407912)
 - [gradients 渐变](https://drafts.csswg.org/css-images-3/)
 
+### 对于各种尺寸下的移动设备，响应式设计变得越来越重要
+
+- [响应式设计](https://alistapart.com/article/responsive-web-design/)
+- [下一代响应式Web设计：组件驱动式Web设计](https://zhuanlan.zhihu.com/p/497961289)
+
 ### 有时执行环境存在兼容性问题，我们需要知道区别在哪里
 
 - ✭ [can i use](http://caniuse.com/)
 - [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
-- [UC浏览器开发者中心](http://www.uc.cn/business/developer/)
 
 ### 确定项目开发时，需要知道浏览器市占率
 
@@ -468,7 +473,10 @@
   - [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
   - [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
   - [vitesse](https://github.com/antfu/vitesse) 最受欢迎的 vue3 项目模板
-  - [vuex](https://github.com/vuejs/vuex) 用 jsx 编写 vue
+  - [vuex](https://github.com/vuejs/vuex) vue 数据存储
+  - [pinia](https://github.com/vuejs/pinia) 适配 vue3 的数据存储库
+  - [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) 用 jsx 编写 vue2 代码
+  - [jsx-next](https://github.com/vuejs/jsx-next) 用 jsx 编写 vue3 代码
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
 
@@ -524,7 +532,8 @@
   - [helmet](https://github.com/helmetjs/helmet) 安全中间件
   - [cors](https://github.com/expressjs/cors) 中间件
 - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
-- [daruk](https://github.com/darukjs/daruk) typescript 开发 node
+- [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
+- [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
 
 ### Deno 开发
 
@@ -771,6 +780,8 @@
 - [springy](https://github.com/dhotson/springy) 生成点线拓扑图
 - [jsplumb](https://github.com/jsplumb/jsplumb) 流程图绘制
   - [jsplumb中文文档](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
+- [AntV](https://github.com/antvis) 蚂蚁金服 - 数据可视化
+- [AntV/X6](https://github.com/antvis/x6) 图编辑引擎，搭建流程图，逻辑编排
 
 ### 路由
 
