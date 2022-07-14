@@ -29,13 +29,14 @@
 - ✭ [FrontendMagazine](https://zhuanlan.zhihu.com/FrontendMagazine) 知乎前端外刊评论
 - ✭ [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 - ✭ [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，大量精彩技术文档
-- ✭ [前端知识图谱](https://f2e.tech/) (阿里系)
+- ✭ [javascriptweekly](https://javascriptweekly.com/) javascript 周报
+- ✭ [d2forum](https://github.com/d2forum) D2前端技术论坛资料
+- ✭ [github trending](https://github.com/trending/javascript?since=daily) github 仓库热度趋势
+- [前端知识图谱](https://f2e.tech/) (阿里系)
 - [50weekly](https://github.com/ihtml5/50weekly) 发现高质量的前端资源
-- [javascriptweekly](https://javascriptweekly.com/) javascript 周报
 - [nodeweekly](https://nodeweekly.com/) node 周报
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 - [程序员们平时都喜欢逛什么论坛呢？](https://www.zhihu.com/question/27145069/answer/895588542)
-- [d2forum](https://github.com/d2forum) D2前端技术论坛资料
 
 ### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
 
@@ -351,6 +352,7 @@
 ### 有时需要自行设计一些东西
 
 - [canva](https://www.canva.com/) 图片在线编辑
+- [remove.bg](https://www.remove.bg/) 在线抠图
 
 ### 现代开发流程中，我们往往期望借助开源社区提供直接使用的包资源
 
@@ -438,7 +440,7 @@
 - ssr
   - [reactphp](https://github.com/reactphp/react)
   - ✭ [next.js](https://github.com/zeit/next.js) ssr框架
-- 架构
+- 框架补充
   - [react-router](https://github.com/ReactTraining/react-router)
   - [redux](https://github.com/reactjs/redux) 通用react数据仓库
     - [redux-devtools](https://github.com/gaearon/redux-devtools)
@@ -557,11 +559,10 @@
 - [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [flex bug 列表](https://github.com/philipwalton/flexbugs)
 
-### 前端部署解决方案
+### 微前端，微服务解决方案整合框架与服务
 
 - [乾坤](https://github.com/umijs/qiankun) 微前端解决方案
 - [single-spa](https://github.com/single-spa/single-spa) 前端微服务解决方案
-- [cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework) 腾讯云开发
 
 ### 安全是开发中非常需要注意的地方，不安全的项目有可能摧毁一切业绩
 
@@ -877,28 +878,6 @@
 
 ## 调试
 
-### 项目开发过程中，我们希望将一些步骤自动化，使用任务工具来封装
-
-- ✭ [gulp](http://gulpjs.com/)
-- [zx](https://github.com/google/zx) js 方式，实现命令行脚本
-
-### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
-
-- ✭ [pkg](https://github.com/zeit/pkg) Node项目打包编译
-- ✭ [webpack](https://webpack.github.io/)
-  - plugins
-    - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
-    - [progress-bar-webpack-plugin](https://www.npmjs.com/package/progress-bar-webpack-plugin)
-    - [extract-text-webpack-plugin](https://www.npmjs.com/package/extract-text-webpack-plugin)
-  - 文章
-    - [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
-    - [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
-    - [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
-- [rollup](http://rollupjs.org/) 适合纯粹js打包
-- [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
-- [fis](http://fis.baidu.com/)
-  - [fis3-base 现成的脚手架](https://github.com/yanhaijing/fis3-base)
-
 ### 调试是开发的重要环节，用一些工具来优化调试效率
 
 - [devtools](https://developer.chrome.com/devtools)
@@ -920,8 +899,6 @@
     - [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
 - [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
 
-## 测试
-
 ### 开发中，我们需要代理一些接口，便于集成本地调试环境
 
 - ✭ [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
@@ -929,6 +906,8 @@
 - ✭ [VRouter](https://github.com/icymind/VRouter) 跨平台搭建透明代理
 - [anyproxy](https://github.com/alibaba/anyproxy) 基于 node 的代理工具，阿里出品
 - [nproxy](https://github.com/goddyZhao/nproxy) 基于 node 的静态文件代理
+
+## 测试
 
 ### 有时，我们需要模拟部分数据，来暂时替代部分接口返回的数据
 
@@ -967,15 +946,6 @@
 
 - [supertest](https://github.com/visionmedia/supertest) 测试代码可以集成到项目
 
-### 一些自动化任务，我们不想在本地执行，就需要用到持续集成
-
-- [travis](https://travis-ci.org/) 适用于Github托管项目
-  - [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
-- [jenkins](https://jenkins.io/)
-- [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
-- [circleci](https://circleci.com/) 适用于Github托管项目
-- [drone](https://github.com/drone/drone) 原生容器持续集成分发平台
-
 ### 开发的响应式界面，是否良好适配了各个屏幕
 
 - [responsivedesign](http://ami.responsivedesign.is/) 快速检查网站在不同屏幕尺寸下的外观
@@ -993,12 +963,43 @@
 
 ## 部署
 
+### 项目开发过程中，我们希望将一些步骤自动化，使用任务工具来封装
+
+- ✭ [gulp](http://gulpjs.com/)
+- [zx](https://github.com/google/zx) js 方式，实现命令行脚本
+
+### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
+
+- ✭ [pkg](https://github.com/zeit/pkg) Node项目打包编译
+- ✭ [webpack](https://webpack.github.io/)
+  - plugins
+    - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+    - [progress-bar-webpack-plugin](https://www.npmjs.com/package/progress-bar-webpack-plugin)
+    - [extract-text-webpack-plugin](https://www.npmjs.com/package/extract-text-webpack-plugin)
+  - 文章
+    - [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
+    - [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
+    - [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
+- [rollup](http://rollupjs.org/) 适合纯粹js打包
+- [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
+
 ### 代码部署上线，需要有一个服务器环境
 
 - [apache](https://httpd.apache.org/)
   - [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
+- [pm2 多进程管理](https://github.com/Unitech/PM2/) 进程失败后重新拉起进程
 - [nginx](https://nginx.org/en/)
 - [localtunnel](https://github.com/localtunnel/localtunnel) 将本地服务暴露到公网
+- [cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework) 腾讯云开发
+
+### 使用持续集成，执行自动化任务和部署任务
+
+- [travis](https://travis-ci.org/) 适用于Github托管项目
+  - [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
+- [jenkins](https://jenkins.io/)
+- [appveyor](https://www.appveyor.com/) 应用持续构建，适用于Github托管项目
+- [circleci](https://circleci.com/) 适用于Github托管项目
+- [drone](https://github.com/drone/drone) 原生容器持续集成分发平台
 
 ### 现在一些服务不再直接部署到物理机上了，而是使用 docker
 
@@ -1011,13 +1012,14 @@
 
 ### 项目上线后，我们需要建立监控，来保障业务稳定性
 
-- [sentry](https://github.com/getsentry/sentry) 日志管理与质量监控
-- [BetterJS](https://github.com/BetterJS) 原名 BadJS
-- [pandora](https://github.com/midwayjs/pandora) 专业的 Node.js 应用监控管理器，阿里开源
-
-### 开发后台服务，需要提供运维工具
-
-- [pm2 多进程管理](https://github.com/Unitech/PM2/) 进程失败后重新拉起进程
+- 错误监控
+  - [sentry](https://github.com/getsentry/sentry) 日志管理与质量监控
+  - [BetterJS](https://github.com/BetterJS) 原名 BadJS
+- node 服务监控
+  - [pandora](https://github.com/midwayjs/pandora) 专业的 Node.js 应用监控管理器，阿里开源
+- 性能监控，前端错误率
+  - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor)
+  - [rum](https://cloud.tencent.com/product/rum)
 
 ### 觉得性能有问题？有些文章提供了指导
 
@@ -1180,5 +1182,4 @@
 
 ## 待整理
 
-- [remove.bg](https://www.remove.bg/) 在线抠图
 - [练习八段锦](https://www.zhihu.com/question/317868265/answer/1364598959)
