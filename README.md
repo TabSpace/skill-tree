@@ -5,26 +5,120 @@
 下面按 Web 开发步骤反复梳理文档：
 
 - [学习](#学习)
+  - [科学上网](#科学上网)
+  - [前端趋势](#前端趋势)
+  - [标准规范](#标准规范)
+  - [语言技术栈](#语言技术栈)
+  - [linux资料](#linux资料)
+  - [零散知识点](#零散知识点)
+  - [系统化的学习资料](#系统化的学习资料)
+  - [教程站点](#教程站点)
+  - [教学游戏](#教学游戏)
+  - [实验性特性](#实验性特性)
+  - [爬坑指南](#爬坑指南)
+  - [技术方法论](#技术方法论)
+  - [面试八股文](#面试八股文)
+  - [语言特性适配表](#语言特性适配表)
+  - [语言编译工具](#语言编译工具)
+  - [浏览器能力](#浏览器能力)
+  - [接口访问说明](#接口访问说明)
+  - [响应式设计](#响应式设计)
+  - [兼容性问题与工具](#兼容性问题与工具)
+  - [浏览器市占率](#浏览器市占率)
 - [规划](#规划)
+  - [操作系统与开发环境](#操作系统与开发环境)
+  - [命令行环境](#命令行环境)
+  - [命令行终端工具](#命令行终端工具)
+  - [命令行开发工具](#命令行开发工具)
+  - [制定开发规范](#制定开发规范)
+  - [代码版本控制](#代码版本控制)
+  - [项目版本管理](#项目版本管理)
+  - [维护开源所需工具](#维护开源所需工具)
+  - [设计工具](#设计工具)
+  - [协作工具](#协作工具)
+  - [依赖包管理工具](#依赖包管理工具)
+  - [代码预编译](#代码预编译)
+  - [代码编辑器](#代码编辑器)
 - [开发](#开发)
+  - [可选择的框架](#可选择的框架)
+  - [jQuery](#jQuery)
+  - [React](#React)
+  - [VUE](#VUE)
+  - [GOOGLE](#GOOGLE)
+  - [微信小程序](#微信小程序)
+  - [客户端开发](#客户端开发)
+  - [桌面应用开发](#桌面应用开发)
+  - [Node开发](#Node开发)
+  - [Deno开发](#Deno开发)
+  - [界面布局](#界面布局)
+  - [公共代码仓库](#公共代码仓库)
 - [集成](#集成)
+  - [微前端](#微前端)
+  - [前端安全](#前端安全)
+  - [兼容性问题解决工具](#兼容性问题解决工具)
+  - [图标与字体](#图标与字体)
+  - [基础数据操作工具](#基础数据操作工具)
+  - [开发辅助工具](#开发辅助工具)
+  - [现成UI库](#现成UI库)
+  - [多媒体展示](#多媒体展示)
+  - [文本编辑器](#文本编辑器)
+  - [动画处理](#动画处理)
+  - [实用工具库](#实用工具库)
+  - [WebServer](#WebServer)
+  - [数据可视化](#数据可视化)
+  - [路由组件](#路由组件)
+  - [文件上传](#文件上传)
+  - [即时通讯](#即时通讯)
+  - [前端工具库使用介绍](#前端工具库使用介绍)
+  - [Node文章](#Node文章)
+  - [云服务](#云服务)
+  - [开发思想工具库](#开发思想工具库)
+  - [算法](#算法)
+  - [脚手架工具](#脚手架工具)
 - [调试](#调试)
+  - [前端调试工具](#前端调试工具)
+  - [接口代理工具](#接口代理工具)
 - [测试](#测试)
+  - [测试数据模拟](#测试数据模拟)
+  - [自动化测试工具](#自动化测试工具)
+  - [接口测试](#接口测试)
+  - [响应式界面适配工具](#响应式界面适配工具)
+  - [无头浏览器](#无头浏览器)
 - [部署](#部署)
+  - [工作流工具](#工作流工具)
+  - [业务构建工具](#业务构建工具)
+  - [服务部署环境](#服务部署环境)
+  - [持续集成](#持续集成)
+  - [docker使用](#docker使用)
+  - [前端监控体系](#前端监控体系)
+  - [性能优化指南](#性能优化指南)
+  - [运维工具](#运维工具)
 - [文档](#文档)
+  - [文档编写工具](#文档编写工具)
+  - [静态站搭建](#静态站搭建)
 - [分享](#分享)
+  - [代码分享展示](#代码分享展示)
+  - [gif动画录制](#gif动画录制)
 - [积累](#积累)
+  - [前端开发流程经验](#前端开发流程经验)
+  - [Github使用](#Github使用)
+  - [awesome系列](#awesome系列)
+  - [配偶DIY](#配偶DIY)
+  - [杂项资源](#杂项资源)
+  - [外包协作](#外包协作)
+- [待整理](#待整理)
+  - [科学养生](#科学养生)
 
 ------
 
 ## 学习
 
-### 学习开发必备技能，科学上网
+### 科学上网
 
 - [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 - [brook](https://github.com/txthinking/brook) 自建代理
 
-### 若要紧追趋势，下面是一波快捷通道
+### 前端趋势
 
 - ✭ [FrontendMagazine](https://zhuanlan.zhihu.com/FrontendMagazine) 知乎前端外刊评论
 - ✭ [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
@@ -38,7 +132,7 @@
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 - [程序员们平时都喜欢逛什么论坛呢？](https://www.zhihu.com/question/27145069/answer/895588542)
 
-### 无论做何种开发，都有规范可遵循，也是获取相应知识的第一手资料
+### 标准规范
 
 - [w3c](https://www.w3.org/)
   - [w3c中国](http://www.chinaw3c.org/)
@@ -46,7 +140,7 @@
   - [css规范当前状态](https://www.w3.org/Style/CSS/current-work)
   - [如何阅读w3c规范](http://alistapart.com/article/readspec)
 
-### 不同的开发语言决定了后续技术栈的选用
+### 语言技术栈
 
 - Javascript
   - [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
@@ -91,7 +185,7 @@
   - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
   - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 
-### 应该熟悉一下 linux 的使用
+### linux资料
 
 - linux
   - [linuxtools_rst](https://github.com/me115/linuxtools_rst) 这本书专注于Linux工具的最常用用法
@@ -101,7 +195,7 @@
   - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
   - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 
-### 一些知识点可以辅助透彻理解开发的各个环节
+### 零散知识点
 
 - [浏览器交互流程](https://github.com/skyline75489/what-happens-when-zh_CN) --当你按下回车键时发生了什么
   - [Life of a Pixel，让你更透彻知道浏览器是如何工作](https://mp.weixin.qq.com/s/87OYpou4ynpvYlcExEO40w)
@@ -112,26 +206,30 @@
 - [理解矩阵](http://blog.csdn.net/pizi0475/article/details/5440136)
 - [Cron 定时任务表达式手册](https://www.gairuo.com/p/cron-expression-sheet)
 - [fe-dev-playbook](https://fe.surge.sh/) 打造舒适高效的前端开发环境
+- 移动开发
+  - [浏览器favicon cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+  - [meta元素整理](https://segmentfault.com/a/1190000002407912)
+  - [gradients 渐变](https://drafts.csswg.org/css-images-3/)
 
-### 有些站点提供了系统的学习资料
+### 系统化的学习资料
 
 - [w3schools](http://www.w3schools.com/)
   - [中文站](http://www.w3school.com.cn/)
 - [Mozilla MDN](https://developer.mozilla.org/zh-CN/)
 
-### 有些站点提供教程
+### 教程站点
 
 - [慕课网](http://www.imooc.com/)
 - [菜鸟教程](https://www.runoob.com/)
 - [laravel 视频教程](https://www.laravist.com/)
 - [Node最佳实践](https://github.com/i0natan/nodebestpractices)
 
-### 有些站点用游戏的方式来教学
+### 教学游戏
 
 - [warriorjs](https://github.com/olistic/warriorjs) 一个编程游戏
 - [codecombat](https://github.com/codecombat/codecombat) 编程游戏
 
-### 有些文章在探索一些新技巧
+### 实验性特性
 
 - [css tricks](https://css-tricks.com/css/) css技巧获取
 - [css3不为人知的高级属性](http://www.cnblogs.com/radom/archive/2012/04/19/2457356.html)
@@ -143,12 +241,12 @@
 - [黑魔法](https://github.com/tnfe/awesome-blackmagic)
 - [2022 年的 CSS](https://www.w3cplus.com/css/what-is-new-css-in-2022.html)
 
-### 有些文章指明了可能存在的坑
+### 爬坑指南
 
 - [wtf js](https://github.com/denysdovhan/wtfjs) js 缺陷集锦
 - [一个正则表达式引发的血案，让线上CPU100%异常！](https://juejin.im/post/5b287ea6f265da596d04a324)
 
-### 有些文章提供方法论
+### 技术方法论
 
 - [用JSON构建API的标准指南](http://jsonapi.org.cn/)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
@@ -157,22 +255,22 @@
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
   - [极客法则](https://github.com/nusr/hacker-laws-zh) 对开发人员有用的定律、理论、原则和模式。
 
-### 刷面试题也是个不错的知识点收集方式
+### 面试八股文
 
 - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook)
 
-### 有时开发语言并不能直接在环境中执行，我们需要了解语言适配环境的范围
+### 语言特性适配表
 
 - [es5浏览器适配表](http://kangax.github.io/compat-table/es5/)
 - [es6浏览器适配表](http://kangax.github.io/compat-table/es6/)
 - [node es适配表](https://node.green/)
 
-### 也可以通过编译工具，将写好的代码转变为执行环境可以直接执行的代码
+### 语言编译工具
 
 - [babel](https://babeljs.io/) 提前使用es6,es7
 - [webpack es6 浏览器兼容](https://segmentfault.com/a/1190000005128101)
 
-### 开发过程是一个组织数据与执行环境交互的过程，我们需要知道执行环境能做什么，比如浏览器都有哪些能力
+### 浏览器能力
 
 - [js 与 dom 参考(w3schools)](http://www.w3schools.com/jsref/)
 - [html5](http://html5index.org/)
@@ -207,7 +305,7 @@
     - [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
   - [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
 
-### 接口访问是 web 开发最常用到的运行时能力之一
+### 接口访问说明
 
 - [ajax](https://segmentfault.com/a/1190000004322487)
 - [cors详解(阮一峰版)](http://www.ruanyifeng.com/blog/2016/04/cors.html)
@@ -216,29 +314,23 @@
   - [跨域请求传递Cookie问题](https://cloud.tencent.com/developer/article/1504235)
   - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 
-### 移动开发有些知识点，可以辅助我们提供更好的用户体验
-
-- [浏览器favicon cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
-- [meta元素整理](https://segmentfault.com/a/1190000002407912)
-- [gradients 渐变](https://drafts.csswg.org/css-images-3/)
-
-### 对于各种尺寸下的移动设备，响应式设计变得越来越重要
+### 响应式设计
 
 - [响应式设计](https://alistapart.com/article/responsive-web-design/)
 - [下一代响应式Web设计：组件驱动式Web设计](https://zhuanlan.zhihu.com/p/497961289)
 
-### 有时执行环境存在兼容性问题，我们需要知道区别在哪里
+### 兼容性问题与工具
 
 - ✭ [can i use](http://caniuse.com/)
 - [w3c兼容性知识库](http://w3help.org/zh-cn/kb/)
 
-### 确定项目开发时，需要知道浏览器市占率
+### 浏览器市占率
 
 - ✭ [browser share](https://www.w3schools.com/browsers/) 浏览器市场占有率
 
 ## 规划
 
-### 工欲善其事必先利其器，准备好开发环境
+### 操作系统与开发环境
 
 - mac
   - [HomeBrew](https://brew.sh/) mac os 包管理器
@@ -248,7 +340,7 @@
   - [WSL 安装及前端开发环境配置](https://juejin.im/post/6844903845097635854)
   - [cmder](https://github.com/cmderdev/cmder) windows上的命令行环境
 
-### 我们都需要一个良好的命令行环境
+### 命令行环境
 
 - [Oh My ZSH](http://ohmyz.sh/) 命令行操作增强
 - [tmux](https://github.com/tmux/tmux) 终端窗口复用
@@ -256,13 +348,13 @@
 - [tabby](https://github.com/Eugeny/tabby) 跨平台终端连接工具
 - [thefuck](https://github.com/nvbn/thefuck) 调教命令行
 
-### 利用一些工具来管理命令行界面
+### 命令行终端工具
 
 - [top-command-line-tools](https://stackify.com/top-command-line-tools/) 最受欢迎的命令行工具
 - [shelljs](https://github.com/shelljs/shelljs) node.js运行shell命令组件
 - [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) 解决 item2 使用 rz,sz 管理终端文件的问题
 
-### 有些工具可以完善命令行界面
+### 命令行开发工具
 
 - [commander](https://github.com/tj/commander.js) 命令行界面开发库
 - [execa](https://github.com/sindresorhus/execa) better child_process
@@ -278,7 +370,7 @@
 - [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
 - [asciiflow](http://asciiflow.com/) ascii 画图表
 
-### 写代码前，我们最好制定好开发规范，确保代码看起来不会太杂乱
+### 制定开发规范
 
 - [isobar 前端代码规范](http://coderlmn.github.io/code-standards/)
 - 代码规范
@@ -298,7 +390,7 @@
 - lint
   - ✭ [eslint](https://github.com/eslint/eslint)
 
-### 需要给代码准备好版本控制工具，便于随时回退
+### 代码版本控制
 
 - git
   - [TortoiseGit](https://tortoisegit.org/) windows git可视化工具
@@ -315,7 +407,7 @@
   - [Linux下安装svn client](http://blog.csdn.net/kenera/article/details/5746585)
   - [node-svn-ultimate](https://github.com/peteward44/node-svn-ultimate) svn操作的node封装
 
-### 项目的版本管理，也需要遵循规范
+### 项目版本管理
 
 - [lerna](https://github.com/lerna/lerna/) 实现框架分包管理
 - [angular-CONTRIBUTING](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) angular 提交规范，用于实现参考规范
@@ -330,18 +422,20 @@
 - [gitflow](https://github.com/nvie/gitflow) git 工作流规范化
 - [gitflow工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 
-### 如果要做开源项目，了解下组织开源社区的工具
+### 维护开源所需工具
 
 - [开源许可协议 license](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 - [opencollective](https://opencollective.com/) 管理开源资金
 
-### 我们需要设计工具来提供界面原型
+### 设计工具
 
 - [sketch 轻量矢量设计工具](https://www.sketchapp.com/)
   - [sketch 中文网](http://www.sketchcn.com/)
 - [cutterman 图片裁剪](http://www.cutterman.cn/zh)
+- [canva](https://www.canva.com/) 图片在线编辑
+- [remove.bg](https://www.remove.bg/) 在线抠图
 
-### 需要协作工具来管理团队
+### 协作工具
 
 - ✭ [zeplin](https://www.zeplin.io/) 前端协作工具
   - [介绍](http://36kr.com/p/5036576.html)
@@ -349,12 +443,7 @@
 - ✭ [leangoo](https://www.leangoo.com/) 看板工具
 - [trello](https://trello.com/)看板 工具
 
-### 有时需要自行设计一些东西
-
-- [canva](https://www.canva.com/) 图片在线编辑
-- [remove.bg](https://www.remove.bg/) 在线抠图
-
-### 现代开发流程中，我们往往期望借助开源社区提供直接使用的包资源
+### 依赖包管理工具
 
 - [npm](https://npmjs.org/)
   - [npm的package.json中文文档](https://github.com/ericdum/mujiang.info/issues/6)
@@ -371,7 +460,7 @@
 - [nrm](https://github.com/Pana/nrm) 快速切换npm镜像
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) 同时执行多个npm script
 
-### 部分代码不是直接在浏览器执行的，而是需要编译后再执行，有些代码是需要进行编译优化
+### 代码预编译
 
 - ✭ [less](http://www.lesscss.net/)
   - [lesstester](http://lesstester.com/) less 代码测试
@@ -383,7 +472,7 @@
 - js
   - [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
 
-### 准备好代码编辑器，要开始写代码了
+### 代码编辑器
 
 - ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
   - Beautify, Prettier 美化代码
@@ -523,7 +612,7 @@
   - [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
   - [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 
-### Node 开发
+### Node开发
 
 - [thinkjs](https://github.com/thinkjs/thinkjs)
 - [koa](https://github.com/koajs/koa) 现代 node 框架
@@ -535,7 +624,7 @@
 - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
 - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
 
-### Deno 开发
+### Deno开发
 
 - [Deno](https://github.com/denoland/deno)
   - [国内镜像](https://github.com/denocn/deno_install)
@@ -545,7 +634,12 @@
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
 - [pagic](https://github.com/xcatliu/pagic) 基于 deno 和 react 的静态发布站
 
-### 代码要有存储的地方
+### 界面布局
+
+- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [flex bug 列表](https://github.com/philipwalton/flexbugs)
+
+### 公共代码仓库
 
 - [gitee](https://gitee.com/login) 码云
 - [工蜂](https://git.code.tencent.com) 腾讯云代码托管
@@ -554,17 +648,12 @@
 
 现代开发，你自己的代码可能只占应用总代码量的 1%
 
-### 界面开发，样式先行
-
-- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-- [flex bug 列表](https://github.com/philipwalton/flexbugs)
-
-### 微前端，微服务解决方案整合框架与服务
+### 微前端
 
 - [乾坤](https://github.com/umijs/qiankun) 微前端解决方案
 - [single-spa](https://github.com/single-spa/single-spa) 前端微服务解决方案
 
-### 安全是开发中非常需要注意的地方，不安全的项目有可能摧毁一切业绩
+### 前端安全
 
 - [html xss cheatsheet](https://github.com/cure53/H5SC)
 - [xss](http://baike.baidu.com/item/XSS%E6%94%BB%E5%87%BB)
@@ -573,17 +662,14 @@
 - [ddos](http://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/3802159?fromtitle=DDOS&fromid=444572)
 - [voteRobot](https://github.com/debugtalk/VoteRobot) 简单攻击方式--刷票
 
-### 部分方法浏览器不兼容，我们可以配置执行环境来提供还未支持的方法
+### 兼容性问题解决工具
 
 - [Promise](https://github.com/taylorhakes/promise-polyfill)
 - [es5-shim](https://github.com/es-shims/es5-shim)
 - [fetch](https://github.com/github/fetch)
-
-### 部分方法各个浏览器支持的方案不一致，用工具方法来兼容
-
 - [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
 
-### web开发常用一些图标与字体，有一些服务与工具可以提供一些现成资源
+### 图标与字体
 
 - ✭ [iconfont](http://iconfont.cn/) 阿里巴巴矢量图标库
 - [icoMoon](https://icomoon.io/)
@@ -596,13 +682,13 @@
 - [realfavicongenerator](https://realfavicongenerator.net/) favicon 生成
 - [favicon-generator](https://www.favicon-generator.org/) favicon 生成
 
-### 操作数组，操作对象，对基础数据的一些骚操作都有工具支持
+### 基础数据操作工具
 
 - [lodash](https://lodash.com/) 更为现代的工具函数库
 - [lazy](https://github.com/dtao/lazy.js) 延迟计算的工具函数
 - [collect](https://github.com/ecrmnn/collect.js) 处理 JavaScript 中的数组和对象
 
-### 一些工具能够辅助开发流程，提供各种助力
+### 开发辅助工具
 
 - 图片压缩
   - ✭ [squoosh](https://github.com/GoogleChromeLabs/squoosh) 谷歌开源图片压缩工具
@@ -631,7 +717,7 @@
 - [cip.cc](http://www.cip.cc/) 检查出口IP `curl cip.cc`
 - [driver.js](https://github.com/kamranahmedse/driver.js) 做引导动画
 
-### 使用现成的UI库来加速开发
+### 现成UI库
 
 - dialog
   - 适用pc
@@ -675,7 +761,7 @@
 - [SoundJS](https://github.com/CreateJS/SoundJS) 基于Audio Api 音频处理
 - [EaselJS](https://github.com/CreateJS/EaselJS) 对 canvas api 的封装
 
-### 业务中有时用到文本编辑器
+### 文本编辑器
 
 - [slate](https://github.com/ianstormtaylor/slate) 现代富文本编辑器，与 React 集成性很好
 - [quill](https://github.com/quilljs/quill) 现代所见即所得编辑器
@@ -683,7 +769,7 @@
 - [CodeMirror](https://github.com/codemirror/CodeMirror/) 代码编辑器
 - [mathjax](https://github.com/mathjax/mathjax) 公式编辑器
 
-### 动画
+### 动画处理
 
 - [lottie](https://github.com/airbnb/lottie) 设计导出动画直接供开发使用
 - [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 平滑滚动
@@ -715,7 +801,7 @@
   - [unreal](unrealengine.com) 业界知名的强大3d引擎 - 虚幻
     - [Unreal.js](https://github.com/ncsoft/Unreal.js) 虚幻引擎的 node 封装
 
-### 一些实用工具
+### 实用工具库
 
 - IO
   - [axios](https://github.com/mzabriskie/axios) 代替 $.ajax，可运行于node，适用于同构
@@ -784,7 +870,7 @@
 - [AntV/X6](https://github.com/antvis/x6) 图编辑引擎，搭建流程图，逻辑编排
 - [SandDance](https://github.com/microsoft/SandDance) 微软炫酷3D图表
 
-### 路由
+### 路由组件
 
 - [page](https://github.com/visionmedia/page.js)
 - [history](https://github.com/browserstate/history.js)
@@ -800,7 +886,7 @@
 - [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
 - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) 另一款 Node websocket 的实现
 
-### 前端文章
+### 前端工具库使用介绍
 
 - [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
 - [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
@@ -815,7 +901,7 @@
 - [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
-### Node 文章
+### Node文章
 
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
@@ -828,7 +914,7 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch) 开源搜索引擎
   - [Elasticsearch 权威指南（中文版）](https://legacy.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
 
-### 结合一些云服务，产品能力可以得到增强
+### 云服务
 
 - [七牛云 免费CDN服务，图片上传](http://www.qiniu.com/)
 - [语音识别，人脸识别 科大讯飞](http://www.xfyun.cn/)
@@ -848,7 +934,7 @@
     - [qq mta](http://mta.qq.com/)
     - [友盟](http://www.umeng.com/)
 
-### 一些开发思想和对应的工具可以帮助重新梳理代码，例如函数式编程
+### 开发思想工具库
 
 - [cycle](https://github.com/cyclejs/cyclejs/)
   - [cycle.js.org](https://cycle.js.org/)
@@ -857,7 +943,7 @@
   - [rxjs](https://github.com/ReactiveX/RxJS)
 - [ramda](https://github.com/ramda/ramda) 创建具有不变性和无副作用的函数
 
-### 有些业务有可能会用到比较复杂的算法
+### 算法
 
 - 集合
   - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) javascript 算法集合
@@ -876,9 +962,13 @@
 - 算法练习与学习
   - [leetcode](https://leetcode.com/) LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
+### 脚手架工具
+
+- [yeoman](http://yeoman.io/) 自定义脚手架
+
 ## 调试
 
-### 调试是开发的重要环节，用一些工具来优化调试效率
+### 前端调试工具
 
 - [devtools](https://developer.chrome.com/devtools)
 - [BrowserSync](https://browsersync.io/) 浏览器代码实时同步
@@ -899,7 +989,7 @@
     - [node-supervisor](https://github.com/petruisfan/node-supervisor) 代码保存触发hotload
 - [chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) chrome控制台调试接口代理
 
-### 开发中，我们需要代理一些接口，便于集成本地调试环境
+### 接口代理工具
 
 - ✭ [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) node代理中间件
 - ✭ [whistle](https://github.com/avwo/whistle) 基于node的调试代理工具
@@ -909,7 +999,7 @@
 
 ## 测试
 
-### 有时，我们需要模拟部分数据，来暂时替代部分接口返回的数据
+### 测试数据模拟
 
 - 图片占位
   - [placehold](http://placehold.it/)
@@ -928,7 +1018,7 @@
 - ios mock
   - OCMock 提供 Stub 和 Mock 功能的框架
 
-### 我们需要写一些自动化测试，来保障项目的可靠性
+### 自动化测试工具
 
 - [mocha](https://github.com/mochajs/mocha) 前端测试框架，既可以用于浏览器端，也可以用于服务器端
   - [chai](https://github.com/chaijs/chai) 测试断言库
@@ -946,29 +1036,25 @@
 
 - [supertest](https://github.com/visionmedia/supertest) 测试代码可以集成到项目
 
-### 开发的响应式界面，是否良好适配了各个屏幕
+### 响应式界面适配工具
 
 - [responsivedesign](http://ami.responsivedesign.is/) 快速检查网站在不同屏幕尺寸下的外观
 - [responsivedesignchecker](https://responsivedesignchecker.com/) 响应式网页设计检查器
 - [browserstack](https://www.browserstack.com/) BrowserStack是付费服务，可让你在2000多种真实设备和浏览器上测试你的网站或应用程序
 
-### 一些任务需要在浏览器环境执行，所以我们需要无界面浏览器在持续集成环境运行
+### 无头浏览器
 
 - ✭ [puppeteer](https://github.com/GoogleChrome/puppeteer) 无界面 blink 内核浏览器，google 出品
 - [phantomjs](https://github.com/ariya/phantomjs) 无界面 webkit 内核浏览器，作者已宣布停止维护
 
-### 总有类似的新项目，可以包装一个脚手架，供其他项目使用，也有一些现成的脚手架
-
-- [yeoman](http://yeoman.io/) 自定义脚手架
-
 ## 部署
 
-### 项目开发过程中，我们希望将一些步骤自动化，使用任务工具来封装
+### 工作流工具
 
 - ✭ [gulp](http://gulpjs.com/)
 - [zx](https://github.com/google/zx) js 方式，实现命令行脚本
 
-### 打包与编译已经成为前端必备的自动化流程，有现成的工具可供直接使用
+### 业务构建工具
 
 - ✭ [pkg](https://github.com/zeit/pkg) Node项目打包编译
 - ✭ [webpack](https://webpack.github.io/)
@@ -983,7 +1069,7 @@
 - [rollup](http://rollupjs.org/) 适合纯粹js打包
 - [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
 
-### 代码部署上线，需要有一个服务器环境
+### 服务部署环境
 
 - [apache](https://httpd.apache.org/)
   - [apache 配置详解](http://liudaoru.iteye.com/blog/336338)
@@ -992,7 +1078,7 @@
 - [localtunnel](https://github.com/localtunnel/localtunnel) 将本地服务暴露到公网
 - [cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework) 腾讯云开发
 
-### 使用持续集成，执行自动化任务和部署任务
+### 持续集成
 
 - [travis](https://travis-ci.org/) 适用于Github托管项目
   - [如何简单入门持续集成](https://github.com/nukc/how-to-use-travis-ci)
@@ -1001,7 +1087,7 @@
 - [circleci](https://circleci.com/) 适用于Github托管项目
 - [drone](https://github.com/drone/drone) 原生容器持续集成分发平台
 
-### 现在一些服务不再直接部署到物理机上了，而是使用 docker
+### docker使用
 
 - [docker](https://www.docker.com/)
   - [docker 文档](https://docs.docker.com/)
@@ -1010,7 +1096,7 @@
   - [dockerhub](https://hub.docker.com/) docker 仓库
   - [阿里云docker镜像服务](https://cr.console.aliyun.com)
 
-### 项目上线后，我们需要建立监控，来保障业务稳定性
+### 前端监控体系
 
 - 错误监控
   - [sentry](https://github.com/getsentry/sentry) 日志管理与质量监控
@@ -1021,7 +1107,7 @@
   - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor)
   - [rum](https://cloud.tencent.com/product/rum)
 
-### 觉得性能有问题？有些文章提供了指导
+### 性能优化指南
 
 - [浏览器性能优化指导](https://developers.google.com/speed/docs/insights/rules?csw=1)
   - [14 rules](http://stevesouders.com/hpws/rules.php)
@@ -1031,9 +1117,13 @@
   - [狙杀页面卡顿 —— Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
   - [这些最新性能指标了解下](https://juejin.im/post/5f0b056de51d45349917bf16)
 
+### 运维工具
+
+- [IP查询](https://myip.ipip.net/)
+
 ## 文档
 
-### 项目开发完，需要写文档
+### 文档编写工具
 
 - wiki
   - [wiki语法说明](https://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2)
@@ -1068,7 +1158,7 @@
   - [prism](https://github.com/PrismJS/prism) 实现代码高亮
   - [highlight](https://github.com/highlightjs/highlight.js) 老牌代码高亮工具
 
-### 可以搭建一个静态站作为文档
+### 静态站搭建
 
 - 静态站部署
   - [pages](https://pages.github.com/) github 静态站
@@ -1090,7 +1180,7 @@
 
 ## 分享
 
-### 写完文档，还需要写例子来展示代码
+### 代码分享展示
 
 - ✭ [codepen](http://codepen.io/) 更适合编写showcase，在线编辑比较方便，各种预处理器齐全
 - [codesandbox](https://codesandbox.io/) 谷歌部分项目在用，看界面感觉不错
@@ -1099,7 +1189,7 @@
 - [sololearn](https://www.sololearn.com/) SoloLearn是一个在线游乐场，可让你测试HTML，CSS和JavaScript代码
 - [jsrun](https://jsrun.net/) 国内版 codepen，访问速度快
 
-### 有些例子还想来录制 gif ，分享动态画面
+### gif动画录制
 
 - [asciinema](https://asciinema.org/) 终端命令行录制工具
 - [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
@@ -1107,11 +1197,11 @@
 
 ## 积累
 
-### 总结了开发流程，我们会试图建立一个开发体系来优化流程
+### 前端开发流程经验
 
 - [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
 
-### 经典开源社区 GITHUB 提供了大量轮子
+### Github使用
 
 - Github
   - [github docs](https://docs.github.com/cn) github 文档
@@ -1146,7 +1236,7 @@
 - 国际化
   - [breword](https://www.breword.com/)
 
-### 时常关注下 awesome 系列，可以有效了解业界发展趋势
+### awesome系列
 
 - [awesome](https://github.com/sindresorhus/awesome) 资源集合
 - [awesome](https://github.com/search?o=desc&q=awesome&s=stars&type=Repositories&utf8=%E2%9C%93) 各类资源集合
@@ -1154,7 +1244,7 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序
 
-### 还可以DIY一个配偶
+### 配偶DIY
 
 - 微信机器人
   - [wechaty](https://github.com/Chatie/wechaty) 微信机器人Node版本
@@ -1167,19 +1257,22 @@
   - [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)
 - [robotjs](https://github.com/octalmage/robotjs) node桌面自动化实现
 
-### 资源
+### 杂项资源
 
 - [30-seconds](https://github.com/30-seconds) 30秒学点东西
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
 - [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 - [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
 
-### 外包
+### 外包协作
 
 - [程序员客栈](https://www.proginn.com/) 外包协作
+
+### 科学养生
+
+- [练习八段锦](https://www.zhihu.com/question/317868265/answer/1364598959)
+- [人体调优指南](https://github.com/zijie0/HumanSystemOptimization)
 
 ------
 
 ## 待整理
-
-- [练习八段锦](https://www.zhihu.com/question/317868265/answer/1364598959)
