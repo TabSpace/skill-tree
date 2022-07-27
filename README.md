@@ -216,6 +216,7 @@
 - [w3schools](http://www.w3schools.com/)
   - [中文站](http://www.w3school.com.cn/)
 - [Mozilla MDN](https://developer.mozilla.org/zh-CN/)
+- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 
 ### 教程站点
 
