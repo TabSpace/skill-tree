@@ -19,7 +19,7 @@
   - [技术方法论](#技术方法论)
   - [面试八股文](#面试八股文)
   - [语言特性适配表](#语言特性适配表)
-  - [语言编译工具](#语言编译工具)
+  - [语言编译](#语言编译)
   - [浏览器能力](#浏览器能力)
   - [接口访问说明](#接口访问说明)
   - [响应式设计](#响应式设计)
@@ -266,10 +266,12 @@
 - [es6浏览器适配表](http://kangax.github.io/compat-table/es6/)
 - [node es适配表](https://node.green/)
 
-### 语言编译工具
+### 语言编译
 
 - [babel](https://babeljs.io/) 提前使用es6,es7
 - [webpack es6 浏览器兼容](https://segmentfault.com/a/1190000005128101)
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
+  - [the-super-tiny-compiler 中文版](https://github.com/521xueweihan/OneFile/blob/main/src/javascript/the-super-tiny-compiler.js)
 
 ### 浏览器能力
 
