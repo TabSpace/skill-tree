@@ -670,7 +670,9 @@
 - [Promise](https://github.com/taylorhakes/promise-polyfill)
 - [es5-shim](https://github.com/es-shims/es5-shim)
 - [fetch](https://github.com/github/fetch)
-- [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
+- [hammer](https://github.com/hammerjs/hammer.js) 触摸动作封装
+  - [any-touch](https://github.com/any86/any-touch) 手势与动作
+  - [handjs](https://github.com/deltakosh/handjs) pointer events polyfill 手势库
 
 ### 图标与字体
 
@@ -822,7 +824,7 @@
   - [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
 - 算法
   - [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
-- [qrcode](https://github.com/sylnsfar/qrcode) 有时你需要好看的二维码
+- [qrcode](https://github.com/sylnsfar/qrcode) 二维码
   - [EFQRCode](https://github.com/EFPrefix/EFQRCode)
 - [sortable](https://github.com/RubaXa/Sortable) 拖拽排序
 - [city](https://github.com/basecss/city) 国家行政区划分数据
