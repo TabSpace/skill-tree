@@ -117,6 +117,7 @@
 
 - [科学上网](https://github.com/bannedbook/fanqiang) 通用翻墙资料
 - [brook](https://github.com/txthinking/brook) 自建代理
+- [LetsGo](https://github.com/LetsGo666/LetsGo_2) 朋友推荐，人少，速度快
 
 ### 前端趋势
 
