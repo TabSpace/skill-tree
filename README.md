@@ -393,6 +393,7 @@
     - [flow 介绍](http://www.alloyteam.com/2015/07/flow-a-static-type-checker-for-javascript-from-facebook/)
 - lint
   - ✭ [eslint](https://github.com/eslint/eslint)
+  - ✭ [eslint 深入浅出](https://zhuanlan.zhihu.com/p/558474060)
 
 ### 代码版本控制
 
