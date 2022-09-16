@@ -439,6 +439,9 @@
 - [cutterman 图片裁剪](http://www.cutterman.cn/zh)
 - [canva](https://www.canva.com/) 图片在线编辑
 - [remove.bg](https://www.remove.bg/) 在线抠图
+- [framer](https://www.framer.com/) 大量站点模板
+- [penpot](https://penpot.app/) 面向跨领域团队的开源设计和原型平台
+- [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 
 ### 协作工具
 
@@ -1271,7 +1274,6 @@
 
 - [30-seconds](https://github.com/30-seconds) 30秒学点东西
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
-- [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 - [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
 
 ### 外包协作
