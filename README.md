@@ -69,7 +69,7 @@
   - [路由组件](#路由组件)
   - [文件上传](#文件上传)
   - [即时通讯](#即时通讯)
-  - [前端工具库使用介绍](#前端工具库使用介绍)
+  - [前端工具库](#前端工具库)
   - [Node文章](#node文章)
   - [云服务](#云服务)
   - [开发思想工具库](#开发思想工具库)
@@ -373,6 +373,7 @@
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 - [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
 - [asciiflow](http://asciiflow.com/) ascii 画图表
+- [carbonyl](https://github.com/fathyb/carbonyl) 命令行渲染一个浏览器
 
 ### 制定开发规范
 
@@ -896,7 +897,7 @@
 - [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
 - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) 另一款 Node websocket 的实现
 
-### 前端工具库使用介绍
+### 前端工具库
 
 - [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
 - [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
