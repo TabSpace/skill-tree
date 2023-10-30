@@ -526,6 +526,14 @@
   - [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪jquery插件
   - [bxslider](https://github.com/stevenwanderski/bxslider-4) 基于jquery的响应式幻灯组件
 
+### UI设计集成
+
+- [ant-design](https://github.com/ant-design/ant-design) 阿里系的设计开发工具
+- [arco-design](https://arco.design/) 字节跳动出品的企业级设计系统
+- [semi-design](https://semi.design/) 抖音前端团队，MED 产品设计团队设计、开发并维护的设计系统
+- [tdesign](https://tdesign.tencent.com/) 腾讯系的设计开发工具
+- [hdesign](https://hdesign.huawei.com/) 华为系的设计开发工具
+
 ### React
 
 - [react](https://facebook.github.io/react/)
@@ -536,7 +544,6 @@
   - [create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
     - [create-react-app 中文文档](https://www.html.cn/create-react-app/)
 - UI
-  - [ant-design](https://github.com/ant-design/ant-design)
   - [ant-design-pro](https://github.com/ant-design/ant-design-pro) 里面还包含了脑图编辑，流程编辑
   - [element react](https://github.com/eleme/element-react)
   - [ring-ui](https://github.com/JetBrains/ring-ui) 使用 Typescript 进行开发
@@ -570,6 +577,11 @@
 - UI
   - [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
   - [iview](https://github.com/iview/iview) 适合做数据报表
+  - [tdesign-vue](https://github.com/Tencent/tdesign-vue)
+  - [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
+  - [ant-vue](https://antdv.com/components/overview)
+  - [acro-vue](https://arco.design/vue/docs/start)
+  - [hui-vue](https://hdesign.huawei.com/development/HUI-Vue3)
 - ssr
   - [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
   - [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
@@ -586,6 +598,10 @@
   - [jsx-next](https://github.com/vuejs/jsx-next) 用 jsx 编写 vue3 代码
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
+- 集成后台管理
+  - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)
+  - [eladmin](https://github.com/elunez/eladmin)
+  - [d2-admin](https://github.com/d2-projects/d2-admin)
 
 ### GOOGLE
 
@@ -1223,6 +1239,9 @@
 ### 前端开发流程经验
 
 - [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
+- 权限控制
+  - [详细了解RBAC（Role-Based Access Control）](https://zhuanlan.zhihu.com/p/513142061) 权限控制经典模型
+  - [图解-JWT实现用户权限验证体系](https://bbs.huaweicloud.com/blogs/245946)
 
 ### Github使用
 
