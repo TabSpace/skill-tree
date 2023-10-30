@@ -42,9 +42,10 @@
 - [开发](#开发)
   - [可选择的框架](#可选择的框架)
   - [jQuery](#jquery)
+  - [设计集成](#设计集成)
   - [React](#react)
   - [VUE](#vue)
-  - [GOOGLE](# GOOGLE)
+  - [GOOGLE](#GOOGLE)
   - [微信小程序](#微信小程序)
   - [客户端开发](#客户端开发)
   - [桌面应用开发](#桌面应用开发)
@@ -526,7 +527,7 @@
   - [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪jquery插件
   - [bxslider](https://github.com/stevenwanderski/bxslider-4) 基于jquery的响应式幻灯组件
 
-### UI设计集成
+### 设计集成
 
 - [ant-design](https://github.com/ant-design/ant-design) 阿里系的设计开发工具
 - [arco-design](https://arco.design/) 字节跳动出品的企业级设计系统
