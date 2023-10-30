@@ -143,23 +143,40 @@
 
 ### 语言技术栈
 
-- Javascript
+- [Javascript](https://www.javascript.com/)
   - [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
   - [JS入门](http://shichuan.github.io/javascript-patterns/)
   - [javascript info](https://javascript.info/) 现代 javascript 教程
-- TypeScript
-  - [TypeScript](https://www.typescriptlang.org/)
+  - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+  - es6
+    - [ECMAScript6入门](http://es6.ruanyifeng.com/)
+- [TypeScript](https://www.typescriptlang.org/)
   - [TypeScript 中文网](https://www.tslang.cn/)
   - [TypeScript 入门教程](https://ts.xcatliu.com/)
   - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
   - [dts-gen](https://github.com/Microsoft/dts-gen) d.ts 自动生成
   - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-- TypeScript 类型体操
-  - [用一个数组来定义类型](https://steveholgado.com/typescript-types-from-arrays/) `[] as const`
-- es6
-  - [ECMAScript6入门](http://es6.ruanyifeng.com/)
-- lua
-  - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
+  - TypeScript 类型体操
+    - [用一个数组来定义类型](https://steveholgado.com/typescript-types-from-arrays/) `[] as const`
+- [Node](https://nodejs.org/en)
+  - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [Deno](https://github.com/denoland/deno)
+  - [国内镜像](https://github.com/denocn/deno_install)
+  - [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
+- shell
+  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
+  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
+- php
+  - [smarty](http://www.smarty.net/)
+  - [php之道](http://wulijun.github.io/php-the-right-way/)
+  - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
+  - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+- [rust](https://www.rust-lang.org/)
+  - [rust 中文](https://www.rust-lang.org/zh-CN/learn/get-started)
+  - [rust 语言圣经](https://github.com/sunface/rust-course)
+  - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
@@ -180,21 +197,13 @@
   - gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
   - therecipe/qt 跨平台GUI库
   - present 幻灯片展示工具
-- php
-  - [smarty](http://www.smarty.net/)
-  - [php之道](http://wulijun.github.io/php-the-right-way/)
-  - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
-  - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+- lua
+  - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
 
 ### linux资料
 
 - linux
   - [linuxtools_rst](https://github.com/me115/linuxtools_rst) 这本书专注于Linux工具的最常用用法
-- shell
-  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
-  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 
 ### 零散知识点
 
@@ -621,7 +630,7 @@
   - [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
   - [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 
-### Node开发
+### Node 开发
 
 - [thinkjs](https://github.com/thinkjs/thinkjs)
 - [koa](https://github.com/koajs/koa) 现代 node 框架
@@ -633,11 +642,8 @@
 - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
 - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
 
-### Deno开发
+### Deno 开发
 
-- [Deno](https://github.com/denoland/deno)
-  - [国内镜像](https://github.com/denocn/deno_install)
-  - [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
 - [denon](https://github.com/denosaurs/denon) 监听文件变更的常驻进程
 - [velociraptor](https://github.com/umbopepato/velociraptor) 启动脚本配置化
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
@@ -1208,6 +1214,10 @@
 - [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
 - [licecap](https://www.cockos.com/licecap/) 屏幕操作录制 gif
 
+### 公共资源
+
+- [精灵宝可梦开放数据](https://pokeapi.co/)
+
 ## 积累
 
 ### 前端开发流程经验
@@ -1254,8 +1264,6 @@
 
 - [awesome](https://github.com/sindresorhus/awesome) 资源集合
 - [awesome](https://github.com/search?o=desc&q=awesome&s=stars&type=Repositories&utf8=%E2%9C%93) 各类资源集合
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序
 
 ### 配偶DIY
