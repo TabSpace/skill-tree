@@ -45,7 +45,7 @@
   - [设计集成](#设计集成)
   - [React](#react)
   - [VUE](#vue)
-  - [GOOGLE](#GOOGLE)
+  - [GOOGLE](#google)
   - [微信小程序](#微信小程序)
   - [客户端开发](#客户端开发)
   - [桌面应用开发](#桌面应用开发)
@@ -317,6 +317,7 @@
     - [svgomg](https://jakearchibald.github.io/svgomg/) svg 在线优化工具
     - [svg-optimiser](https://petercollingridge.appspot.com/svg-optimiser) svg 在线优化
     - [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
+    - [resvg-js](https://github.com/yisibl/resvg-js?tab=readme-ov-file) svg 渲染为图片，高性能的 SVG 跨端渲染引擎
   - [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
 
 ### 接口访问说明
