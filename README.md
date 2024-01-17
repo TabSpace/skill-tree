@@ -870,6 +870,13 @@
 - 数据库
   - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
   - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
+  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库
+  - [sequelize](https://github.com/sequelize/sequelize) 老牌 ORM
+  - [prisma](https://github.com/prisma/prisma) TypeScript 生态类型安全 ORM
+  - [mongoose](https://github.com/Automattic/mongoose) MongoDB 数据库 Node ORM
+  - [knex](https://github.com/knex/knex) 为 PostgreSQL，CockroachDB，MSSQL，MySQL，MariaDB，SQLite3，Better-SQLite3，Oracle和Amazon Redshift设计的SQL查询构建器
+  - [objection](https://github.com/vincit/objection.js) SQL 友好型 ORM
+  - [ali-mysql-client](https://github.com/liuhuisheng/ali-mysql-client) 优雅的数据库 api
 - Redis
   - [redis](https://github.com/redis/node-redis) 连接 redis
 - IO
