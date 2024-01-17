@@ -870,7 +870,7 @@
 - 数据库
   - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
   - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
-  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库
+  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库, inspired by knex, 可以在 deno 环境执行
   - [sequelize](https://github.com/sequelize/sequelize) 老牌 ORM
   - [prisma](https://github.com/prisma/prisma) TypeScript 生态类型安全 ORM
   - [mongoose](https://github.com/Automattic/mongoose) MongoDB 数据库 Node ORM
