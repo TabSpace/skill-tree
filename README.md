@@ -39,7 +39,8 @@
   - [依赖包管理工具](#依赖包管理工具)
   - [代码预编译](#代码预编译)
   - [代码编辑器](#代码编辑器)
-- [开发](#开发)
+  - [公共代码仓库](#公共代码仓库)
+- [前端开发](#前端开发)
   - [可选择的框架](#可选择的框架)
   - [jQuery](#jquery)
   - [设计集成](#设计集成)
@@ -47,12 +48,13 @@
   - [VUE](#vue)
   - [GOOGLE](#google)
   - [微信小程序](#微信小程序)
-  - [客户端开发](#客户端开发)
-  - [桌面应用开发](#桌面应用开发)
+  - [界面布局](#界面布局)
+- [客户端开发](#客户端开发)
+- [桌面应用开发](#桌面应用开发)
+- [后端开发](#后端开发)
   - [Node开发](#node开发)
   - [Deno开发](#deno开发)
-  - [界面布局](#界面布局)
-  - [公共代码仓库](#公共代码仓库)
+  - [go开发](#go开发)
 - [集成](#集成)
   - [微前端](#微前端)
   - [前端安全](#前端安全)
@@ -65,13 +67,12 @@
   - [文本编辑器](#文本编辑器)
   - [动画处理](#动画处理)
   - [实用工具库](#实用工具库)
-  - [WebServer](#webserver)
   - [数据可视化](#数据可视化)
   - [路由组件](#路由组件)
   - [文件上传](#文件上传)
   - [即时通讯](#即时通讯)
   - [前端工具库](#前端工具库)
-  - [Node文章](#node文章)
+  - [Node工具](#node工具)
   - [云服务](#云服务)
   - [开发思想工具库](#开发思想工具库)
   - [算法](#算法)
@@ -185,19 +186,11 @@
   - [gobyexample](https://gobyexample.com/) go 示例代码
   - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
   - [webgo](http://webgo.io/?reqp=1&reqr=) 学习路由怎么实现
-  - [beego](https://github.com/astaxie/beego) web框架
   - [skynet-archive](https://github.com/skynetservices/skynet-archive) 学习分布式
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) 学习分布式
   - [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
   - [Go Web基础](https://github.com/Unknwon/go-web-foundation)
   - [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
-  - Beego 模块化的web框架
-    - Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
-    - Beego Swagger 代码注释生成 api 在线文档
-  - Termui 跨平台，自适应的UI/Dashboard工具
-  - gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
-  - therecipe/qt 跨平台GUI库
-  - present 幻灯片展示工具
 - lua
   - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
 
@@ -508,9 +501,14 @@
     - [循序渐进学习 vim](http://coolshell.cn/articles/5426.html)
   - [Vim快速选中、删除、复制引号或者括号中的内容](https://www.linuxsong.org/2010/09/vim-quick-select-copy-delete/)
 
-## 开发
+### 公共代码仓库
 
-首先需要为业务类型来选择一个技术栈
+- [gitee](https://gitee.com/login) 码云
+- [工蜂](https://git.code.tencent.com) 腾讯云代码托管
+
+## 前端开发
+
+为前端业务来选择一个技术栈
 
 ### 可选择的框架
 
@@ -631,16 +629,29 @@
   - [uni-app](https://github.com/dcloudio/uni-app) DCloud推出的多端生成框架，使用者众多
   - [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
 
-### 客户端开发
+### 界面布局
 
-- [cordova](https://cordova.apache.org/) PhoneGap/Cordova Hybrid App
-- [appcan](http://www.appcan.cn/) 国内 Hybrid App
-- [react-native](https://github.com/facebook/react-native) React 跨平台 app 开发工具
-- [NativeScript](https://github.com/NativeScript/NativeScript) 跨平台 app 开发工具
-- [weex](https://github.com/apache/incubator-weex) vue 跨平台 app 开发工具
-- [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架，来自 Google
+- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [flex bug 列表](https://github.com/philipwalton/flexbugs)
 
-### 桌面应用开发
+## 客户端开发
+
+- JS/TS
+  - [cordova](https://cordova.apache.org/) PhoneGap/Cordova Hybrid App
+  - [appcan](http://www.appcan.cn/) 国内 Hybrid App
+  - [react-native](https://github.com/facebook/react-native) React 跨平台 app 开发工具
+  - [NativeScript](https://github.com/NativeScript/NativeScript) 跨平台 app 开发工具
+  - [weex](https://github.com/apache/incubator-weex) vue 跨平台 app 开发工具
+  - [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架，来自 Google
+- ArkTs
+  - [华为开发官网](https://developer.huawei.com/consumer/cn/)
+  - [ArkTs 指南](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/arkts-get-started-0000001504769321-V3?catalogVersion=V3)
+  - [ArkTs API 文档](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/syscap-0000001408089368-V3?catalogVersion=V3)
+  - [ArkTs 第三方资源汇总](https://gitee.com/openharmony-tpc/tpc_resource?_from=gitee_search)
+  - [ohpm 仓库](https://ohpm.openharmony.cn/#/cn/home) 依赖包管理
+  - [华为开发者论坛](https://developer.huawei.com/consumer/cn/forum/)
+
+## 桌面应用开发
 
 - [electron](https://github.com/electron/electron) 构建桌面app
   - [electron-vue](https://github.com/SimulatedGREG/electron-vue) 基于vue框架的electron应用
@@ -648,17 +659,48 @@
   - [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
   - [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 
+## 后端开发
+
 ### Node开发
 
-- [thinkjs](https://github.com/thinkjs/thinkjs)
-- [koa](https://github.com/koajs/koa) 现代 node 框架
-- [express](http://expressjs.com/zh-cn/)
-  - [express中文文档](http://expressjs.jser.us/)
-  - [helmet](https://github.com/helmetjs/helmet) 安全中间件
-  - [cors](https://github.com/expressjs/cors) 中间件
-- [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
-- [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
-- [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+- 框架
+  - [thinkjs](https://github.com/thinkjs/thinkjs)
+  - [koa](https://github.com/koajs/koa) 现代 node 框架
+  - [express](http://expressjs.com/zh-cn/)
+    - [express中文文档](http://expressjs.jser.us/)
+    - [helmet](https://github.com/helmetjs/helmet) 安全中间件
+    - [cors](https://github.com/expressjs/cors) 中间件
+  - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
+  - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
+  - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+- 数据库
+  - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
+  - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
+  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库, inspired by knex, 可以在 deno 环境执行
+  - [sequelize](https://github.com/sequelize/sequelize) 老牌 ORM
+  - [prisma](https://github.com/prisma/prisma) TypeScript 生态类型安全 ORM
+  - [mongoose](https://github.com/Automattic/mongoose) MongoDB 数据库 Node ORM
+  - [knex](https://github.com/knex/knex) 为 PostgreSQL，CockroachDB，MSSQL，MySQL，MariaDB，SQLite3，Better-SQLite3，Oracle和Amazon Redshift设计的SQL查询构建器
+  - [objection](https://github.com/vincit/objection.js) SQL 友好型 ORM
+  - [ali-mysql-client](https://github.com/liuhuisheng/ali-mysql-client) 优雅的数据库 api
+- Redis
+  - [redis](https://github.com/redis/node-redis) 连接 redis
+- IO
+  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
+- 接口设计
+  - [graphql](https://github.com/graphql) facebook 推出的接口封装工具
+    - [graphql-js](https://github.com/graphql/graphql-js) js版实现
+  - [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
+- 模板引擎
+  - [ejs](https://github.com/mde/ejs)
+  - [pug](https://pugjs.org/)
+    - [pug-loader](https://github.com/pugjs/pug-loader)
+- 日志
+  - [winston](https://github.com/winstonjs/winston) 日志管理
+  - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
+  - [rsyslog](https://www.rsyslog.com/)
+    - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
+    - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
 
 ### Deno开发
 
@@ -667,15 +709,15 @@
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
 - [pagic](https://github.com/xcatliu/pagic) 基于 deno 和 react 的静态发布站
 
-### 界面布局
+### go开发
 
-- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-- [flex bug 列表](https://github.com/philipwalton/flexbugs)
-
-### 公共代码仓库
-
-- [gitee](https://gitee.com/login) 码云
-- [工蜂](https://git.code.tencent.com) 腾讯云代码托管
+- [beego](https://github.com/astaxie/beego) web框架
+  - Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
+  - Beego Swagger 代码注释生成 api 在线文档
+- Termui 跨平台，自适应的UI/Dashboard工具
+- gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
+- therecipe/qt 跨平台GUI库
+- present 幻灯片展示工具
 
 ## 集成
 
@@ -865,37 +907,6 @@
 - [js-cookie](https://github.com/js-cookie/js-cookie)
 - [step](https://github.com/creationix/step) 流程控制
 
-### WebServer
-
-- 数据库
-  - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
-  - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
-  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库, inspired by knex, 可以在 deno 环境执行
-  - [sequelize](https://github.com/sequelize/sequelize) 老牌 ORM
-  - [prisma](https://github.com/prisma/prisma) TypeScript 生态类型安全 ORM
-  - [mongoose](https://github.com/Automattic/mongoose) MongoDB 数据库 Node ORM
-  - [knex](https://github.com/knex/knex) 为 PostgreSQL，CockroachDB，MSSQL，MySQL，MariaDB，SQLite3，Better-SQLite3，Oracle和Amazon Redshift设计的SQL查询构建器
-  - [objection](https://github.com/vincit/objection.js) SQL 友好型 ORM
-  - [ali-mysql-client](https://github.com/liuhuisheng/ali-mysql-client) 优雅的数据库 api
-- Redis
-  - [redis](https://github.com/redis/node-redis) 连接 redis
-- IO
-  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
-- 接口设计
-  - [graphql](https://github.com/graphql) facebook 推出的接口封装工具
-    - [graphql-js](https://github.com/graphql/graphql-js) js版实现
-  - [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
-- 模板引擎
-  - [ejs](https://github.com/mde/ejs)
-  - [pug](https://pugjs.org/)
-    - [pug-loader](https://github.com/pugjs/pug-loader)
-- 日志
-  - [winston](https://github.com/winstonjs/winston) 日志管理
-  - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
-  - [rsyslog](https://www.rsyslog.com/)
-    - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
-    - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
-
 ### 数据可视化
 
 - [数据可视化](https://github.com/showcases/data-visualization) 各种图表工具
@@ -943,7 +954,7 @@
 - [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
-### Node文章
+### Node工具
 
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
