@@ -634,6 +634,11 @@
 - [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [flex bug 列表](https://github.com/philipwalton/flexbugs)
 
+### WASM
+
+- [wasm 中文站](https://wasmdev.cn/)
+- [wasm 规范](https://webassembly.github.io/spec/core/)
+
 ## 客户端开发
 
 - JS/TS
