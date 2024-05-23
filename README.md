@@ -242,7 +242,6 @@
 - [android webapp](https://developer.android.com/guide/webapps/index.html)
 - [渐进式jpeg](http://blog.jobbole.com/44038/)
 - [知乎的模糊预览](https://www.zhihu.com/question/55622930)
-- [webassembly](http://webassembly.org/)
 - [黑魔法](https://github.com/tnfe/awesome-blackmagic)
 - [2022 年的 CSS](https://www.w3cplus.com/css/what-is-new-css-in-2022.html)
 
@@ -636,8 +635,11 @@
 
 ### WASM
 
-- [wasm 中文站](https://wasmdev.cn/)
+- [webassembly](http://webassembly.org/)
 - [wasm 规范](https://webassembly.github.io/spec/core/)
+- [wasm 中文站](https://wasmdev.cn/)
+- 工具
+  - [js2cpp](https://github.com/fabiosantoscode/js2cpp) JS 代码转换为 C++
 
 ## 客户端开发
 
