@@ -179,6 +179,7 @@
   - [rust 中文](https://www.rust-lang.org/zh-CN/learn/get-started)
   - [rust 语言圣经](https://github.com/sunface/rust-course)
   - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - [cargo 手册](https://doc.rust-lang.org/cargo/index.html)
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
@@ -636,8 +637,10 @@
 ### WASM
 
 - [webassembly](http://webassembly.org/)
-- [wasm 规范](https://webassembly.github.io/spec/core/)
-- [wasm 中文站](https://wasmdev.cn/)
+  - [wasm 规范](https://webassembly.github.io/spec/core/)
+  - [wasm 中文站](https://wasmdev.cn/)
+  - [wasm-pack](https://rustwasm.github.io/docs/wasm-pack/)
+    - [rustwasm](https://llever.com/rustwasm-book/introduction.zh.html) rust 与 wasm
 - 工具
   - [js2cpp](https://github.com/fabiosantoscode/js2cpp) JS 代码转换为 C++
 
