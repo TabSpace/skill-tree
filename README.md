@@ -180,6 +180,7 @@
   - [rust 语言圣经](https://github.com/sunface/rust-course)
   - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - [cargo 手册](https://doc.rust-lang.org/cargo/index.html)
+  - [rustcc](https://rustcc.cn/) rust 中文社区
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
