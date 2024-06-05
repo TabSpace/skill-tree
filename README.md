@@ -177,7 +177,8 @@
   - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 - [rust](https://www.rust-lang.org/)
   - [rust 中文](https://www.rust-lang.org/zh-CN/learn/get-started)
-  - [rust 语言圣经](https://github.com/sunface/rust-course)
+  - [rust 语言圣经 - github](https://github.com/sunface/rust-course)
+    - [rust 语言圣经](https://course.rs/about-book.html)
   - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - [cargo 手册](https://doc.rust-lang.org/cargo/index.html)
 - [go](https://golang.org/)
