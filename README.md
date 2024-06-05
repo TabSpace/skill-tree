@@ -176,7 +176,8 @@
   - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
   - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
 - [rust](https://www.rust-lang.org/)
-  - [rust 中文](https://www.rust-lang.org/zh-CN/learn/get-started)
+  - [rust 中文站](https://www.rust-lang.org/zh-CN/learn/get-started)
+  - [rust 中文手册](https://kaisery.github.io/trpl-zh-cn/)
   - [rust 语言圣经 - github](https://github.com/sunface/rust-course)
     - [rust 语言圣经](https://course.rs/about-book.html)
   - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
