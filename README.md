@@ -100,7 +100,7 @@
   - [静态站搭建](#静态站搭建)
 - [分享](#分享)
   - [代码分享展示](#代码分享展示)
-  - [gif动画录制](#gif动画录制)
+  - [动画录制与分享](#动画录制与分享)
 - [积累](#积累)
   - [前端开发流程经验](#前端开发流程经验)
   - [Github使用](#github使用)
@@ -1257,11 +1257,13 @@
 - [sololearn](https://www.sololearn.com/) SoloLearn是一个在线游乐场，可让你测试HTML，CSS和JavaScript代码
 - [jsrun](https://jsrun.net/) 国内版 codepen，访问速度快
 
-### gif动画录制
+### 动画录制与分享
 
 - [asciinema](https://asciinema.org/) 终端命令行录制工具
 - [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
 - [licecap](https://www.cockos.com/licecap/) 屏幕操作录制 gif
+- [ScreenStudio](https://screen.studio/)
+- FocuSee(Mac)
 
 ### 公共资源
 
