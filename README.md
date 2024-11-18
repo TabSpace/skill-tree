@@ -907,6 +907,9 @@
   - [math.js](https://github.com/josdejong/mathjs) 简化数学计算
   - [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
   - [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
+- 格式校验
+  - [zod](https://github.com/colinhacks/zod) Zod 是一个以 TypeScript 为首的模式声明和验证库。
+  - [yup](https://github.com/jquense/yup) yup 是一个专为运行时解析和验证值而设计的模式构造器。
 - 算法
   - [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
 - [qrcode](https://github.com/sylnsfar/qrcode) 二维码
