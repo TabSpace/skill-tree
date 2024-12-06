@@ -677,7 +677,6 @@
 ### Node开发
 
 - 框架
-  - [thinkjs](https://github.com/thinkjs/thinkjs)
   - [koa](https://github.com/koajs/koa) 现代 node 框架
   - [express](http://expressjs.com/zh-cn/)
     - [express中文文档](http://expressjs.jser.us/)
@@ -686,6 +685,7 @@
   - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
   - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
   - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+  - [adonisjs](https://github.com/adonisjs/core) typescript 优先的 node 框架
 - 数据库
   - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
   - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
