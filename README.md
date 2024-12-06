@@ -685,6 +685,7 @@
   - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
   - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
   - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+  - [nest](https://github.com/nestjs/nest) 用于构建高效且可伸缩的服务端应用程序的渐进式 Node.js 框架
   - [adonisjs](https://github.com/adonisjs/core) typescript 优先的 node 框架
 - 数据库
   - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
