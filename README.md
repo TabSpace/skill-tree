@@ -1136,6 +1136,8 @@
     - [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
     - [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
     - [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
+- [turbopack](https://github.com/vercel/turborepo) 一个用Rust编写的JavaScript和TypeScript代码库的高性能构建系统
+  - [turbo.build](https://turbo.build/)
 - [rollup](http://rollupjs.org/) 适合纯粹js打包
 - [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
 
