@@ -47,6 +47,7 @@
   - [React](#react)
   - [VUE](#vue)
   - [GOOGLE](#google)
+  - [服务端渲染](#服务端渲染)
   - [微信小程序](#微信小程序)
   - [界面布局](#界面布局)
 - [客户端开发](#客户端开发)
@@ -554,9 +555,6 @@
 - 替代品
   - [anu](https://github.com/RubyLouvre/anu)
   - [preact](https://github.com/developit/preact/) 轻量级react
-- ssr
-  - [reactphp](https://github.com/reactphp/react)
-  - ✭ [next.js](https://github.com/zeit/next.js) ssr框架
 - 框架补充
   - [react-router](https://github.com/ReactTraining/react-router)
   - [redux](https://github.com/reactjs/redux) 通用react数据仓库
@@ -585,15 +583,10 @@
   - [ant-vue](https://antdv.com/components/overview)
   - [acro-vue](https://arco.design/vue/docs/start)
   - [hui-vue](https://hdesign.huawei.com/development/HUI-Vue3)
-- ssr
-  - [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
-  - [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
-  - [srr](https://github.com/zhangyuang/ssr) 同时支持 react 与 vue2/vue3
 - 工程
   - [vue-router](https://github.com/vuejs/vue-router) vue 路由
   - [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
   - [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
-  - [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
   - [vitesse](https://github.com/antfu/vitesse) 最受欢迎的 vue3 项目模板
   - [vuex](https://github.com/vuejs/vuex) vue 数据存储
   - [pinia](https://github.com/vuejs/pinia) 适配 vue3 的数据存储库
@@ -616,6 +609,14 @@
   - [amp](https://www.ampproject.org/) 来自谷歌
     - [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
   - [mip](https://www.mipengine.org/) 来自百度
+
+### 服务端渲染
+
+- ✭ [next.js](https://github.com/zeit/next.js) ssr框架
+- [reactphp](https://github.com/reactphp/react)
+- [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
+- [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
+- [ssr](https://github.com/zhangyuang/ssr) 同时支持 react 与 vue2/vue3
 
 ### 微信小程序
 
@@ -1140,6 +1141,7 @@
   - [turbo.build](https://turbo.build/)
 - [rollup](http://rollupjs.org/) 适合纯粹js打包
 - [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
+- [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
 
 ### 服务部署环境
 
