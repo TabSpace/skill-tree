@@ -777,6 +777,7 @@
 ### 基础数据操作工具
 
 - [lodash](https://lodash.com/) 更为现代的工具函数库
+- [radash](https://github.com/sodiray/radash) 结合 esm tree shaking 可以替代 lodash
 - [lazy](https://github.com/dtao/lazy.js) 延迟计算的工具函数
 - [collect](https://github.com/ecrmnn/collect.js) 处理 JavaScript 中的数组和对象
 
