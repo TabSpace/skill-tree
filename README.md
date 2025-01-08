@@ -486,8 +486,10 @@
   - [sass用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html) 阮一峰版
   - [sass-compatibility](https://sass-compatibility.github.io/) sass兼容性问题
   - [sass-guidelin](https://sass-guidelin.es/) sass书写风格指导
-- js
-  - [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+  - [tailwindcss 的使用](https://juejin.cn/post/7200782261997338681)
+  - [tailwindcss 使用指南](https://www.cnblogs.com/SRIGT/p/18077515#0x01-%E6%A6%82%E8%BF%B0)
+  - [tailwindcss 中文文档](https://www.tailwindcss.cn/docs/installation)
 
 ### 代码编辑器
 
