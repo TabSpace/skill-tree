@@ -107,6 +107,10 @@
   - [杂项资源](#杂项资源)
   - [外包协作](#外包协作)
   - [科学养生](#科学养生)
+- [AI](#AI)
+  - [通用AI服务](#通用AI服务)
+  - [AI工具](#AI工具)
+  - [AI文章资料](#AI文章资料)
 - [待整理](#待整理)
 
 ------
@@ -864,18 +868,23 @@
 ### 数据可视化
 
 - [数据可视化](https://github.com/showcases/data-visualization) 各种图表工具
-- [d3](https://github.com/d3/d3) 用于制作复杂图表
 - [chart.js](https://github.com/chartjs/Chart.js) 体积小，适合 h5
 - [highcharts](https://github.com/highcharts/highcharts) 开源图表框架，兼容性好
 - [echarts](https://github.com/ecomfe/echarts) 百度推出的图表工具，功能强大，提供了webgl版本
 - [g2](https://github.com/antvis/g2) 蚂蚁金服推出的图表工具
-- [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+- [d3](https://github.com/d3/d3) 用于制作复杂图表
 - [springy](https://github.com/dhotson/springy) 生成点线拓扑图
 - [jsplumb](https://github.com/jsplumb/jsplumb) 流程图绘制
   - [jsplumb中文文档](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
 - [AntV](https://github.com/antvis) 蚂蚁金服 - 数据可视化
 - [AntV/X6](https://github.com/antvis/x6) 图编辑引擎，搭建流程图，逻辑编排
 - [SandDance](https://github.com/microsoft/SandDance) 微软炫酷3D图表
+
+### 文本生成模型
+
+- [mermaid](https://github.com/mermaid-js/mermaid) markdown 生成图表
+- [plantuml](https://github.com/plantuml/plantuml) 生成流程图
+- [d2](https://github.com/terrastruct/d2) turns text to diagrams
 
 ### 路由组件
 
@@ -957,15 +966,6 @@
   - [python-algorithms](https://github.com/TheAlgorithms/Python) Python 算法集合
 - 寻路算法
   - [path-finding](https://github.com/qiao/PathFinding.js)
-- 人工智能
-  - [深度学习阅读路线图](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-  - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
-  - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-  - [deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
-  - [neurojs](https://github.com/janhuenermann/neurojs)
-  - [tensorflow](https://github.com/tensorflow)
-    - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
-  - [convnetjs](https://github.com/karpathy/convnetjs) 深度学习js版本
 - 算法练习与学习
   - [leetcode](https://leetcode.com/) LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
@@ -1279,6 +1279,28 @@
 
 - [练习八段锦](https://www.zhihu.com/question/317868265/answer/1364598959)
 - [人体调优指南](https://github.com/zijie0/HumanSystemOptimization)
+
+## AI
+
+### 通用AI服务
+
+### AI工具
+
+- [vscode AI 插件 cline](https://github.com/cline/cline)
+
+### AI文章资料
+
+- MCP
+  - [MCP：让AI更好地理解你的意图](https://zhuanlan.zhihu.com/p/30862107395)
+- 深度学习
+  - [深度学习阅读路线图](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+  - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+  - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+  - [deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
+  - [neurojs](https://github.com/janhuenermann/neurojs)
+  - [tensorflow](https://github.com/tensorflow)
+    - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+  - [convnetjs](https://github.com/karpathy/convnetjs) 深度学习js版本
 
 ------
 
