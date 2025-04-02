@@ -39,19 +39,23 @@
   - [依赖包管理工具](#依赖包管理工具)
   - [代码预编译](#代码预编译)
   - [代码编辑器](#代码编辑器)
-- [开发](#开发)
-  - [可选择的框架](#可选择的框架)
-  - [jQuery](#jQuery)
-  - [React](#React)
-  - [VUE](#VUE)
-  - [GOOGLE](#GOOGLE)
-  - [微信小程序](#微信小程序)
-  - [客户端开发](#客户端开发)
-  - [桌面应用开发](#桌面应用开发)
-  - [Node开发](#Node开发)
-  - [Deno开发](#Deno开发)
-  - [界面布局](#界面布局)
   - [公共代码仓库](#公共代码仓库)
+- [前端开发](#前端开发)
+  - [可选择的框架](#可选择的框架)
+  - [jQuery](#jquery)
+  - [设计集成](#设计集成)
+  - [React](#react)
+  - [VUE](#vue)
+  - [GOOGLE](#google)
+  - [服务端渲染](#服务端渲染)
+  - [微信小程序](#微信小程序)
+  - [界面布局](#界面布局)
+- [客户端开发](#客户端开发)
+- [桌面应用开发](#桌面应用开发)
+- [后端开发](#后端开发)
+  - [Node开发](#node开发)
+  - [Deno开发](#deno开发)
+  - [go开发](#go开发)
 - [集成](#集成)
   - [微前端](#微前端)
   - [前端安全](#前端安全)
@@ -59,18 +63,17 @@
   - [图标与字体](#图标与字体)
   - [基础数据操作工具](#基础数据操作工具)
   - [开发辅助工具](#开发辅助工具)
-  - [现成UI库](#现成UI库)
+  - [现成UI库](#现成ui库)
   - [多媒体展示](#多媒体展示)
   - [文本编辑器](#文本编辑器)
   - [动画处理](#动画处理)
   - [实用工具库](#实用工具库)
-  - [WebServer](#WebServer)
   - [数据可视化](#数据可视化)
   - [路由组件](#路由组件)
   - [文件上传](#文件上传)
   - [即时通讯](#即时通讯)
-  - [前端工具库使用介绍](#前端工具库使用介绍)
-  - [Node文章](#Node文章)
+  - [前端工具库](#前端工具库)
+  - [Node工具](#node工具)
   - [云服务](#云服务)
   - [开发思想工具库](#开发思想工具库)
   - [算法](#算法)
@@ -98,12 +101,12 @@
   - [静态站搭建](#静态站搭建)
 - [分享](#分享)
   - [代码分享展示](#代码分享展示)
-  - [gif动画录制](#gif动画录制)
+  - [动画录制与分享](#动画录制与分享)
 - [积累](#积累)
   - [前端开发流程经验](#前端开发流程经验)
-  - [Github使用](#Github使用)
+  - [Github使用](#github使用)
   - [awesome系列](#awesome系列)
-  - [配偶DIY](#配偶DIY)
+  - [配偶DIY](#配偶diy)
   - [杂项资源](#杂项资源)
   - [外包协作](#外包协作)
   - [科学养生](#科学养生)
@@ -147,23 +150,44 @@
 
 ### 语言技术栈
 
-- Javascript
+- [Javascript](https://www.javascript.com/)
   - [js版本号的故事](https://huangxuan.me/2015/09/22/js-version/)
   - [JS入门](http://shichuan.github.io/javascript-patterns/)
   - [javascript info](https://javascript.info/) 现代 javascript 教程
-- TypeScript
-  - [TypeScript](https://www.typescriptlang.org/)
+  - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+  - es6
+    - [ECMAScript6入门](http://es6.ruanyifeng.com/)
+- [TypeScript](https://www.typescriptlang.org/)
   - [TypeScript 中文网](https://www.tslang.cn/)
   - [TypeScript 入门教程](https://ts.xcatliu.com/)
   - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
   - [dts-gen](https://github.com/Microsoft/dts-gen) d.ts 自动生成
   - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-- TypeScript 类型体操
-  - [用一个数组来定义类型](https://steveholgado.com/typescript-types-from-arrays/) `[] as const`
-- es6
-  - [ECMAScript6入门](http://es6.ruanyifeng.com/)
-- lua
-  - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
+  - TypeScript 类型体操
+    - [用一个数组来定义类型](https://steveholgado.com/typescript-types-from-arrays/) `[] as const`
+- [Node](https://nodejs.org/en)
+  - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [Deno](https://github.com/denoland/deno)
+  - [国内镜像](https://github.com/denocn/deno_install)
+  - [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
+- shell
+  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
+  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
+- php
+  - [smarty](http://www.smarty.net/)
+  - [php之道](http://wulijun.github.io/php-the-right-way/)
+  - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
+  - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+- [rust](https://www.rust-lang.org/)
+  - [rust 中文站](https://www.rust-lang.org/zh-CN/learn/get-started)
+  - [rust 中文手册](https://kaisery.github.io/trpl-zh-cn/)
+  - [rust 语言圣经 - github](https://github.com/sunface/rust-course)
+    - [rust 语言圣经](https://course.rs/about-book.html)
+  - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  - [cargo 手册](https://doc.rust-lang.org/cargo/index.html)
+  - [rustcc](https://rustcc.cn/) rust 中文社区
 - [go](https://golang.org/)
   - [怎么学习Golang](https://www.zhihu.com/question/23486344)
   - [Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) go 语言学习中文版
@@ -171,34 +195,18 @@
   - [gobyexample](https://gobyexample.com/) go 示例代码
   - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
   - [webgo](http://webgo.io/?reqp=1&reqr=) 学习路由怎么实现
-  - [beego](https://github.com/astaxie/beego) web框架
   - [skynet-archive](https://github.com/skynetservices/skynet-archive) 学习分布式
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) 学习分布式
   - [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
   - [Go Web基础](https://github.com/Unknwon/go-web-foundation)
   - [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
-  - Beego 模块化的web框架
-    - Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
-    - Beego Swagger 代码注释生成 api 在线文档
-  - Termui 跨平台，自适应的UI/Dashboard工具
-  - gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
-  - therecipe/qt 跨平台GUI库
-  - present 幻灯片展示工具
-- php
-  - [smarty](http://www.smarty.net/)
-  - [php之道](http://wulijun.github.io/php-the-right-way/)
-  - [php Socket编程起步](http://www.downcodes.com/info/2009/05/30/20090530-114.html)
-  - [swoole](https://github.com/swoole/swoole-src) 现代 PHP 开发，面向生产环境的 PHP 异步网络通信引擎
+- lua
+  - [lua 入门](https://moonbingbing.gitbooks.io/openresty-best-practices/lua/main.html)
 
 ### linux资料
 
 - linux
   - [linuxtools_rst](https://github.com/me115/linuxtools_rst) 这本书专注于Linux工具的最常用用法
-- shell
-  - [30分钟shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-  - [shell 教程](http://www.runoob.com/linux/linux-shell.html)
-  - ✭ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-  - [shellcheck](https://www.shellcheck.net/) shell 命令在线检查分析，辅助查找 shell 命令的错误
 
 ### 零散知识点
 
@@ -243,7 +251,6 @@
 - [android webapp](https://developer.android.com/guide/webapps/index.html)
 - [渐进式jpeg](http://blog.jobbole.com/44038/)
 - [知乎的模糊预览](https://www.zhihu.com/question/55622930)
-- [webassembly](http://webassembly.org/)
 - [黑魔法](https://github.com/tnfe/awesome-blackmagic)
 - [2022 年的 CSS](https://www.w3cplus.com/css/what-is-new-css-in-2022.html)
 
@@ -311,6 +318,7 @@
     - [svgomg](https://jakearchibald.github.io/svgomg/) svg 在线优化工具
     - [svg-optimiser](https://petercollingridge.appspot.com/svg-optimiser) svg 在线优化
     - [pwa](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
+    - [resvg-js](https://github.com/yisibl/resvg-js?tab=readme-ov-file) svg 渲染为图片，高性能的 SVG 跨端渲染引擎
   - [navigator-share web share](https://developers.google.com/web/updates/2016/10/navigator-share) web分享api
 
 ### 接口访问说明
@@ -377,6 +385,7 @@
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 命令行交互信息收集组件
 - [ascii art](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) 生成命令行艺术字
 - [asciiflow](http://asciiflow.com/) ascii 画图表
+- [carbonyl](https://github.com/fathyb/carbonyl) 命令行渲染一个浏览器
 
 ### 制定开发规范
 
@@ -443,6 +452,9 @@
 - [cutterman 图片裁剪](http://www.cutterman.cn/zh)
 - [canva](https://www.canva.com/) 图片在线编辑
 - [remove.bg](https://www.remove.bg/) 在线抠图
+- [framer](https://www.framer.com/) 大量站点模板
+- [penpot](https://penpot.app/) 面向跨领域团队的开源设计和原型平台
+- [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 
 ### 协作工具
 
@@ -478,8 +490,10 @@
   - [sass用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html) 阮一峰版
   - [sass-compatibility](https://sass-compatibility.github.io/) sass兼容性问题
   - [sass-guidelin](https://sass-guidelin.es/) sass书写风格指导
-- js
-  - [prepack](https://github.com/facebook/prepack) 代码优化，结合webpack与gulp使用
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+  - [tailwindcss 的使用](https://juejin.cn/post/7200782261997338681)
+  - [tailwindcss 使用指南](https://www.cnblogs.com/SRIGT/p/18077515#0x01-%E6%A6%82%E8%BF%B0)
+  - [tailwindcss 中文文档](https://www.tailwindcss.cn/docs/installation)
 
 ### 代码编辑器
 
@@ -497,9 +511,14 @@
     - [循序渐进学习 vim](http://coolshell.cn/articles/5426.html)
   - [Vim快速选中、删除、复制引号或者括号中的内容](https://www.linuxsong.org/2010/09/vim-quick-select-copy-delete/)
 
-## 开发
+### 公共代码仓库
 
-首先需要为业务类型来选择一个技术栈
+- [gitee](https://gitee.com/login) 码云
+- [工蜂](https://git.code.tencent.com) 腾讯云代码托管
+
+## 前端开发
+
+为前端业务来选择一个技术栈
 
 ### 可选择的框架
 
@@ -517,6 +536,14 @@
   - [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪jquery插件
   - [bxslider](https://github.com/stevenwanderski/bxslider-4) 基于jquery的响应式幻灯组件
 
+### 设计集成
+
+- [ant-design](https://github.com/ant-design/ant-design) 阿里系的设计开发工具
+- [arco-design](https://arco.design/) 字节跳动出品的企业级设计系统
+- [semi-design](https://semi.design/) 抖音前端团队，MED 产品设计团队设计、开发并维护的设计系统
+- [tdesign](https://tdesign.tencent.com/) 腾讯系的设计开发工具
+- [hdesign](https://hdesign.huawei.com/) 华为系的设计开发工具
+
 ### React
 
 - [react](https://facebook.github.io/react/)
@@ -527,7 +554,6 @@
   - [create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
     - [create-react-app 中文文档](https://www.html.cn/create-react-app/)
 - UI
-  - [ant-design](https://github.com/ant-design/ant-design)
   - [ant-design-pro](https://github.com/ant-design/ant-design-pro) 里面还包含了脑图编辑，流程编辑
   - [element react](https://github.com/eleme/element-react)
   - [ring-ui](https://github.com/JetBrains/ring-ui) 使用 Typescript 进行开发
@@ -535,9 +561,6 @@
 - 替代品
   - [anu](https://github.com/RubyLouvre/anu)
   - [preact](https://github.com/developit/preact/) 轻量级react
-- ssr
-  - [reactphp](https://github.com/reactphp/react)
-  - ✭ [next.js](https://github.com/zeit/next.js) ssr框架
 - 框架补充
   - [react-router](https://github.com/ReactTraining/react-router)
   - [redux](https://github.com/reactjs/redux) 通用react数据仓库
@@ -561,15 +584,15 @@
 - UI
   - [element ui](https://github.com/ElemeFE/element) 适用于桌面端ie9+
   - [iview](https://github.com/iview/iview) 适合做数据报表
-- ssr
-  - [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
-  - [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
-  - [srr](https://github.com/zhangyuang/ssr) 同时支持 react 与 vue2/vue3
+  - [tdesign-vue](https://github.com/Tencent/tdesign-vue)
+  - [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
+  - [ant-vue](https://antdv.com/components/overview)
+  - [acro-vue](https://arco.design/vue/docs/start)
+  - [hui-vue](https://hdesign.huawei.com/development/HUI-Vue3)
 - 工程
   - [vue-router](https://github.com/vuejs/vue-router) vue 路由
   - [vue-cli](https://github.com/vuejs/vue-cli) vue 项目创建工具
   - [vue-test-utils](https://github.com/vuejs/vue-test-utils) vue ui 测试工具
-  - [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
   - [vitesse](https://github.com/antfu/vitesse) 最受欢迎的 vue3 项目模板
   - [vuex](https://github.com/vuejs/vuex) vue 数据存储
   - [pinia](https://github.com/vuejs/pinia) 适配 vue3 的数据存储库
@@ -577,6 +600,10 @@
   - [jsx-next](https://github.com/vuejs/jsx-next) 用 jsx 编写 vue3 代码
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
+- 集成后台管理
+  - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)
+  - [eladmin](https://github.com/elunez/eladmin)
+  - [d2-admin](https://github.com/d2-projects/d2-admin)
 
 ### GOOGLE
 
@@ -588,6 +615,14 @@
   - [amp](https://www.ampproject.org/) 来自谷歌
     - [amp页面](https://www.ze3kr.com/2016/10/amp-html/amp/)
   - [mip](https://www.mipengine.org/) 来自百度
+
+### 服务端渲染
+
+- ✭ [next.js](https://github.com/zeit/next.js) ssr框架
+- [reactphp](https://github.com/reactphp/react)
+- [vue ssr](https://ssr.vuejs.org/zh/) vue 服务端渲染方案
+- [nuxt](https://github.com/nuxt/nuxt.js) vue 服务端渲染框架
+- [ssr](https://github.com/zhangyuang/ssr) 同时支持 react 与 vue2/vue3
 
 ### 微信小程序
 
@@ -604,16 +639,39 @@
   - [uni-app](https://github.com/dcloudio/uni-app) DCloud推出的多端生成框架，使用者众多
   - [wafer](https://github.com/tencentyun/wafer) 快速构建具备弹性能力的微信小程序
 
-### 客户端开发
+### 界面布局
 
-- [cordova](https://cordova.apache.org/) PhoneGap/Cordova Hybrid App
-- [appcan](http://www.appcan.cn/) 国内 Hybrid App
-- [react-native](https://github.com/facebook/react-native) React 跨平台 app 开发工具
-- [NativeScript](https://github.com/NativeScript/NativeScript) 跨平台 app 开发工具
-- [weex](https://github.com/apache/incubator-weex) vue 跨平台 app 开发工具
-- [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架，来自 Google
+- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [flex bug 列表](https://github.com/philipwalton/flexbugs)
 
-### 桌面应用开发
+### WASM
+
+- [webassembly](http://webassembly.org/)
+  - [wasm 规范](https://webassembly.github.io/spec/core/)
+  - [wasm 中文站](https://wasmdev.cn/)
+  - [wasm-pack](https://rustwasm.github.io/docs/wasm-pack/)
+    - [rustwasm](https://llever.com/rustwasm-book/introduction.zh.html) rust 与 wasm
+- 工具
+  - [js2cpp](https://github.com/fabiosantoscode/js2cpp) JS 代码转换为 C++
+
+## 客户端开发
+
+- JS/TS
+  - [cordova](https://cordova.apache.org/) PhoneGap/Cordova Hybrid App
+  - [appcan](http://www.appcan.cn/) 国内 Hybrid App
+  - [react-native](https://github.com/facebook/react-native) React 跨平台 app 开发工具
+  - [NativeScript](https://github.com/NativeScript/NativeScript) 跨平台 app 开发工具
+  - [weex](https://github.com/apache/incubator-weex) vue 跨平台 app 开发工具
+  - [flutter](https://github.com/flutter/flutter) 基于 Dart 的 app 开发框架，来自 Google
+- ArkTs
+  - [华为开发官网](https://developer.huawei.com/consumer/cn/)
+  - [ArkTs 指南](https://developer.harmonyos.com/cn/docs/documentation/doc-guides-V3/arkts-get-started-0000001504769321-V3?catalogVersion=V3)
+  - [ArkTs API 文档](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/syscap-0000001408089368-V3?catalogVersion=V3)
+  - [ArkTs 第三方资源汇总](https://gitee.com/openharmony-tpc/tpc_resource?_from=gitee_search)
+  - [ohpm 仓库](https://ohpm.openharmony.cn/#/cn/home) 依赖包管理
+  - [华为开发者论坛](https://developer.huawei.com/consumer/cn/forum/)
+
+## 桌面应用开发
 
 - [electron](https://github.com/electron/electron) 构建桌面app
   - [electron-vue](https://github.com/SimulatedGREG/electron-vue) 基于vue框架的electron应用
@@ -621,37 +679,66 @@
   - [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
   - [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
 
+## 后端开发
+
 ### Node开发
 
-- [thinkjs](https://github.com/thinkjs/thinkjs)
-- [koa](https://github.com/koajs/koa) 现代 node 框架
-- [express](http://expressjs.com/zh-cn/)
-  - [express中文文档](http://expressjs.jser.us/)
-  - [helmet](https://github.com/helmetjs/helmet) 安全中间件
-  - [cors](https://github.com/expressjs/cors) 中间件
-- [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
-- [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
-- [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+- 框架
+  - [koa](https://github.com/koajs/koa) 现代 node 框架
+  - [express](http://expressjs.com/zh-cn/)
+    - [express中文文档](http://expressjs.jser.us/)
+    - [helmet](https://github.com/helmetjs/helmet) 安全中间件
+    - [cors](https://github.com/expressjs/cors) 中间件
+  - [egg](https://github.com/eggjs/egg) 基于koa2的上层封装，企业级nodejs框架
+  - [daruk](https://github.com/darukjs/daruk) 基于 koa2 轻量封装，ts 开发 node
+  - [midway](https://github.com/midwayjs/midway) 面向未来的云端一体化 node 框架
+  - [nest](https://github.com/nestjs/nest) 用于构建高效且可伸缩的服务端应用程序的渐进式 Node.js 框架
+  - [adonisjs](https://github.com/adonisjs/core) typescript 优先的 node 框架
+- 数据库
+  - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
+  - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
+  - [kysely](https://github.com/kysely-org/kysely) 基于 ts 类型安全的 sql 查询库, inspired by knex, 可以在 deno 环境执行
+  - [sequelize](https://github.com/sequelize/sequelize) 老牌 ORM
+  - [prisma](https://github.com/prisma/prisma) TypeScript 生态类型安全 ORM
+  - [mongoose](https://github.com/Automattic/mongoose) MongoDB 数据库 Node ORM
+  - [knex](https://github.com/knex/knex) 为 PostgreSQL，CockroachDB，MSSQL，MySQL，MariaDB，SQLite3，Better-SQLite3，Oracle和Amazon Redshift设计的SQL查询构建器
+  - [objection](https://github.com/vincit/objection.js) SQL 友好型 ORM
+  - [ali-mysql-client](https://github.com/liuhuisheng/ali-mysql-client) 优雅的数据库 api
+- Redis
+  - [redis](https://github.com/redis/node-redis) 连接 redis
+- IO
+  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
+- 接口设计
+  - [graphql](https://github.com/graphql) facebook 推出的接口封装工具
+    - [graphql-js](https://github.com/graphql/graphql-js) js版实现
+  - [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
+- 模板引擎
+  - [ejs](https://github.com/mde/ejs)
+  - [pug](https://pugjs.org/)
+    - [pug-loader](https://github.com/pugjs/pug-loader)
+- 日志
+  - [winston](https://github.com/winstonjs/winston) 日志管理
+  - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
+  - [rsyslog](https://www.rsyslog.com/)
+    - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
+    - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
 
 ### Deno开发
 
-- [Deno](https://github.com/denoland/deno)
-  - [国内镜像](https://github.com/denocn/deno_install)
-  - [Deno中文文档](https://nugine.github.io/deno-manual-cn/introduction.html)
 - [denon](https://github.com/denosaurs/denon) 监听文件变更的常驻进程
 - [velociraptor](https://github.com/umbopepato/velociraptor) 启动脚本配置化
 - [oak](https://github.com/oakserver/oak) deno 上的 koa 框架
 - [pagic](https://github.com/xcatliu/pagic) 基于 deno 和 react 的静态发布站
 
-### 界面布局
+### go开发
 
-- [flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-- [flex bug 列表](https://github.com/philipwalton/flexbugs)
-
-### 公共代码仓库
-
-- [gitee](https://gitee.com/login) 码云
-- [工蜂](https://git.code.tencent.com) 腾讯云代码托管
+- [beego](https://github.com/astaxie/beego) web框架
+  - Bee 脚手架工具，支持项目结构生成，热编译，打包，版本升级，容器化
+  - Beego Swagger 代码注释生成 api 在线文档
+- Termui 跨平台，自适应的UI/Dashboard工具
+- gomobile 在移动平台使用和构建 Go 的一套工具集，做原生应用
+- therecipe/qt 跨平台GUI库
+- present 幻灯片展示工具
 
 ## 集成
 
@@ -696,6 +783,7 @@
 ### 基础数据操作工具
 
 - [lodash](https://lodash.com/) 更为现代的工具函数库
+- [radash](https://github.com/sodiray/radash) 结合 esm tree shaking 可以替代 lodash
 - [lazy](https://github.com/dtao/lazy.js) 延迟计算的工具函数
 - [collect](https://github.com/ecrmnn/collect.js) 处理 JavaScript 中的数组和对象
 
@@ -828,6 +916,9 @@
   - [math.js](https://github.com/josdejong/mathjs) 简化数学计算
   - [gl-matrix](https://github.com/toji/gl-matrix) 矩阵计算，3d场景常用
   - [chancejs](https://github.com/chancejs/chancejs) 生成随机数据
+- 格式校验
+  - [zod](https://github.com/colinhacks/zod) Zod 是一个以 TypeScript 为首的模式声明和验证库。
+  - [yup](https://github.com/jquense/yup) yup 是一个专为运行时解析和验证值而设计的模式构造器。
 - 算法
   - [lz-string](https://github.com/pieroxy/lz-string) 基于lz的JavaScript压缩算法
 - [qrcode](https://github.com/sylnsfar/qrcode) 二维码
@@ -840,30 +931,6 @@
 - [minimatch](https://github.com/isaacs/minimatch) 文件路径匹配
 - [js-cookie](https://github.com/js-cookie/js-cookie)
 - [step](https://github.com/creationix/step) 流程控制
-
-### WebServer
-
-- 数据库
-  - [typeorm](https://github.com/typeorm/typeorm) typescript 形式的数据库 ORM
-  - [sharedb](https://github.com/share/sharedb) 用于解决多人编辑问题的数据库
-- Redis
-  - [redis](https://github.com/redis/node-redis) 连接 redis
-- IO
-  - [node-fetch](https://github.com/node-fetch/node-fetch) fetch 的 node 版本
-- 接口设计
-  - [graphql](https://github.com/graphql) facebook 推出的接口封装工具
-    - [graphql-js](https://github.com/graphql/graphql-js) js版实现
-  - [APIJSON](https://github.com/Tencent/APIJSON/) 腾讯开源的接口开发工具
-- 模板引擎
-  - [ejs](https://github.com/mde/ejs)
-  - [pug](https://pugjs.org/)
-    - [pug-loader](https://github.com/pugjs/pug-loader)
-- 日志
-  - [winston](https://github.com/winstonjs/winston) 日志管理
-  - [file-stream-rotator](https://github.com/rogerc/file-stream-rotator/) 文件循环，可以用来做日志循环
-  - [rsyslog](https://www.rsyslog.com/)
-    - [日志管理Rsyslog](https://www.jianshu.com/p/e129ed893362)
-    - [rsyslogd服务器及负载均衡](http://xstarcd.github.io/wiki/Linux/rsyslog_logrotate.html)
 
 ### 数据可视化
 
@@ -902,7 +969,7 @@
 - [websockets/ws](https://github.com/websockets/ws) 性能更好的 websocket 库
 - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) 另一款 Node websocket 的实现
 
-### 前端工具库使用介绍
+### 前端工具库
 
 - [PxLoader](https://github.com/thinkpixellab/PxLoader) 用于实现各种资源加载中状态
 - [masonry](https://github.com/desandro/masonry) 瀑布流快速实现
@@ -917,7 +984,7 @@
 - [twemoji](https://github.com/twitter/twemoji) 实现 Emoji 展示
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 实现声音波形图渲染
 
-### Node文章
+### Node工具
 
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
 - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) opencv node 版，人脸识别，智能识别
@@ -1073,8 +1140,11 @@
     - [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
     - [webpack指南](https://www.gitbook.com/book/toobug/webpack-guide/details)
     - [webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
+- [turbopack](https://github.com/vercel/turborepo) 一个用Rust编写的JavaScript和TypeScript代码库的高性能构建系统
+  - [turbo.build](https://turbo.build/)
 - [rollup](http://rollupjs.org/) 适合纯粹js打包
 - [parcel](https://github.com/parcel-bundler/parcel) 配置简单易上手
+- [vite](https://github.com/vitejs/vite) vue3 推荐构建工具
 
 ### 服务部署环境
 
@@ -1164,6 +1234,8 @@
 - 代码高亮
   - [prism](https://github.com/PrismJS/prism) 实现代码高亮
   - [highlight](https://github.com/highlightjs/highlight.js) 老牌代码高亮工具
+- 徽章生成
+  - [shields](https://shields.io/) 自定义徽章
 
 ### 静态站搭建
 
@@ -1196,17 +1268,26 @@
 - [sololearn](https://www.sololearn.com/) SoloLearn是一个在线游乐场，可让你测试HTML，CSS和JavaScript代码
 - [jsrun](https://jsrun.net/) 国内版 codepen，访问速度快
 
-### gif动画录制
+### 动画录制与分享
 
 - [asciinema](https://asciinema.org/) 终端命令行录制工具
 - [repl](https://repl.it/) 在线开源交互执行平台，可以演示在服务端运行的代码，jest在用
 - [licecap](https://www.cockos.com/licecap/) 屏幕操作录制 gif
+- [ScreenStudio](https://screen.studio/)
+- FocuSee(Mac)
+
+### 公共资源
+
+- [精灵宝可梦开放数据](https://pokeapi.co/)
 
 ## 积累
 
 ### 前端开发流程经验
 
 - [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
+- 权限控制
+  - [详细了解RBAC（Role-Based Access Control）](https://zhuanlan.zhihu.com/p/513142061) 权限控制经典模型
+  - [图解-JWT实现用户权限验证体系](https://bbs.huaweicloud.com/blogs/245946)
 
 ### Github使用
 
@@ -1234,6 +1315,7 @@
   - [feathub](https://feathub.com/) 特性投票
   - [probot](https://github.com/probot/probot) 搭建Github机器人
   - [issuehunt](https://issuehunt.io/) issue赏金，金钱奖励开源支持者
+  - [camo](https://github.com/atmos/camo) 文件资源路径转换
 - Github 开源指南
   - [开源指南](https://github.com/github/opensource.guide) 英文原版
   - [开源指南中文版](https://ocselected.github.io/open-source-guide/)
@@ -1247,8 +1329,6 @@
 
 - [awesome](https://github.com/sindresorhus/awesome) 资源集合
 - [awesome](https://github.com/search?o=desc&q=awesome&s=stars&type=Repositories&utf8=%E2%9C%93) 各类资源集合
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序
 
 ### 配偶DIY
@@ -1268,7 +1348,6 @@
 
 - [30-seconds](https://github.com/30-seconds) 30秒学点东西
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
-- [dribbble](https://dribbble.com/) 前端体验设计中心，寻找体验优化灵感
 - [MacOS下Idea中svn无法保存密码的解决办法](https://www.jianshu.com/p/ffa517f4fdb9)
 
 ### 外包协作
