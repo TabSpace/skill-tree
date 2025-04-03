@@ -600,6 +600,8 @@
   - [jsx-next](https://github.com/vuejs/jsx-next) 用 jsx 编写 vue3 代码
 - other
   - [vuido](https://github.com/mimecorg/vuido) 用 vue 构建桌面应用
+  - [inspira-ui](https://github.com/unovue/inspira-ui) 基于 vue3 的前端动效组件库
+    - [太炫了！首个专属于 Vue3 的动效组件库！](https://mp.weixin.qq.com/s/9dvYkc7SI2MnlXXuZ-rK_w)
 - 集成后台管理
   - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)
   - [eladmin](https://github.com/elunez/eladmin)
@@ -1363,9 +1365,18 @@
 
 ### 通用AI服务
 
+- [deepseek](https://chat.deepseek.com/)
+- [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)
+- [豆包](https://www.doubao.com/chat/)
+- [通义千问](https://tongyi.aliyun.com/)
+- [百度文心一言](https://yiyan.baidu.com/)
+- [月之暗面 KIMI](https://kimi.moonshot.cn/)
+
 ### AI工具
 
 - [vscode AI 插件 cline](https://github.com/cline/cline)
+- [字节 扣子](https://www.coze.cn/)
+- [腾讯 ima](https://ima.qq.com/) 会思考的知识库
 
 ### AI文章资料
 
