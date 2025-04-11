@@ -1378,10 +1378,18 @@
 - [字节 扣子](https://www.coze.cn/)
 - [腾讯 ima](https://ima.qq.com/) 会思考的知识库
 
+### AI 开源库
+
+- [DUIX](https://github.com/GuijiAI/duix.ai) 数字人交互引擎
+- [HeyGem](https://github.com/GuijiAI/HeyGem.ai)
+- [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) 开源的文本到语音系统
+- [LangManus](https://github.com/langmanus/langmanus) 社区驱动的 AI 自动化框架
+- [walle-web](https://github.com/meolu/walle-web) AI 助手，个性化定制知识库
+
 ### AI文章资料
 
 - MCP
-  - [MCP：让AI更好地理解你的意图](https://zhuanlan.zhihu.com/p/30862107395)
+  - [MCP: 让AI更好地理解你的意图](https://zhuanlan.zhihu.com/p/30862107395)
 - 深度学习
   - [深度学习阅读路线图](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
   - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
