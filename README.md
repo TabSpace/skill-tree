@@ -419,6 +419,7 @@
   - [git pro 中文](https://sandwind.gitbooks.io/git-pro-cn/content/index.html)
   - [nodegit](https://github.com/nodegit/nodegit) git操作的node封装
   - [gitmoji](https://gitmoji.carloscuesta.me/) git日志图标
+  - [git-cz](https://cz-git.qbb.sh/zh/) git 规范化提交
 - svn
   - [tortoise svn](https://tortoisesvn.net/index.zh.html)
     - [TortoiseSVN中文帮助手册](http://svndoc.iusesvn.com/tsvn/1.4/index.html)
