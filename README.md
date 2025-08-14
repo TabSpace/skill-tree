@@ -114,6 +114,7 @@
   - [通用AI服务](#通用AI服务)
   - [AI工具](#AI工具)
   - [AI文章资料](#AI文章资料)
+- [现代开发环境整备](#现代开发环境整备)
 - [待整理](#待整理)
 
 ------
@@ -499,7 +500,6 @@
 ### 代码编辑器
 
 - ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
-  - Beautify, Prettier 美化代码
   - Debugger for Chrome 配合 chrome 控制台进行代码调试
   - Eslint, markdownlint, TSLint 检查代码规范
   - Vetur vue开发支持
@@ -1157,6 +1157,7 @@
 - [nginx](https://nginx.org/en/)
 - [localtunnel](https://github.com/localtunnel/localtunnel) 将本地服务暴露到公网
 - [cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework) 腾讯云开发
+- [mkcert](https://github.com/FiloSottile/mkcert) 一键 https 部署
 
 ### 持续集成
 
@@ -1287,7 +1288,6 @@
 
 ### 前端开发流程经验
 
-- [前端研发生态环境构建经验谈](http://www.csdn.net/article/2014-03-19/2818831)
 - 权限控制
   - [详细了解RBAC（Role-Based Access Control）](https://zhuanlan.zhihu.com/p/513142061) 权限控制经典模型
   - [图解-JWT实现用户权限验证体系](https://bbs.huaweicloud.com/blogs/245946)
@@ -1400,6 +1400,57 @@
   - [tensorflow](https://github.com/tensorflow)
     - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
   - [convnetjs](https://github.com/karpathy/convnetjs) 深度学习js版本
+
+------
+
+## 现代开发环境整备
+
+- 代码编辑器
+  - ✭ [vscode](https://github.com/Microsoft/vscode) 插件无需翻墙就能下载，整体功能对现代前端开发十分友好
+    - 插件
+      - EditorConfig for VS Code
+      - Sublime Text Keymap and Settings Importer 支持使用 Sublime 的快捷键操作编辑器
+      - npm intellisense
+      - MinifyAll
+      - markdownlint
+      - GitLens
+      - GitHub Actions
+      - Eslint, markdownlint, TSLint 检查代码规范
+      - Stylelint
+      - Debugger for Chrome 配合 chrome 控制台进行代码调试
+      - Vetur vue开发支持
+    - AI
+      - Trae AI
+      - CodeBuddy
+      - GitHub Copilot
+      - [vscode AI 插件 cline](https://github.com/cline/cline)
+- 命令行
+  - [HomeBrew](https://brew.sh/)
+  - [Oh My ZSH](http://ohmyz.sh/) 命令行操作增强
+  - [thefuck](https://github.com/nvbn/thefuck) 调教命令行
+  - [node](https://nodejs.cn/download/)
+  - [rust](https://www.rust-lang.org/)
+  - [deno](https://deno.com/)
+  - [gitbash](https://git-scm.com/)
+  - [gitmoji](https://gitmoji.carloscuesta.me/) git日志图标
+  - [git-cz](https://cz-git.qbb.sh/zh/) git 规范化提交
+  - [vim 配置](https://cloud.tencent.com/developer/article/2038154) vim 配置方案
+- 框架
+  - [vue3](https://v3.vuejs.org/)
+  - [react](https://facebook.github.io/react/)
+  - [next.js](https://github.com/zeit/next.js) ssr框架
+  - [less](http://www.lesscss.net/)
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- 服务
+  - [docker](https://www.docker.com/) 容器化
+  - [http-server](https://github.com/http-party/http-server) 静态文件服务器
+  - [mkcert](https://github.com/FiloSottile/mkcert) 一键 https 部署
+- 自动化
+  - [zx](https://github.com/google/zx) js 方式，实现命令行脚本
+- 示例数据
+  - [精灵宝可梦开放数据](https://pokeapi.co/)
+- 监控
+  - [rum](https://cloud.tencent.com/product/rum) 腾讯前端监控
 
 ------
 
