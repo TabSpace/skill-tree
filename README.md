@@ -110,10 +110,11 @@
   - [杂项资源](#杂项资源)
   - [外包协作](#外包协作)
   - [科学养生](#科学养生)
-- [AI](#AI)
-  - [通用AI服务](#通用AI服务)
-  - [AI工具](#AI工具)
-  - [AI文章资料](#AI文章资料)
+- [ai](#ai)
+  - [通用ai服务](#通用ai服务)
+  - [ai工具](#ai工具)
+  - [ai开源库](#ai开源库)
+  - [ai文章资料](#ai文章资料)
 - [现代开发环境整备](#现代开发环境整备)
 - [待整理](#待整理)
 
@@ -1362,9 +1363,13 @@
 - [练习八段锦](https://www.zhihu.com/question/317868265/answer/1364598959)
 - [人体调优指南](https://github.com/zijie0/HumanSystemOptimization)
 
-## AI
+## ai
 
-### 通用AI服务
+### 方案指导
+
+- [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) 与 AI 结对编程的工作流程
+
+### 通用ai服务
 
 - [deepseek](https://chat.deepseek.com/)
 - [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)
@@ -1373,13 +1378,14 @@
 - [百度文心一言](https://yiyan.baidu.com/)
 - [月之暗面 KIMI](https://kimi.moonshot.cn/)
 
-### AI工具
+### ai工具
 
 - [vscode AI 插件 cline](https://github.com/cline/cline)
 - [字节 扣子](https://www.coze.cn/)
 - [腾讯 ima](https://ima.qq.com/) 会思考的知识库
+- [opencode](https://github.com/anomalyco/opencode) 替代 claude code
 
-### AI 开源库
+### ai开源库
 
 - [DUIX](https://github.com/GuijiAI/duix.ai) 数字人交互引擎
 - [HeyGem](https://github.com/GuijiAI/HeyGem.ai)
@@ -1387,7 +1393,7 @@
 - [LangManus](https://github.com/langmanus/langmanus) 社区驱动的 AI 自动化框架
 - [walle-web](https://github.com/meolu/walle-web) AI 助手，个性化定制知识库
 
-### AI文章资料
+### ai文章资料
 
 - MCP
   - [MCP: 让AI更好地理解你的意图](https://zhuanlan.zhihu.com/p/30862107395)
