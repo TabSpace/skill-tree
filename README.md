@@ -52,6 +52,9 @@
   - [界面布局](#界面布局)
 - [客户端开发](#客户端开发)
 - [桌面应用开发](#桌面应用开发)
+- [游戏开发](#游戏开发)
+  - [游戏素材](#游戏素材)
+  - [游戏开发工具](#游戏开发工具)
 - [后端开发](#后端开发)
   - [Node开发](#node开发)
   - [Deno开发](#deno开发)
@@ -682,6 +685,19 @@
 - [node-webkit](https://github.com/nwjs/nw.js/)
   - [nw-cn](http://nwjs-cn.readthedocs.io/zh_CN/latest/index.html) nw 中文文档
   - [nw 中文教程](https://wizardforcel.gitbooks.io/nwjs-doc/content/wiki/index.html)
+
+## 游戏开发
+
+### 游戏素材
+
+- [image-fx](https://labs.google/fx/tools/image-fx) 生成游戏 UI，像素风，帧动画
+
+### 游戏开发工具
+
+- [spine](https://zh.esotericsoftware.com/) 2d 游戏动画
+- [mixamo](https://www.mixamo.com/#/) 3d 角色自动绑定 + 动作库
+- [rpgmaker](https://rpgmakerofficial.com/en/) rpg 游戏制作工具
+  - [一文带你看懂RPG Maker各版本功能与差异](https://juejin.cn/post/7467586762304782376)
 
 ## 后端开发
 
