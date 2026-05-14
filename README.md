@@ -691,6 +691,10 @@
 ### 游戏素材
 
 - [image-fx](https://labs.google/fx/tools/image-fx) 生成游戏 UI，像素风，帧动画
+- [megascans](https://quixel.com/megascans) 提供高质量 3D 模型加 PBR 材质加贴图的素材网站，写实风格
+- [kenney](https://www.kenney.nl/) 高质量免费游戏素材
+- [svgrepo](https://www.svgrepo.com/) svg 图标资源
+- [pixabay](https://pixabay.com/?utm_source=moge.ai) 免费音乐和音效
 
 ### 游戏开发工具
 
