@@ -2,6 +2,10 @@
 
 按照游戏开发的流程，将相关资料整合到这里
 
+## 教程
+
+- [AI开发游戏全工具链](https://www.bilibili.com/video/BV1mjME6XExa/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=cf9ead378e238490fe4550ad30143fc2)
+
 ## 游戏素材
 
 - [image-fx](https://labs.google/fx/tools/image-fx) 生成游戏 UI，像素风，帧动画
