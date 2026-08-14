@@ -6,6 +6,10 @@
 
 ## 教程
 
+## 总体服务
+
+- [flova](https://flova.tv/zh-CN/) AI 视频创作 Agent
+
 ## 语音
 
 - ✭ [vuilabs](http://vuilabs.cn/) VUI Labs 提供面向真实语音场景的 Agent 能力
