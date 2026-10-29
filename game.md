@@ -23,7 +23,7 @@
 
 ## 开发
 
-- [rea](https://github.com/morluto/rea) 逆向工程
+- [rea](https://github.com/morluto/rea) 逆向工程，逆向一切
 
 ## 部署
 

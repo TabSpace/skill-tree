@@ -1402,8 +1402,12 @@
 
 - [vscode AI 插件 cline](https://github.com/cline/cline)
 - [字节 扣子](https://www.coze.cn/)
+- [豆包工作](https://www.doubao.com/work) 豆包类 Claw Agent
+- [workbuddy](https://www.workbuddy.cn/) 腾讯类 Claw Agent
 - [腾讯 ima](https://ima.qq.com/) 会思考的知识库
 - [opencode](https://github.com/anomalyco/opencode) 替代 claude code
+- [rea](https://github.com/morluto/rea) 逆向工程，逆向一切
+- [harness](https://github.com/deepseek-ai/deepseek-harness) deepseek Agent 平台
 
 ### ai开源库
 
